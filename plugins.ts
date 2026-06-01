@@ -3,6 +3,7 @@ import type { Plugin } from 'payload'
 import { nestedDocsPlugin } from '@payloadcms/plugin-nested-docs'
 import { formBuilderPlugin } from '@payloadcms/plugin-form-builder'
 import { searchPlugin } from '@payloadcms/plugin-search'
+import { vercelBlobStorage } from '@payloadcms/storage-vercel-blob'
 
 import {
   ACTUALITE_SLUG,
@@ -122,6 +123,22 @@ export const plugins: Plugin[] = [
         group: 'Administration',
       },
     },
+  }),
+
+  /**
+   * VERCEL BLOB STORAGE — médias hors disque local. Sur Vercel le système de
+   * fichiers est en lecture seule / éphémère : les fichiers écrits par le upload
+   * Payload (staticDir `./media`) seraient perdus à chaque invocation. On bascule
+   * donc le stockage de la collection `media` vers Vercel Blob dès que le jeton
+   * `BLOB_READ_WRITE_TOKEN` est présent. En local (jeton absent) on garde le
+   * disque (`./media`) — `enabled: false` ne touche pas au comportement existant.
+   * Note ADR-0003 : en cible un objet S3 souverain remplacera ce plugin par
+   * `@payloadcms/storage-s3`, sans changer la collection.
+   */
+  vercelBlobStorage({
+    enabled: Boolean(process.env.BLOB_READ_WRITE_TOKEN),
+    collections: { [MEDIA_SLUG]: true },
+    token: process.env.BLOB_READ_WRITE_TOKEN ?? '',
   }),
 ]
 

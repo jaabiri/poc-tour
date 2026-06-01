@@ -178,7 +178,15 @@ export default buildConfig({
   db: sqliteAdapter({
     client: {
       url: process.env.DATABASE_URI || 'file:./poc.db',
+      // Auth token for a hosted libSQL/Turso database (required on Vercel — the
+      // serverless filesystem is read-only/ephemeral, so a local `file:` DB does
+      // not persist). Unset for a local `file:` URL.
+      authToken: process.env.DATABASE_AUTH_TOKEN,
     },
+    // Apply committed migrations (./migrations) instead of dev "push" when not in
+    // dev. On Vercel the build runs `payload migrate` (see vercel.json) so a fresh
+    // Turso database gets its schema before the app serves traffic.
+    push: process.env.NODE_ENV !== 'production',
   }),
   sharp,
 })

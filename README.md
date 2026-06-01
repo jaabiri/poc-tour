@@ -57,6 +57,56 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Vercel runs on a **serverless, read-only/ephemeral filesystem**, so the two
+defaults used locally do **not** work in production and must be swapped for
+hosted services:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Local (dev)              | Vercel (prod)                          |
+| ------------------------ | -------------------------------------- |
+| SQLite file `./poc.db`   | **Turso** hosted libSQL (`libsql://…`) |
+| Uploads on disk `./media`| **Vercel Blob** store                  |
+
+The repo is already wired for both — `payload.config.ts` reads
+`DATABASE_AUTH_TOKEN`, `plugins.ts` enables Vercel Blob when
+`BLOB_READ_WRITE_TOKEN` is set, and [`vercel.json`](./vercel.json) runs
+`payload migrate` before the build so a fresh database gets its schema.
+
+### 1. Create a Turso database
+
+```bash
+# https://docs.turso.tech/quickstart
+turso db create poc-tour
+turso db show poc-tour --url           # → libsql://poc-tour-<org>.turso.io
+turso db tokens create poc-tour        # → the auth token
+```
+
+### 2. Add a Vercel Blob store
+
+In the Vercel dashboard: **Storage → Create → Blob**, then link it to the
+project. Vercel injects `BLOB_READ_WRITE_TOKEN` automatically.
+
+### 3. Set the project Environment Variables (Vercel → Settings → Environment Variables)
+
+```
+DATABASE_URI=libsql://poc-tour-<org>.turso.io
+DATABASE_AUTH_TOKEN=<token from turso db tokens create>
+PAYLOAD_SECRET=<a strong random value>
+PREVIEW_SECRET=<a strong random value>
+NEXT_PUBLIC_SERVER_URL=https://<your-app>.vercel.app
+# BLOB_READ_WRITE_TOKEN is added automatically when you link the Blob store
+```
+
+### 4. Deploy
+
+Push to GitHub and import the repo in Vercel. The build command
+(`pnpm payload migrate && pnpm build`) creates the Turso schema, then builds.
+
+### 5. Seed the production database (once, from your machine)
+
+```bash
+DATABASE_URI="libsql://poc-tour-<org>.turso.io" \
+DATABASE_AUTH_TOKEN="<token>" \
+pnpm db:seed
+```
+
+Then create your real admin user at `https://<your-app>.vercel.app/admin`.
