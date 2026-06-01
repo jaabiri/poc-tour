@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useSyncExternalStore } from "react";
 import { Icon } from "@/components/ui";
 
 /**
@@ -35,33 +35,44 @@ function applyContrast(on: boolean) {
   } catch {}
 }
 
-/** Lit l'état déjà appliqué sur <html> par le script inline (pré-hydratation). */
-function readInitialFontIdx(): number {
-  if (typeof document === "undefined") return 0;
-  const f = document.documentElement.dataset.font as FontLevel | undefined;
-  return f ? FONT_LEVELS.indexOf(f) : 0;
+/**
+ * Le store externe est le dataset de <html>, déjà réglé par le script inline
+ * du <head> avant l'hydratation. On s'y abonne via useSyncExternalStore : le
+ * snapshot serveur (valeurs par défaut) sert aussi au premier rendu client, ce
+ * qui garantit la correspondance d'hydratation, puis React relit le DOM réel et
+ * re-rend après hydratation. Aucun mismatch, aucun clignotement.
+ */
+function subscribe(callback: () => void) {
+  const observer = new MutationObserver(callback);
+  observer.observe(document.documentElement, {
+    attributes: true,
+    attributeFilter: ["data-font", "data-contrast"],
+  });
+  return () => observer.disconnect();
 }
-function readInitialContrast(): boolean {
-  if (typeof document === "undefined") return false;
-  return document.documentElement.dataset.contrast === "more";
-}
+
+const getFontSnapshot = (): FontLevel =>
+  (document.documentElement.dataset.font as FontLevel) ?? "";
+const getContrastSnapshot = (): boolean =>
+  document.documentElement.dataset.contrast === "more";
+
+// Snapshots serveur (= état par défaut, identique au HTML rendu côté serveur).
+const getServerFont = (): FontLevel => "";
+const getServerContrast = (): boolean => false;
 
 export function AccessibilityBar() {
-  // Initialisé depuis le DOM (déjà réglé par le script inline du <head>),
-  // ce qui évite un setState synchrone dans un effet et tout clignotement.
-  const [fontIdx, setFontIdx] = useState(readInitialFontIdx);
-  const [contrast, setContrast] = useState(readInitialContrast);
+  const fontLevel = useSyncExternalStore(subscribe, getFontSnapshot, getServerFont);
+  const contrast = useSyncExternalStore(subscribe, getContrastSnapshot, getServerContrast);
+  const fontIdx = FONT_LEVELS.indexOf(fontLevel);
 
+  // Les setters mutent le dataset de <html> ; le MutationObserver déclenche le re-rendu.
   const setFont = (idx: number) => {
     const clamped = Math.max(0, Math.min(FONT_LEVELS.length - 1, idx));
-    setFontIdx(clamped);
     applyFont(FONT_LEVELS[clamped]);
   };
 
   const toggleContrast = () => {
-    const next = !contrast;
-    setContrast(next);
-    applyContrast(next);
+    applyContrast(!contrast);
   };
 
   const btn =

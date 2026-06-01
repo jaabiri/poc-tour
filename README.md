@@ -1,24 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Portail **Touraine — Le Département** : POC [Payload CMS](https://payloadcms.com) (SQLite/libSQL) + [Next.js](https://nextjs.org) App Router.
 
-## Getting Started
+## Getting Started (fresh clone)
 
-First, run the development server:
+The database (`poc.db`) and the uploaded images (`/media`) are **git-ignored** — they
+are **not** in the repo. After cloning you must run the seed once: it creates the
+database and **(re)generates every image** from the assets in `public/` plus a few
+banners/PDFs built on the fly with `sharp`. Skipping this step is why you'd see
+`500 — File … is missing on the disk` on pages with images.
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+# 1. install deps
+pnpm install            # or npm install
+
+# 2. env — copy the example (DATABASE_URI=file:./poc.db, etc.)
+cp .env.example .env
+
+# 3. seed the DB, populate /media with all images, and add demo content  ← required for images to render
+pnpm db:seed
+
+# 4. run the dev server
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The seed also adds 8 demo actualités (`zz-demo-*`) so the « Toutes les actus »
+listing paginates out of the box. Remove them with:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+pnpm payload run ./scripts/add-demo-actus.ts --clean
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open [http://localhost:3000](http://localhost:3000) (front-office) or
+[http://localhost:3000/admin](http://localhost:3000/admin) (Payload admin).
+
+`pnpm db:seed` is **idempotent**: it wipes the seeded rows *and* the `/media`
+folder, then rebuilds both — so you can re-run it any time to get a clean,
+fully-rendering dataset. (Wiping `/media` first keeps upload filenames stable;
+otherwise Payload appends `-2` to colliding names, e.g. `hero-touraine-2.jpg`.)
+
+## Seeded logins
+
+Seeded logins (dev password `ChangeMe-2026!`) that demonstrate the ABAC:
+
+- `admin@touraine.fr` — Administrateur principal (full)
+- `sport@touraine.fr` — Contributeur autonome (canPublish → self-publishes Sport)
+- `enfance@touraine.fr` — Contributeur (must submit *en attente de validation*)
+- `valideur@touraine.fr` — Validateur (publishes the Enfance branch)
 
 ## Learn More
 

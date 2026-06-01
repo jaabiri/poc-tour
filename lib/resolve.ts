@@ -70,8 +70,8 @@ export async function resolvePath(
 ): Promise<ResolvedRoute | null> {
   const draft = opts?.draft ?? false
 
-  // 1) The path may be a rubrique node in its own right. In Live Preview we
-  //    resolve the draft so rubrique edits show up in the preview iframe.
+  // 1) The path may be a rubrique node in its own right. Thread `draft` so Live
+  //    Preview resolves the unpublished rubrique version, not the published one.
   const rubrique = await findRubriqueByPath(segments, { draft })
   if (rubrique) return { kind: 'rubrique', rubrique }
 

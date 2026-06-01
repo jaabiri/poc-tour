@@ -92,10 +92,10 @@ export const findRubriqueByPath = async (
   path: string[] | string,
   opts?: { draft?: boolean },
 ): Promise<Rubrique | null> => {
+  const draft = opts?.draft ?? false
   const segments = toSegments(path)
   if (segments.length === 0) return null
 
-  const draft = opts?.draft ?? false
   const leaf = segments[segments.length - 1]
   const payload = await getPayloadClient()
 
@@ -105,11 +105,12 @@ export const findRubriqueByPath = async (
     depth: 2,
     limit: 50,
     pagination: false,
-    // Published structure by default. In Live Preview (`draft: true`) we resolve
-    // the latest draft instead, so edits to a rubrique are reflected in the
-    // preview iframe; `overrideAccess` lets unpublished drafts resolve without a
-    // `user` on `req` (same pattern as the content lookup in lib/resolve.ts).
+    // Public front-office reads published structure only; Live Preview passes
+    // `draft: true` so unpublished rubrique edits (title, landing blocks,
+    // template, visibility, order) resolve in the preview iframe.
     draft,
+    // In draft mode the request carries no `user`, so front-office `read` access
+    // (visible-only) would hide a not-yet-visible draft; override it for preview.
     overrideAccess: draft ? true : undefined,
   })
 

@@ -19,6 +19,7 @@
 
 import { getPayload } from 'payload'
 import type { Payload, Where } from 'payload'
+import fs from 'node:fs'
 import path from 'node:path'
 import sharp from 'sharp'
 
@@ -34,6 +35,8 @@ import newsletterJson from './data/newsletter.json'
 
 import { RUBRIQUE_CONTENT } from './data/rubriques-content'
 import type { RubriqueContent, RelatedLink as CatRelatedLink } from './data/rubriques-content'
+
+import { addDemoActus } from './scripts/add-demo-actus'
 
 /* -------------------------------------------------------------------------- */
 /*  Small helpers                                                             */
@@ -611,6 +614,15 @@ const wipe = async (payload: Payload): Promise<void> => {
   await truncate('form-submissions')
   await truncate('formulaire')
   await truncate('media')
+  // Clear the on-disk upload folder too. `truncate('media')` only removes the DB
+  // rows; the files persist, so a second seed run would collide on the original
+  // names and Payload would append `-2` (→ `hero-touraine-2.jpg`) — and a later
+  // cleanup of /media then leaves the DB pointing at files that no longer exist
+  // (the 500 « File … is missing on the disk »). Wiping the folder here keeps
+  // filenames stable and the seed fully reproducible from `public/` + sharp.
+  const mediaDir = path.resolve(process.cwd(), 'media')
+  fs.rmSync(mediaDir, { recursive: true, force: true })
+  fs.mkdirSync(mediaDir, { recursive: true })
   await truncate('rubriques')
   // Users: keep nothing seeded — remove all the touraine.fr dev accounts.
   await truncate('users', { email: { like: '@touraine.fr' } })
@@ -1944,6 +1956,16 @@ const run = async (): Promise<void> => {
 
   // Cross-check the rubrique tree count.
   counts.rubriques = Math.max(counts.rubriques, rubriqueCount)
+
+  // Demo actualités so the « Toutes les actus » listing paginates out of the box
+  // (idempotent — clears its own zz-demo-* first). Remove later with:
+  //   pnpm payload run ./scripts/add-demo-actus.ts --clean
+  const demoActus = await addDemoActus({
+    payload,
+    adminUser,
+    rubriqueId: R.toutesLesActus,
+  })
+  counts.actualite += demoActus
 
   console.log('\n=== Seed terminé — décompte par collection ===')
   console.table(counts)

@@ -256,18 +256,19 @@ function FeatureCards({ items }: { items: FeatureItem[] }) {
  * each with a rainbow accent tick + Fraunces figure + label. It reads as a
  * deliberate stats block (same surface/border language as the side-rail card).
  *
- * Layout: 2 columns by default, 4 across only at `xl` where the main column is
- * wide enough — so a long value like « +100 M€ » never gets squeezed into a
- * too-narrow 4-up cell. `whitespace-nowrap` + `tabular-nums` keep every figure
- * on a single line; the figure grows to `4xl` only at `xl` (room to breathe).
+ * Layout: 2 columns by default, 4 across only at `2xl` where the main column is
+ * genuinely wide enough — so a long value like « +100 M€ » never gets squeezed
+ * into a too-narrow 4-up cell and clipped by the panel's `overflow-hidden`.
+ * `min-w-0` lets each cell shrink within the grid track; `tabular-nums` keeps
+ * the figures aligned. The figure stays at `3xl` so it always fits its cell.
  */
 function StatsRow({ items }: { items: KeyFigure[] }) {
   return (
-    <dl className="bg-border-main border-border-main mt-7 grid grid-cols-2 gap-px overflow-hidden rounded-2xl border xl:grid-cols-4">
+    <dl className="bg-border-main border-border-main mt-7 grid grid-cols-2 gap-px overflow-hidden rounded-2xl border 2xl:grid-cols-4">
       {items.map((s, i) => (
-        <div key={i} className="bg-surface-main flex flex-col p-5 md:p-6">
+        <div key={i} className="bg-surface-main flex min-w-0 flex-col p-5 md:p-6">
           <span aria-hidden="true" className="bg-rainbow mb-3 block h-1 w-8 rounded-sm" />
-          <dt className="font-display text-brand-primary-dark whitespace-nowrap text-3xl font-black leading-none tracking-tight tabular-nums xl:text-4xl">
+          <dt className="font-display text-brand-primary-dark text-3xl font-black leading-none tracking-tight tabular-nums">
             {s.value}
           </dt>
           <dd className="text-text-muted mt-2 text-sm leading-snug">{s.label}</dd>

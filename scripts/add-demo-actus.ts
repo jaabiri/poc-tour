@@ -1,21 +1,24 @@
 /**
- * add-demo-actus — throwaway, REVERSIBLE demo data for the T3 actualités listing.
+ * add-demo-actus — REVERSIBLE demo data for the T3 actualités listing.
  *
  * Adds ~8 published actualités attached to « Actualités › Toutes les actus » so
  * the pagination (PAGE_SIZE = 9) renders a real page 1 + page 2. Every doc gets
  * a `zz-demo-` slug prefix so nothing collides with real content and the set is
  * trivially removable.
  *
+ * `db:seed` calls `addDemoActus()` at the end so a fresh clone gets a paginating
+ * listing out of the box. This file also runs standalone:
+ *
  *   pnpm payload run ./scripts/add-demo-actus.ts          # insert
  *   pnpm payload run ./scripts/add-demo-actus.ts --clean  # remove them again
  *
- * NON-DESTRUCTIVE: never truncates, only creates/deletes its own `zz-demo-*`
- * docs. seed.ts is untouched.
+ * Only ever creates/deletes its own `zz-demo-*` docs — never truncates.
  */
 import { getPayload } from 'payload'
+import type { Payload } from 'payload'
 import config from '../payload.config'
 
-const SLUG_PREFIX = 'zz-demo-'
+export const SLUG_PREFIX = 'zz-demo-'
 
 /** Minimal valid Lexical body (same shape as seed.ts `richText`). */
 const richText = (...paragraphs: string[]) => ({
@@ -51,6 +54,64 @@ const DEMO = [
   { tag: 'Insertion et emploi', title: 'Forum de l’emploi : 1 200 offres à pourvoir' },
 ]
 
+/** A seeded-admin user object, as both seed.ts and the CLI resolve one. */
+type AdminUser = { collection: 'users' } & Record<string, unknown>
+
+/**
+ * Create the demo actualités. Callable from seed.ts (which already has the admin
+ * user + rubrique id) or from the CLI below. Idempotent: removes any existing
+ * `zz-demo-*` first so re-runs don't pile up duplicates.
+ */
+export const addDemoActus = async (opts: {
+  payload: Payload
+  adminUser: AdminUser
+  rubriqueId: number
+}): Promise<number> => {
+  const { payload, adminUser, rubriqueId } = opts
+
+  await cleanDemoActus({ payload, adminUser })
+
+  let created = 0
+  for (let i = 0; i < DEMO.length; i++) {
+    const item = DEMO[i]
+    // Dates strictly descending so the order in the listing is deterministic.
+    const day = String(28 - i).padStart(2, '0')
+    const slug = `${SLUG_PREFIX}${i + 1}`
+    await payload.create({
+      collection: 'actualite',
+      overrideAccess: true,
+      user: adminUser,
+      data: {
+        title: item.title,
+        slug,
+        tag: item.tag,
+        date: `2026-04-${day}T09:00:00.000Z`,
+        chapo: `Démo pagination — actualité ${i + 1} (${item.tag}). À supprimer avec --clean.`,
+        body: richText(item.title, 'Contenu de démonstration généré pour valider le gabarit T3.'),
+        rubriques: [rubriqueId],
+        featured: false,
+        _status: 'published',
+      },
+    })
+    created++
+  }
+  return created
+}
+
+/** Delete every `zz-demo-*` actualité. */
+export const cleanDemoActus = async (opts: {
+  payload: Payload
+  adminUser: AdminUser
+}): Promise<number> => {
+  const res = await opts.payload.delete({
+    collection: 'actualite',
+    where: { slug: { like: SLUG_PREFIX } },
+    overrideAccess: true,
+    user: opts.adminUser,
+  })
+  return res.docs.length
+}
+
 const run = async () => {
   const payload = await getPayload({ config })
   const clean = process.argv.includes('--clean')
@@ -82,42 +143,13 @@ const run = async () => {
   }
 
   if (clean) {
-    const res = await payload.delete({
-      collection: 'actualite',
-      where: { slug: { like: SLUG_PREFIX } },
-      overrideAccess: true,
-      user: adminUser,
-    })
-    console.log(`🧹 Supprimé ${res.docs.length} actualité(s) de démo (${SLUG_PREFIX}*)`)
+    const removed = await cleanDemoActus({ payload, adminUser })
+    console.log(`🧹 Supprimé ${removed} actualité(s) de démo (${SLUG_PREFIX}*)`)
     return
   }
 
-  let created = 0
-  for (let i = 0; i < DEMO.length; i++) {
-    const item = DEMO[i]
-    // Dates strictly descending so the order in the listing is deterministic.
-    const day = String(28 - i).padStart(2, '0')
-    const slug = `${SLUG_PREFIX}${i + 1}`
-    await payload.create({
-      collection: 'actualite',
-      overrideAccess: true,
-      user: adminUser,
-      data: {
-        title: item.title,
-        slug,
-        tag: item.tag,
-        date: `2026-04-${day}T09:00:00.000Z`,
-        chapo: `Démo pagination — actualité ${i + 1} (${item.tag}). À supprimer avec --clean.`,
-        body: richText(item.title, 'Contenu de démonstration généré pour valider le gabarit T3.'),
-        rubriques: [rubriqueId],
-        featured: false,
-        _status: 'published',
-      },
-    })
-    created++
-  }
+  const created = await addDemoActus({ payload, adminUser, rubriqueId })
   console.log(`✅ Créé ${created} actualité(s) de démo (slugs ${SLUG_PREFIX}1…${SLUG_PREFIX}${created})`)
-  console.log(`   Total publié visé : 4 (seed) + ${created} = ${4 + created} → 2 pages.`)
   console.log(`   Nettoyage : pnpm payload run ./scripts/add-demo-actus.ts --clean`)
 }
 

@@ -40,9 +40,7 @@ yarn-error.log*
 # payload
 /payload-types.ts
 
-# sqlite database
-/poc.db
-/poc.db-*
+
 
 # media (uploads)
 /media

@@ -43,7 +43,14 @@ export default async function FrontendLayout({
     await Promise.all([getHeader(), getFooter(), draftMode()]);
 
   return (
-    <html lang="fr" className={`${fraunces.variable} ${outfit.variable}`}>
+    // suppressHydrationWarning: le script inline ci-dessous règle data-font /
+    // data-contrast sur <html> avant l'hydratation (valeur lue dans localStorage,
+    // invisible côté serveur). La portée est limitée à ce seul élément.
+    <html
+      lang="fr"
+      className={`${fraunces.variable} ${outfit.variable}`}
+      suppressHydrationWarning
+    >
       <head>
         <script dangerouslySetInnerHTML={{ __html: A11Y_PREF_SCRIPT }} />
       </head>
