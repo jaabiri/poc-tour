@@ -1,0 +1,29 @@
+{
+  "label": "Agenda : notre sélection",
+  "items": [
+    {
+      "day": "31",
+      "month": "MAI",
+      "title": "Fête de la biodiversité",
+      "place": "Bléré",
+      "category": "Nature",
+      "href": "/actualites/agenda-a-la-une/fete-de-la-biodiversite"
+    },
+    {
+      "day": "21",
+      "month": "JUIN",
+      "title": "Fête du Vélo en Touraine",
+      "place": "Tout le département",
+      "category": "Balade",
+      "href": "/actualites/agenda-a-la-une/fete-du-velo-en-touraine"
+    },
+    {
+      "day": "29",
+      "month": "JUIN",
+      "title": "Conseil départemental",
+      "place": "Tours",
+      "category": "Institution",
+      "href": "/actualites/agenda-a-la-une/conseil-departemental-seance"
+    }
+  ]
+}

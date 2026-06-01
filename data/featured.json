@@ -1,0 +1,9 @@
+{
+  "tag": "Grand projet",
+  "title": "Touraine 2030 : un Département en action pour ses territoires",
+  "image": "/images/featured.svg",
+  "imageAlt": "Illustration du Département de Touraine en action",
+  "summaryLabel": "L'essentiel",
+  "summary": "Le Département investit pour adapter les bâtiments scolaires : ombrières, végétalisation des cours et rénovation thermique des collèges les plus exposés.",
+  "cta": { "label": "Lire l'article", "href": "/actualites/toutes-les-actus/colleges-touraine-fortes-chaleurs" }
+}

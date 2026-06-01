@@ -1,0 +1,615 @@
+---
+alwaysApply: true
+---
+# React Development - Cursor Rules
+
+## Core Principles
+
+### Effects are an Escape Hatch
+- Effects let you synchronize components with external systems (network, browser APIs, third-party libraries)
+- If there's no external system involved, you probably don't need an Effect
+- Most logic should be in event handlers or calculated during rendering
+
+### Rendering Must Be Pure
+- Don't perform side effects during rendering
+- Side effects belong in event handlers or Effects
+- Rendering should only calculate JSX output
+
+---
+
+## When You DON'T Need Effects
+
+### ❌ Avoid: Transforming Data for Rendering
+```javascript
+// 🔴 BAD - unnecessary Effect and state
+function Form() {
+  const [firstName, setFirstName] = useState('');
+  const [lastName, setLastName] = useState('');
+  const [fullName, setFullName] = useState('');
+  
+  useEffect(() => {
+    setFullName(firstName + ' ' + lastName);
+  }, [firstName, lastName]);
+}
+
+// ✅ GOOD - calculate during rendering
+function Form() {
+  const [firstName, setFirstName] = useState('');
+  const [lastName, setLastName] = useState('');
+  const fullName = firstName + ' ' + lastName;
+}
+```
+
+**Rule**: If something can be calculated from existing props/state, calculate it during rendering. Don't store it in state.
+
+### ❌ Avoid: Effects for Event-Specific Logic
+```javascript
+// 🔴 BAD - event logic in Effect
+function ProductPage({ product }) {
+  useEffect(() => {
+    if (product.isInCart) {
+      showNotification(`Added ${product.name}`);
+    }
+  }, [product]);
+}
+
+// ✅ GOOD - event logic in event handler
+function ProductPage({ product, addToCart }) {
+  function handleBuyClick() {
+    addToCart(product);
+    showNotification(`Added ${product.name}`);
+  }
+}
+```
+
+**Rule**: If logic should run because the user did something specific (clicked, typed, etc.), put it in an event handler, not an Effect.
+
+### ❌ Avoid: Chains of Effects
+```javascript
+// 🔴 BAD - chain of Effects updating each other
+useEffect(() => {
+  if (card !== null && card.gold) {
+    setGoldCardCount(c => c + 1);
+  }
+}, [card]);
+
+useEffect(() => {
+  if (goldCardCount > 3) {
+    setRound(r => r + 1);
+    setGoldCardCount(0);
+  }
+}, [goldCardCount]);
+
+// ✅ GOOD - calculate and update in event handler
+function handlePlaceCard(nextCard) {
+  setCard(nextCard);
+  if (nextCard.gold) {
+    if (goldCardCount < 3) {
+      setGoldCardCount(goldCardCount + 1);
+    } else {
+      setGoldCardCount(0);
+      setRound(round + 1);
+    }
+  }
+}
+```
+
+**Rule**: Calculate what you can during rendering, update state in event handlers. Avoid Effect chains.
+
+---
+
+## Expensive Calculations - Use useMemo
+
+```javascript
+// 🔴 BAD - recalculates on every render
+function TodoList({ todos, filter }) {
+  const visibleTodos = getFilteredTodos(todos, filter);
+}
+
+// ✅ GOOD - memoize expensive calculations
+function TodoList({ todos, filter }) {
+  const visibleTodos = useMemo(
+    () => getFilteredTodos(todos, filter),
+    [todos, filter]
+  );
+}
+```
+
+**Rule**: Use `useMemo` for expensive calculations (>1ms), not for simple operations. Profile first.
+
+---
+
+## Resetting and Adjusting State
+
+### Reset All State - Use Keys
+```javascript
+// 🔴 BAD - resetting state in Effect
+function ProfilePage({ userId }) {
+  const [comment, setComment] = useState('');
+  
+  useEffect(() => {
+    setComment('');
+  }, [userId]);
+}
+
+// ✅ GOOD - use key to reset state
+function ProfilePage({ userId }) {
+  return <Profile userId={userId} key={userId} />;
+}
+
+function Profile({ userId }) {
+  const [comment, setComment] = useState('');
+}
+```
+
+**Rule**: To reset state when a prop changes, pass a unique `key` to make React treat it as a different component.
+
+### Adjust Partial State - Calculate During Render
+```javascript
+// 🔴 BAD - adjusting state in Effect
+function List({ items }) {
+  const [selection, setSelection] = useState(null);
+  
+  useEffect(() => {
+    setSelection(null);
+  }, [items]);
+}
+
+// ✅ GOOD - store ID and calculate during render
+function List({ items }) {
+  const [selectedId, setSelectedId] = useState(null);
+  const selection = items.find(item => item.id === selectedId) ?? null;
+}
+```
+
+**Rule**: Store minimal state (IDs, not objects) and derive values during rendering.
+
+---
+
+## Proper Effect Usage
+
+### Effect Structure
+```javascript
+useEffect(() => {
+  // 1. Setup code (connect, subscribe, fetch)
+  const connection = createConnection();
+  connection.connect();
+  
+  // 2. Cleanup function (disconnect, unsubscribe, cancel)
+  return () => {
+    connection.disconnect();
+  };
+}, [dependencies]); // 3. Dependency array
+```
+
+### Dependency Rules
+1. **Always include all reactive values** used inside the Effect
+2. **Refs and setState functions can be omitted** (stable identity)
+3. **Empty array `[]`** = run only on mount/unmount
+4. **No array** = run after every render (usually wrong)
+5. **Never manually choose dependencies** - let the linter guide you
+
+```javascript
+// ✅ GOOD - all dependencies declared
+useEffect(() => {
+  if (isPlaying) {
+    ref.current.play();
+  } else {
+    ref.current.pause();
+  }
+}, [isPlaying]); // ref omitted (stable), isPlaying included
+
+// 🔴 BAD - missing dependency
+useEffect(() => {
+  doSomething(value);
+}, []); // value is used but not declared!
+```
+
+### Cleanup Patterns
+
+**Connecting/Subscribing**:
+```javascript
+useEffect(() => {
+  const connection = createConnection();
+  connection.connect();
+  return () => connection.disconnect();
+}, []);
+```
+
+**Event Listeners**:
+```javascript
+useEffect(() => {
+  function handleScroll(e) {
+    console.log(window.scrollX, window.scrollY);
+  }
+  window.addEventListener('scroll', handleScroll);
+  return () => window.removeEventListener('scroll', handleScroll);
+}, []);
+```
+
+**Fetching Data**:
+```javascript
+useEffect(() => {
+  let ignore = false;
+  
+  async function fetchData() {
+    const result = await fetchResults(query);
+    if (!ignore) {
+      setResults(result);
+    }
+  }
+  
+  fetchData();
+  return () => { ignore = true; };
+}, [query]);
+```
+
+**Animations**:
+```javascript
+useEffect(() => {
+  const node = ref.current;
+  node.style.opacity = 1;
+  return () => { node.style.opacity = 0; };
+}, []);
+```
+
+### Development Double-Render
+- Effects run twice in development (React 18+ Strict Mode)
+- This helps catch missing cleanup functions
+- The right question: "How to make my Effect work after remounting?"
+- Never use refs to prevent double-execution - fix cleanup instead
+
+```javascript
+// 🔴 BAD - trying to prevent double-execution
+const mountedRef = useRef(false);
+useEffect(() => {
+  if (!mountedRef.current) {
+    mountedRef.current = true;
+    // ... setup
+  }
+}, []);
+
+// ✅ GOOD - proper cleanup
+useEffect(() => {
+  const connection = createConnection();
+  connection.connect();
+  return () => connection.disconnect();
+}, []);
+```
+
+---
+
+## Refs Usage
+
+### When to Use Refs
+Use refs for values that don't affect rendering:
+- Timeout/interval IDs
+- DOM elements
+- External library instances
+- Any value that doesn't need to trigger re-renders
+
+```javascript
+// ✅ GOOD - ref for non-rendering value
+function Stopwatch() {
+  const intervalRef = useRef(null);
+  
+  function handleStart() {
+    intervalRef.current = setInterval(() => {
+      setNow(Date.now());
+    }, 10);
+  }
+  
+  function handleStop() {
+    clearInterval(intervalRef.current);
+  }
+}
+```
+
+### Refs vs State
+
+| Use Refs When: | Use State When: |
+|----------------|-----------------|
+| Value doesn't affect render output | Value affects what's displayed |
+| Updating doesn't need re-render | Updating should re-render |
+| Storing timeout IDs, DOM nodes | Storing form inputs, toggles, lists |
+| Reading in event handlers only | Reading during render |
+
+### Ref Best Practices
+
+1. **Don't read/write `ref.current` during rendering**
+```javascript
+// 🔴 BAD - reading ref during render
+function Component() {
+  const ref = useRef(0);
+  const value = ref.current; // Unpredictable!
+  return <div>{value}</div>;
+}
+
+// ✅ GOOD - reading ref in event handler
+function Component() {
+  const ref = useRef(0);
+  function handleClick() {
+    console.log(ref.current); // Safe!
+  }
+}
+```
+
+2. **Exception: Lazy initialization**
+```javascript
+// ✅ OK - one-time initialization during first render
+function Component() {
+  const ref = useRef(null);
+  if (ref.current === null) {
+    ref.current = new ExpensiveThing();
+  }
+}
+```
+
+---
+
+## DOM Manipulation with Refs
+
+### Getting DOM Refs
+```javascript
+function Form() {
+  const inputRef = useRef(null);
+  
+  function handleClick() {
+    inputRef.current.focus();
+  }
+  
+  return <input ref={inputRef} />;
+}
+```
+
+### Ref Callbacks for Dynamic Lists
+```javascript
+// ✅ GOOD - ref callback for list
+function CatFriends() {
+  const itemsRef = useRef(null);
+  
+  function getMap() {
+    if (!itemsRef.current) {
+      itemsRef.current = new Map();
+    }
+    return itemsRef.current;
+  }
+  
+  return (
+    <ul>
+      {items.map(item => (
+        <li
+          key={item.id}
+          ref={(node) => {
+            const map = getMap();
+            map.set(item, node);
+            return () => map.delete(item);
+          }}
+        />
+      ))}
+    </ul>
+  );
+}
+```
+
+### Passing Refs to Custom Components
+```javascript
+// ✅ GOOD - passing ref as prop
+function MyInput({ ref }) {
+  return <input ref={ref} />;
+}
+
+function Parent() {
+  const inputRef = useRef(null);
+  return <MyInput ref={inputRef} />;
+}
+```
+
+### Limiting Exposed API with useImperativeHandle
+```javascript
+function MyInput({ ref }) {
+  const realInputRef = useRef(null);
+  
+  useImperativeHandle(ref, () => ({
+    focus() {
+      realInputRef.current.focus();
+    }
+    // Only expose focus, not full DOM node
+  }));
+  
+  return <input ref={realInputRef} />;
+}
+```
+
+### DOM Manipulation Rules
+1. **Avoid modifying DOM managed by React** - can cause crashes
+2. **Safe to modify parts React doesn't touch**
+3. **Use for non-destructive actions** (focus, scroll, measure)
+4. **Never remove nodes React is managing**
+
+```javascript
+// 🔴 DANGEROUS - removing React-managed node
+ref.current.remove();
+
+// ✅ SAFE - focusing React-managed node
+ref.current.focus();
+
+// ✅ SAFE - modifying empty container React doesn't touch
+emptyDivRef.current.appendChild(externalElement);
+```
+
+### flushSync for Synchronous DOM Updates
+```javascript
+import { flushSync } from 'react-dom';
+
+function handleAdd() {
+  flushSync(() => {
+    setTodos([...todos, newTodo]);
+  });
+  // DOM is now updated, safe to scroll
+  listRef.current.lastChild.scrollIntoView();
+}
+```
+
+---
+
+## External Store Subscription
+
+### Use useSyncExternalStore for External Data
+For browser APIs or third-party state management:
+
+```javascript
+// ✅ GOOD - useSyncExternalStore
+function useOnlineStatus() {
+  return useSyncExternalStore(
+    subscribe,           // Subscribe function
+    () => navigator.onLine,  // Get snapshot (client)
+    () => true           // Get snapshot (server)
+  );
+}
+
+function subscribe(callback) {
+  window.addEventListener('online', callback);
+  window.addEventListener('offline', callback);
+  return () => {
+    window.removeEventListener('online', callback);
+    window.removeEventListener('offline', callback);
+  };
+}
+```
+
+### Rules for useSyncExternalStore
+1. **`subscribe` must be stable** - define outside component or wrap in `useCallback`
+2. **`getSnapshot` must return cached value** if store hasn't changed
+3. **`getServerSnapshot` must match client** on initial hydration
+4. **Always return immutable snapshots**
+
+```javascript
+// 🔴 BAD - new function each render
+function Component() {
+  function subscribe(callback) { /* ... */ }
+  const value = useSyncExternalStore(subscribe, getSnapshot);
+}
+
+// ✅ GOOD - stable function
+function subscribe(callback) { /* ... */ }
+function Component() {
+  const value = useSyncExternalStore(subscribe, getSnapshot);
+}
+
+// ✅ ALSO GOOD - useCallback with dependencies
+function Component({ userId }) {
+  const subscribe = useCallback(() => {
+    // ... depends on userId
+  }, [userId]);
+  const value = useSyncExternalStore(subscribe, getSnapshot);
+}
+```
+
+---
+
+## Common Anti-Patterns to Avoid
+
+### 1. Notifying Parent in Effect
+```javascript
+// 🔴 BAD
+function Toggle({ onChange }) {
+  const [isOn, setIsOn] = useState(false);
+  
+  useEffect(() => {
+    onChange(isOn);
+  }, [isOn, onChange]);
+}
+
+// ✅ GOOD
+function Toggle({ onChange }) {
+  const [isOn, setIsOn] = useState(false);
+  
+  function updateToggle(nextIsOn) {
+    setIsOn(nextIsOn);
+    onChange(nextIsOn);
+  }
+}
+```
+
+### 2. Passing Data to Parent
+```javascript
+// 🔴 BAD
+function Child({ onFetched }) {
+  const data = useSomeAPI();
+  useEffect(() => {
+    if (data) onFetched(data);
+  }, [data, onFetched]);
+}
+
+// ✅ GOOD - fetch in parent, pass down
+function Parent() {
+  const data = useSomeAPI();
+  return <Child data={data} />;
+}
+```
+
+### 3. App Initialization in Effect
+```javascript
+// 🔴 BAD - runs twice in dev, not production-ready
+function App() {
+  useEffect(() => {
+    loadDataFromLocalStorage();
+    checkAuthToken();
+  }, []);
+}
+
+// ✅ GOOD - top-level code
+if (typeof window !== 'undefined') {
+  loadDataFromLocalStorage();
+  checkAuthToken();
+}
+
+function App() {
+  // ...
+}
+```
+
+### 4. POST Requests for User Actions
+```javascript
+// 🔴 BAD - buying in Effect
+useEffect(() => {
+  fetch('/api/buy', { method: 'POST' });
+}, []);
+
+// ✅ GOOD - buying on button click
+function handleClick() {
+  fetch('/api/buy', { method: 'POST' });
+}
+```
+
+---
+
+## Quick Decision Guide
+
+**Ask yourself:**
+1. **Is this for rendering?** → Calculate during render, use `useMemo` if slow
+2. **Is this from user action?** → Use event handler
+3. **Is this for external system?** → Use Effect with cleanup
+4. **Is this external store?** → Use `useSyncExternalStore`
+5. **Is this non-rendering value?** → Use `useRef`
+
+**Red flags:**
+- Effect that only updates state based on other state
+- Effect that runs on every render
+- Missing cleanup function for subscriptions/timers
+- Reading/writing refs during render
+- Manually choosing dependencies to exclude
+
+---
+
+## Testing Your Effects
+
+Your Effect should work correctly with this sequence:
+1. Mount → Setup runs
+2. Unmount → Cleanup runs
+3. Mount again → Setup runs again
+
+If this sequence breaks your component, you need better cleanup.
+
+Development double-render helps test this automatically.

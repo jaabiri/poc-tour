@@ -1,0 +1,493 @@
+{
+  "le-departement": {
+    "seo": {
+      "title": "Le Département de Touraine | Conseil Départemental 37",
+      "description": "Découvrez le Conseil Départemental d'Indre-et-Loire, ses missions, ses élus et son action au service des habitants de la Touraine."
+    },
+    "heroSubtitle": "Le Département de Touraine agit chaque jour pour améliorer la vie des Tourangeaux : solidarités, collèges, routes, culture et environnement.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire est la collectivité territoriale qui administre le département de la Touraine. Composé de 38 conseillers départementaux élus au scrutin binominal paritaire dans 19 cantons, il définit et met en œuvre les politiques publiques départementales au plus près des besoins des habitants.",
+      "De la protection de l'enfance au soutien aux personnes âgées, de l'entretien des routes départementales à la gestion des espaces naturels sensibles, le Département intervient dans de nombreux domaines essentiels à la qualité de vie en Touraine."
+    ],
+    "sections": [
+      {
+        "heading": "Une collectivité au service des Tourangeaux",
+        "paragraphs": [
+          "Le Département d'Indre-et-Loire exerce des compétences obligatoires définies par la loi, notamment dans les domaines des solidarités humaines, de l'éducation (collèges), des infrastructures routières et de l'aménagement du territoire. Il intervient également de manière volontariste en faveur de la culture, du tourisme et de la protection de l'environnement.",
+          "Avec plusieurs centaines d'agents territoriaux, le Conseil Départemental est l'un des premiers employeurs publics du territoire. Une part importante de son budget annuel est consacrée aux dépenses sociales obligatoires."
+        ]
+      },
+      {
+        "heading": "Une gouvernance démocratique et paritaire",
+        "paragraphs": [
+          "Depuis la loi du 17 mai 2013, les conseillers départementaux sont élus par binôme paritaire : un homme et une femme par canton, pour un mandat de six ans. Le Conseil Départemental d'Indre-et-Loire compte ainsi 38 élus répartis dans 19 cantons, garantissant une représentation équilibrée de l'ensemble du territoire tourangeau.",
+          "L'assemblée départementale élit en son sein sa Présidente ou son Président, ainsi que les vice-présidents qui forment la Commission Permanente. Cette instance délibère régulièrement sur les affaires courantes entre les sessions plénières."
+        ]
+      },
+      {
+        "heading": "Trouver et accéder aux services du Département",
+        "paragraphs": [
+          "Le siège du Conseil Départemental est situé à l'Hôtel du Département, place de la Préfecture, à Tours. Des services de proximité sont également déployés sur l'ensemble du territoire à travers les Maisons départementales de la solidarité et les différentes directions territoriales.",
+          "Pour toute question ou démarche, vous pouvez contacter le Département par téléphone au 02 47 31 47 31 ou par courriel à contact@touraine.fr."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Les missions du Département", "path": "le-departement/les-missions-du-departement" },
+      { "label": "Les élus du Département", "path": "le-departement/les-elus-du-departement" },
+      { "label": "Un Département en action", "path": "le-departement/un-departement-en-action" },
+      { "label": "L'administration", "path": "le-departement/l-administration" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/les-missions-du-departement": {
+    "seo": {
+      "title": "Les missions du Département de Touraine | CD37",
+      "description": "Solidarités, collèges, routes, culture, environnement : découvrez toutes les compétences exercées par le Conseil Départemental d'Indre-et-Loire."
+    },
+    "heroSubtitle": "Solidarités, éducation, routes, culture, environnement : le Département de Touraine exerce de nombreuses compétences au bénéfice de ses habitants.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire agit dans des domaines très variés définis par la loi. Ses compétences obligatoires couvrent l'ensemble du champ des solidarités humaines, la gestion des collèges publics, l'entretien du réseau routier départemental, ainsi que des missions d'aménagement et d'ingénierie territoriale.",
+      "Au-delà de ces attributions légales, le Département s'engage volontairement en faveur de la culture, du patrimoine, du tourisme et de la protection des espaces naturels sensibles, contribuant à l'attractivité et au rayonnement de la Touraine."
+    ],
+    "sections": [
+      {
+        "heading": "Les solidarités humaines",
+        "paragraphs": [
+          "La protection et le soutien aux personnes vulnérables constituent le cœur de l'action départementale. Le Département consacre la majorité de son budget de fonctionnement aux politiques sociales, qu'il s'agisse de la protection de l'enfance, de l'accompagnement des personnes âgées, du soutien aux personnes en situation de handicap ou de l'insertion des bénéficiaires du RSA."
+        ],
+        "bullets": [
+          "Protection de l'enfance : aide sociale à l'enfance (ASE), prévention, accueil des mineurs en danger",
+          "Autonomie des personnes âgées : allocation personnalisée d'autonomie (APA), soutien aux EHPAD",
+          "Handicap : prestation de compensation du handicap (PCH), soutien aux établissements spécialisés",
+          "Insertion : versement et accompagnement des bénéficiaires du revenu de solidarité active (RSA)",
+          "Protection maternelle et infantile (PMI) : suivi de la santé des jeunes enfants et des familles"
+        ]
+      },
+      {
+        "heading": "L'éducation : les collèges publics",
+        "paragraphs": [
+          "Le Département est responsable de la construction, de l'entretien et du fonctionnement des collèges publics d'Indre-et-Loire. Il finance également les équipements numériques, les manuels scolaires et les activités périscolaires, contribuant ainsi à l'égalité des chances pour tous les élèves du territoire."
+        ],
+        "bullets": [
+          "Construction et rénovation des bâtiments scolaires",
+          "Équipements numériques et matériel pédagogique",
+          "Restauration scolaire et transport des élèves en situation de handicap",
+          "Financement des activités éducatives complémentaires"
+        ]
+      },
+      {
+        "heading": "Les routes et les infrastructures",
+        "paragraphs": [
+          "Le Conseil Départemental gère et entretient le réseau des routes départementales, qui représente plusieurs milliers de kilomètres de voirie traversant l'ensemble du territoire tourangeau. Cette mission comprend la surveillance, l'entretien courant, la signalisation, les aménagements de sécurité et les grands travaux de modernisation."
+        ],
+        "bullets": [
+          "Entretien et réfection du réseau routier départemental",
+          "Sécurisation des axes routiers prioritaires",
+          "Gestion des ouvrages d'art (ponts, viaducs)",
+          "Viabilité hivernale : déneigement et salage",
+          "Aménagements cyclables le long des itinéraires départementaux"
+        ]
+      },
+      {
+        "heading": "Culture, environnement et aménagement du territoire",
+        "paragraphs": [
+          "Le Département soutient activement la vie culturelle tourangelle en finançant les archives départementales, les musées, les bibliothèques et les associations culturelles. Il s'engage également pour la préservation des espaces naturels sensibles (ENS), véritables poumons verts du territoire.",
+          "En matière d'aménagement et d'ingénierie territoriale, le Département apporte son expertise et ses ressources aux communes et intercommunalités, notamment les plus petites, pour les accompagner dans leurs projets de développement local."
+        ],
+        "bullets": [
+          "Archives départementales : collecte, conservation et valorisation du patrimoine archivistique",
+          "Espaces naturels sensibles (ENS) : acquisition, gestion et ouverture au public",
+          "Soutien au tourisme et à l'économie touristique (Val de Loire, oenotourisme)",
+          "Ingénierie territoriale : appui technique aux communes rurales",
+          "Aides aux associations culturelles et sportives"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quelle est la différence entre le Département et la Région ?",
+        "a": "Le Département (Conseil Départemental d'Indre-et-Loire) et la Région (Conseil Régional du Centre-Val de Loire) sont deux collectivités territoriales distinctes avec des compétences différentes. Le Département est compétent sur les solidarités, les collèges, les routes départementales et les espaces naturels sensibles. La Région intervient sur la formation professionnelle, les lycées, le développement économique et les transports régionaux."
+      },
+      {
+        "q": "Comment bénéficier des aides sociales du Département ?",
+        "a": "Pour accéder aux aides sociales du Département (APA, PCH, RSA, aide à l'enfance…), vous pouvez contacter le Département au 02 47 31 47 31 ou vous rendre dans l'une des Maisons départementales de la solidarité. Vous pouvez également déposer une demande via le portail de services en ligne touraine.fr."
+      }
+    ],
+    "related": [
+      { "label": "Un Département en action", "path": "le-departement/un-departement-en-action" },
+      { "label": "Mes services au quotidien", "path": "mes-services-au-quotidien" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/un-departement-en-action": {
+    "seo": {
+      "title": "Un Département en action | Touraine CD37",
+      "description": "Projets phares, priorités budgétaires, initiatives innovantes : découvrez comment le Département de Touraine agit chaque jour pour améliorer votre cadre de vie."
+    },
+    "heroSubtitle": "Routes rénovées, collèges modernisés, espaces naturels préservés : le Département de Touraine agit chaque jour au plus près des Tourangeaux.",
+    "intro": [
+      "Au-delà des compétences légales qui structurent son action, le Conseil Départemental d'Indre-et-Loire s'engage dans des projets concrets et ambitieux qui transforment le quotidien des habitants. Chaque année, ses priorités budgétaires reflètent des choix politiques forts : investir dans les solidarités, moderniser les infrastructures, protéger l'environnement et soutenir l'attractivité du territoire.",
+      "Cette page présente les grandes orientations et réalisations récentes du Département, témoignant d'une collectivité en mouvement, attentive aux besoins des Tourangeaux d'aujourd'hui et engagée pour ceux de demain."
+    ],
+    "sections": [
+      {
+        "heading": "Investir dans les solidarités : la priorité absolue",
+        "paragraphs": [
+          "Le Département consacre la plus grande part de son budget aux politiques de solidarité. Face à la croissance des besoins liée au vieillissement de la population et à la précarité sociale, le Conseil Départemental maintient et renforce ses dispositifs d'accompagnement, en veillant à leur accessibilité sur l'ensemble du territoire, y compris en milieu rural.",
+          "La lutte contre l'isolement des personnes âgées, le renforcement des capacités d'accueil de l'aide sociale à l'enfance et l'accompagnement renforcé vers l'emploi des bénéficiaires du RSA sont au cœur des actions prioritaires."
+        ],
+        "bullets": [
+          "Renforcement du maillage territorial des services médico-sociaux",
+          "Soutien accru aux aidants familiaux",
+          "Plan de modernisation des structures d'accueil pour personnes âgées",
+          "Programme d'insertion professionnelle renforcé pour les bénéficiaires du RSA"
+        ]
+      },
+      {
+        "heading": "Moderniser les collèges et préparer l'avenir",
+        "paragraphs": [
+          "Le Département porte un programme pluriannuel d'investissement dans les collèges publics d'Indre-et-Loire : rénovation énergétique des bâtiments, mise aux normes d'accessibilité, déploiement du numérique éducatif et amélioration des espaces de restauration et de vie scolaire.",
+          "Ces investissements bénéficient à plusieurs dizaines de milliers de collégiens chaque année et contribuent à l'attractivité du territoire pour les familles."
+        ],
+        "bullets": [
+          "Programme de rénovation énergétique des collèges publics",
+          "Déploiement d'équipements numériques dans les classes",
+          "Mise aux normes PMR (personnes à mobilité réduite)",
+          "Amélioration de la qualité de la restauration scolaire"
+        ]
+      },
+      {
+        "heading": "Routes et mobilités : un réseau au service du territoire",
+        "paragraphs": [
+          "Le Département gère un réseau routier de plusieurs milliers de kilomètres, qui irrigue l'ensemble du département. Un programme pluriannuel de remise en état et de sécurisation des axes prioritaires est mis en œuvre chaque année, en lien avec les communes et intercommunalités concernées.",
+          "Au-delà de la route, le Département soutient le développement des mobilités douces, notamment les itinéraires cyclables qui valorisent le territoire tourangeau, dont le célèbre circuit Loire à Vélo."
+        ],
+        "bullets": [
+          "Programme pluriannuel de réfection des chaussées départementales",
+          "Sécurisation des abords des écoles et des villages",
+          "Développement des voies cyclables et liaison avec Loire à Vélo",
+          "Modernisation des ouvrages d'art (ponts et viaducs)"
+        ]
+      },
+      {
+        "heading": "Environnement et cadre de vie : agir pour les générations futures",
+        "paragraphs": [
+          "Le Département de Touraine s'est engagé dans une démarche de transition écologique ambitieuse. La gestion des espaces naturels sensibles, la préservation de la biodiversité, la réduction de l'empreinte carbone de ses propres installations et le soutien aux initiatives locales en faveur de l'environnement sont autant de leviers actionnés.",
+          "Le département bénéficie d'un patrimoine naturel et paysager exceptionnel, inscrit en partie au patrimoine mondial de l'UNESCO. Le Conseil Départemental agit pour le préserver et le transmettre aux générations futures."
+        ],
+        "bullets": [
+          "Acquisition et gestion d'espaces naturels sensibles (ENS)",
+          "Plan de préservation de la biodiversité des bords de Loire",
+          "Réduction de l'empreinte carbone des bâtiments départementaux",
+          "Soutien aux communes dans leurs projets de végétalisation"
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Les missions du Département", "path": "le-departement/les-missions-du-departement" },
+      { "label": "Les actes administratifs", "path": "le-departement/les-actes-administratifs" },
+      { "label": "Marchés publics et appels à projets", "path": "acces-direct/marches-publics-et-appels-a-projets" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/les-19-cantons": {
+    "seo": {
+      "title": "Les 19 cantons de la Touraine | Conseil Départemental 37",
+      "description": "Découvrez les 19 cantons d'Indre-et-Loire, leurs conseillers départementaux élus en binôme paritaire, et la carte cantonale du département."
+    },
+    "heroSubtitle": "L'Indre-et-Loire est découpée en 19 cantons, chacun représenté par un binôme paritaire de conseillers départementaux — une femme et un homme élus ensemble.",
+    "intro": [
+      "Depuis la réforme territoriale de 2013 et le redécoupage cantonal de 2015, le département d'Indre-et-Loire est organisé en 19 cantons. Chaque canton élit simultanément deux conseillers départementaux — un homme et une femme — assurant ainsi une représentation paritaire au sein de l'assemblée départementale, qui compte au total 38 élus.",
+      "Ces cantons couvrent l'ensemble du territoire, des zones urbaines de l'agglomération tourangelle aux communes rurales du Chinonais, de la Touraine du Sud ou de la Gâtine tourangelle, garantissant une représentation de toutes les réalités locales."
+    ],
+    "sections": [
+      {
+        "heading": "Le scrutin binominal paritaire : un principe démocratique",
+        "paragraphs": [
+          "Instauré par la loi du 17 mai 2013, le scrutin binominal majoritaire à deux tours impose que chaque liste cantonale soit composée d'un binôme paritaire : une candidate et un candidat se présentent ensemble et sont élus (ou battus) ensemble. Ce système garantit la parité au sein de chaque conseil départemental de France.",
+          "En Indre-et-Loire, les 19 binômes forment une assemblée de 38 conseillers départementaux, dont au moins la moitié sont des femmes. Les mandats durent six ans, avec un renouvellement intégral de l'assemblée à chaque élection."
+        ]
+      },
+      {
+        "heading": "Répartition géographique des cantons",
+        "paragraphs": [
+          "Les 19 cantons couvrent l'intégralité du territoire départemental. Certains cantons sont urbains et concentrent une population importante au sein de l'agglomération de Tours, tandis que d'autres sont à dominante rurale ou périurbaine, couvrant de nombreuses communes sur de vastes étendues.",
+          "Cette répartition tient compte des équilibres démographiques définis par le découpage, chaque canton devant représenter une population d'électeurs comparable, dans un rapport de un à deux au maximum entre le canton le moins et le plus peuplé."
+        ]
+      },
+      {
+        "heading": "Le rôle des conseillers départementaux sur le territoire",
+        "paragraphs": [
+          "Au-delà de leur fonction délibérative au sein de l'assemblée départementale, les conseillers départementaux sont des élus de proximité. Ils participent aux commissions thématiques, représentent le Département dans des organismes partenaires (syndicats mixtes, établissements publics, associations) et assurent le lien entre les communes de leur canton et l'institution départementale.",
+          "Pour contacter les conseillers de votre canton, rendez-vous sur la page des élus du Département ou contactez l'Hôtel du Département au 02 47 31 47 31."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment sont délimitées les frontières des cantons ?",
+        "a": "Les cantons sont des circonscriptions électorales dont les limites sont fixées par décret en Conseil d'État. Le dernier redécoupage cantonal en Indre-et-Loire (en application de la loi du 17 mai 2013) a réduit le nombre de cantons en les regroupant pour assurer une démographie plus équilibrée."
+      },
+      {
+        "q": "Comment savoir dans quel canton je me trouve ?",
+        "a": "Vous pouvez consulter la carte interactive des cantons disponible sur cette page. En indiquant le nom de votre commune ou votre adresse, vous identifierez votre canton et les coordonnées de vos conseillers départementaux."
+      },
+      {
+        "q": "Les cantons coïncident-ils avec les intercommunalités ?",
+        "a": "Non. Les cantons sont des circonscriptions électorales qui ne correspondent pas aux périmètres des intercommunalités (communautés de communes ou d'agglomération). Un même canton peut couvrir des communes appartenant à plusieurs intercommunalités différentes."
+      }
+    ],
+    "map": {
+      "title": "Carte des 19 cantons d'Indre-et-Loire",
+      "arcgisItemUrl": "https://www.arcgis.com/home/item.html?id=cantons-indre-et-loire"
+    },
+    "related": [
+      { "label": "Les élus du Département", "path": "le-departement/les-elus-du-departement" },
+      { "label": "Les groupes politiques", "path": "le-departement/les-groupes-politiques" },
+      { "label": "Le Département", "path": "le-departement" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/les-elus-du-departement": {
+    "seo": {
+      "title": "Les élus du Département de Touraine | CD37",
+      "description": "38 conseillers départementaux élus dans 19 cantons, une Présidente, des vice-présidents et des commissions : découvrez l'assemblée départementale de Touraine."
+    },
+    "heroSubtitle": "38 conseillers départementaux élus au suffrage universel direct dans 19 cantons forment l'assemblée délibérante du Département de Touraine.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire est composé de 38 conseillers départementaux, élus pour six ans au scrutin binominal paritaire majoritaire à deux tours dans 19 cantons. Cette assemblée délibère sur les grandes orientations politiques du Département, vote le budget et contrôle l'exécutif.",
+      "Les élus se réunissent en session plénière plusieurs fois par an. Entre les sessions, la Commission Permanente, composée de la Présidente et des vice-présidents, assure la continuité de la gouvernance et règle les affaires courantes."
+    ],
+    "sections": [
+      {
+        "heading": "La Présidente et l'exécutif départemental",
+        "paragraphs": [
+          "Lors de sa première réunion après l'élection, l'assemblée départementale élit en son sein sa Présidente ou son Président, pour la durée du mandat. Personnalité politique centrale du Département, la Présidente préside l'assemblée et la Commission Permanente, représente le Département dans ses actes officiels et dirige l'administration.",
+          "Elle est assistée de vice-présidents, en nombre variable selon les mandats, chacun délégué à une ou plusieurs politiques sectorielles (solidarités, éducation, routes, culture, environnement, finances, etc.)."
+        ]
+      },
+      {
+        "heading": "Le mode d'élection : scrutin binominal paritaire",
+        "paragraphs": [
+          "Depuis 2015, les conseillers départementaux sont élus par scrutin binominal majoritaire à deux tours. Chaque binôme est composé obligatoirement d'un homme et d'une femme, accompagnés de leurs deux remplaçants (également un homme et une femme). Ce mécanisme garantit la parité au sein du Conseil Départemental.",
+          "Pour être élu au premier tour, un binôme doit obtenir la majorité absolue des suffrages exprimés et un nombre de voix au moins égal au quart des électeurs inscrits. À défaut, un second tour est organisé, remporté par le binôme arrivé en tête."
+        ]
+      },
+      {
+        "heading": "Les commissions permanentes et thématiques",
+        "paragraphs": [
+          "L'assemblée départementale constitue plusieurs commissions thématiques chargées d'instruire les dossiers avant leur passage en session plénière. Ces commissions couvrent l'ensemble des politiques départementales : finances et budget, solidarités, éducation et collèges, infrastructures et mobilités, environnement, culture et patrimoine, développement territorial.",
+          "Les conseillers départementaux se répartissent entre ces commissions en tenant compte des équilibres politiques de l'assemblée. Elles constituent des espaces de travail et de dialogue entre la majorité et l'opposition."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment contacter mon conseiller départemental ?",
+        "a": "Vous pouvez identifier vos élus en consultant la carte des 19 cantons et retrouver leurs coordonnées sur la page dédiée aux élus. Vous pouvez également contacter l'Hôtel du Département au 02 47 31 47 31 pour être mis en relation avec les services de l'assemblée."
+      },
+      {
+        "q": "Quelle est la durée d'un mandat de conseiller départemental ?",
+        "a": "Le mandat de conseiller départemental dure six ans. Depuis 2021, les élections départementales sont organisées simultanément avec les élections régionales, en juin."
+      },
+      {
+        "q": "Les sessions de l'assemblée sont-elles ouvertes au public ?",
+        "a": "Oui, les séances plénières du Conseil Départemental sont publiques. Les dates et ordres du jour sont annoncés sur touraine.fr. Les délibérations adoptées sont ensuite consultables dans le recueil des actes administratifs."
+      }
+    ],
+    "related": [
+      { "label": "Les 19 cantons", "path": "le-departement/les-19-cantons" },
+      { "label": "Les groupes politiques", "path": "le-departement/les-groupes-politiques" },
+      { "label": "Les actes administratifs", "path": "le-departement/les-actes-administratifs" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/les-groupes-politiques": {
+    "seo": {
+      "title": "Les groupes politiques du Conseil Départemental 37",
+      "description": "Majorité et opposition au Conseil Départemental d'Indre-et-Loire : fonctionnement des groupes politiques, leurs rôles et droits au sein de l'assemblée."
+    },
+    "heroSubtitle": "Les groupes politiques structurent le débat démocratique au sein de l'assemblée départementale d'Indre-et-Loire. Majorité et opposition y exercent pleinement leur rôle.",
+    "intro": [
+      "Au sein du Conseil Départemental d'Indre-et-Loire, les conseillers départementaux se regroupent en formations politiques appelées groupes. Ces groupes sont des acteurs essentiels de la vie démocratique locale : ils organisent le débat, déposent des motions et représentent les différentes sensibilités politiques exprimées par les électeurs tourangeaux.",
+      "La constitution d'un groupe politique nécessite un nombre minimum de conseillers fixé par le règlement intérieur de l'assemblée. Chaque groupe désigne un président ou une présidente, dispose d'une dotation de fonctionnement et peut s'appuyer sur des collaborateurs."
+    ],
+    "sections": [
+      {
+        "heading": "La majorité départementale",
+        "paragraphs": [
+          "Le groupe ou la coalition majoritaire est celui qui a obtenu le soutien du plus grand nombre de conseillers lors de l'élection de la Présidente en début de mandat. Il définit les grandes orientations de la politique départementale, propose le budget et dirige l'exécutif à travers la Présidente et les vice-présidents.",
+          "Les groupes de la majorité portent collectivement le projet politique soumis aux suffrages lors des élections départementales et rendent compte de leur action devant les Tourangeaux à l'occasion de chaque renouvellement de l'assemblée."
+        ]
+      },
+      {
+        "heading": "L'opposition",
+        "paragraphs": [
+          "Les groupes d'opposition exercent un rôle de contrôle démocratique indispensable. Ils interpellent la majorité, soumettent des contre-propositions, participent activement aux travaux des commissions et peuvent saisir les instances de contrôle compétentes.",
+          "Le règlement intérieur du Conseil Départemental garantit à l'opposition des droits spécifiques : temps de parole en session, accès aux documents budgétaires, représentation dans les commissions et les organismes extérieurs, ainsi qu'une dotation pour financer leurs activités."
+        ]
+      },
+      {
+        "heading": "Fonctionnement et droits des groupes",
+        "paragraphs": [
+          "Chaque groupe politique dispose d'un local au sein de l'Hôtel du Département, d'une dotation financière proportionnelle à son nombre de membres et d'un droit d'expression dans le bulletin départemental. Les groupes peuvent organiser des réunions, inviter des personnalités extérieures et communiquer publiquement au nom de leur groupe.",
+          "Le règlement intérieur de l'assemblée, adopté en session plénière, encadre précisément les droits et obligations de chaque groupe, dans le respect du code général des collectivités territoriales."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment est constitué un groupe politique au Conseil Départemental ?",
+        "a": "Un groupe politique doit regrouper un nombre minimal de conseillers, défini par le règlement intérieur du Conseil Départemental. En dessous de ce seuil, les élus peuvent s'inscrire comme non-inscrits ou rejoindre un groupe existant."
+      },
+      {
+        "q": "Les groupes politiques reçoivent-ils des financements publics ?",
+        "a": "Oui, conformément au code général des collectivités territoriales, les groupes politiques des conseils départementaux bénéficient d'une dotation annuelle votée dans le budget départemental. Son montant est proportionnel au nombre de membres du groupe. Ces fonds sont destinés à couvrir les frais de fonctionnement du groupe (secrétariat, documentation, organisation de réunions)."
+      }
+    ],
+    "related": [
+      { "label": "Les élus du Département", "path": "le-departement/les-elus-du-departement" },
+      { "label": "Les 19 cantons", "path": "le-departement/les-19-cantons" },
+      { "label": "Les actes administratifs", "path": "le-departement/les-actes-administratifs" }
+    ],
+    "contactCta": false
+  },
+
+  "le-departement/les-actes-administratifs": {
+    "seo": {
+      "title": "Actes administratifs du Département de Touraine | CD37",
+      "description": "Consultez les délibérations, arrêtés et le recueil des actes administratifs (RAA) du Conseil Départemental d'Indre-et-Loire. Transparence et légalité garanties."
+    },
+    "heroSubtitle": "Le Département de Touraine publie l'ensemble de ses actes administratifs — délibérations, arrêtés, recueil officiel — dans un souci de transparence et d'accessibilité.",
+    "intro": [
+      "Dans le cadre de ses obligations légales, le Conseil Départemental d'Indre-et-Loire assure la publicité de ses actes administratifs. Délibérations du Conseil Départemental, arrêtés de la Présidente, marchés publics et décisions de la Commission Permanente sont recensés et accessibles à tous les citoyens.",
+      "Le recueil des actes administratifs (RAA) constitue le document de référence pour la publication officielle des actes réglementaires du Département. Sa consultation est libre et gratuite."
+    ],
+    "sections": [
+      {
+        "heading": "Les délibérations du Conseil Départemental",
+        "paragraphs": [
+          "Les délibérations sont les décisions prises en session plénière par l'ensemble des conseillers départementaux. Elles portent sur les grandes orientations politiques, le vote du budget primitif, le compte administratif, les conventions importantes et les positions de l'assemblée sur des sujets d'intérêt général.",
+          "Chaque délibération est adoptée à la majorité simple des membres présents ou représentés, sauf dispositions légales contraires imposant une majorité qualifiée. Après leur adoption, les délibérations sont transmises au Préfet d'Indre-et-Loire dans le cadre du contrôle de légalité, puis rendues publiques."
+        ]
+      },
+      {
+        "heading": "Les arrêtés de la Présidente",
+        "paragraphs": [
+          "La Présidente du Conseil Départemental dispose d'un pouvoir réglementaire dans les matières relevant de ses attributions propres. Elle prend des arrêtés pour organiser les services départementaux, gérer le personnel, régler les situations individuelles et assurer le bon fonctionnement de l'institution.",
+          "Ces arrêtés sont publiés au recueil des actes administratifs et entrent en vigueur dès leur publication ou à la date qu'ils fixent."
+        ]
+      },
+      {
+        "heading": "Le recueil des actes administratifs (RAA)",
+        "paragraphs": [
+          "Le recueil des actes administratifs est le support officiel de publication des actes réglementaires du Département. Publié périodiquement, il comprend les arrêtés à portée générale, les délibérations réglementaires et tout acte dont la publicité est requise par la loi.",
+          "Conformément à l'article L. 3131-3 du code général des collectivités territoriales, le RAA est mis à la disposition du public au siège du Département (Hôtel du Département, place de la Préfecture, Tours) et accessible en ligne sur touraine.fr. Les actes y sont opposables aux tiers dès leur publication."
+        ]
+      },
+      {
+        "heading": "Comment consulter les actes administratifs ?",
+        "paragraphs": [
+          "L'ensemble des actes administratifs du Département est consultable en ligne sur la présente rubrique. Vous pouvez effectuer une recherche par type d'acte (délibération, arrêté), par date, par thématique ou par numéro d'acte. Les documents sont téléchargeables au format PDF.",
+          "Pour toute demande d'information complémentaire ou de copie d'un acte non disponible en ligne, vous pouvez contacter le service des assemblées du Conseil Départemental à l'adresse contact@touraine.fr ou par téléphone au 02 47 31 47 31."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qu'est-ce que le contrôle de légalité préfectoral ?",
+        "a": "Les actes du Conseil Départemental sont transmis au Préfet d'Indre-et-Loire dans un délai légal après leur adoption. Le Préfet peut, dans un délai de deux mois, déférer au tribunal administratif tout acte qu'il estime illégal. Cette procédure, appelée contrôle de légalité, garantit la conformité des actes des collectivités territoriales au droit en vigueur."
+      },
+      {
+        "q": "À partir de quand un acte administratif est-il applicable ?",
+        "a": "Un acte administratif devient exécutoire à compter de sa transmission au représentant de l'État et de l'accomplissement des mesures de publicité requises (affichage, publication au RAA ou notification aux intéressés selon la nature de l'acte)."
+      },
+      {
+        "q": "Comment obtenir la copie d'un acte ancien non disponible en ligne ?",
+        "a": "Pour les actes administratifs plus anciens non disponibles sur le portail numérique, vous pouvez en formuler la demande auprès des archives départementales ou du service des assemblées, par courrier à l'adresse : Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9, ou par courriel à contact@touraine.fr."
+      }
+    ],
+    "downloads": [
+      "Recueil des actes administratifs — dernier numéro publié (PDF)",
+      "Délibérations de la dernière session plénière (PDF)",
+      "Décisions de la Commission Permanente — dernière séance (PDF)",
+      "Règlement intérieur du Conseil Départemental (PDF)"
+    ],
+    "related": [
+      { "label": "Les élus du Département", "path": "le-departement/les-elus-du-departement" },
+      { "label": "Marchés publics et appels à projets", "path": "acces-direct/marches-publics-et-appels-a-projets" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "le-departement/l-administration": {
+    "seo": {
+      "title": "L'administration du Département de Touraine | CD37",
+      "description": "Les services du Conseil Départemental d'Indre-et-Loire, son organisation administrative, ses directions et son organigramme au service des Tourangeaux."
+    },
+    "heroSubtitle": "Plusieurs centaines d'agents territoriaux organisés en directions spécialisées mettent en œuvre chaque jour les politiques du Département de Touraine.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire s'appuie sur une administration professionnelle et engagée pour mettre en œuvre les décisions de l'assemblée et assurer la continuité des services publics. Sous l'autorité de la Présidente et sous la direction du Directeur Général des Services (DGS), les agents territoriaux sont organisés en directions thématiques couvrant l'ensemble des politiques départementales.",
+      "En tant qu'employeur public important du département, le Conseil Départemental offre des parcours professionnels variés dans de nombreux métiers de la fonction publique territoriale, de l'action sociale à l'ingénierie routière, en passant par l'enseignement artistique, l'informatique ou la gestion financière."
+    ],
+    "sections": [
+      {
+        "heading": "L'organisation générale des services",
+        "paragraphs": [
+          "L'administration départementale est placée sous la responsabilité du Directeur Général des Services (DGS), nommé par la Présidente. Il coordonne l'ensemble des directions et garantit la mise en œuvre des décisions politiques dans le respect des règles de la fonction publique territoriale et de la légalité administrative.",
+          "L'organigramme général distingue les directions fonctionnelles transversales (finances, ressources humaines, systèmes d'information, juridique, communication) et les directions métiers thématiques alignées sur les grandes politiques publiques du Département."
+        ]
+      },
+      {
+        "heading": "Les grandes directions thématiques",
+        "paragraphs": [
+          "Chaque grande politique publique du Département est portée par une direction spécialisée regroupant les services et unités opérationnelles compétents. Ces directions sont placées sous l'autorité d'un directeur ou d'une directrice, et rendent compte à la fois au DGS et à l'élu(e) vice-président(e) délégué(e) à la politique concernée."
+        ],
+        "bullets": [
+          "Direction des Solidarités : action sociale, protection de l'enfance, autonomie, insertion",
+          "Direction de l'Éducation et des Collèges : gestion et modernisation des collèges publics",
+          "Direction des Routes et des Infrastructures : entretien, travaux et sécurité routière",
+          "Direction de l'Environnement et des Espaces Naturels Sensibles",
+          "Direction de la Culture, du Patrimoine et du Tourisme",
+          "Direction de l'Aménagement et de l'Ingénierie Territoriale",
+          "Direction des Finances et de la Commande Publique",
+          "Direction des Ressources Humaines",
+          "Direction des Systèmes d'Information et du Numérique",
+          "Direction de la Communication et des Relations Institutionnelles"
+        ]
+      },
+      {
+        "heading": "Travailler au Département : une vocation de service public",
+        "paragraphs": [
+          "Le Conseil Départemental d'Indre-et-Loire recrute régulièrement des agents territoriaux dans des domaines très variés. Qu'il s'agisse de postes sociaux, techniques, administratifs, culturels ou numériques, les offres d'emploi sont publiées sur le portail de recrutement du Département.",
+          "En rejoignant le Département, les agents participent directement à l'amélioration de la qualité de vie des Tourangeaux. Des formations continues, des perspectives d'évolution de carrière et un dialogue social actif font du Conseil Départemental un employeur public reconnu sur le territoire."
+        ]
+      },
+      {
+        "heading": "Contacter les services du Département",
+        "paragraphs": [
+          "Le siège du Conseil Départemental est situé à l'Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9. L'accueil du public est ouvert en semaine. Pour toute question d'ordre administratif, vous pouvez contacter le standard général au 02 47 31 47 31 ou écrire à contact@touraine.fr.",
+          "Certains services disposent d'accueils spécialisés ou de permanences en dehors du siège principal. Consultez la rubrique « Nous contacter » pour retrouver les coordonnées précises de chaque direction et les horaires d'accueil du public."
+        ]
+      }
+    ],
+    "downloads": [
+      "Organigramme général des services du Département (PDF)",
+      "Rapport annuel d'activité de l'administration départementale (PDF)"
+    ],
+    "related": [
+      { "label": "Le Département recrute", "path": "acces-direct/le-departement-recrute" },
+      { "label": "Nous contacter", "path": "nous-contacter" },
+      { "label": "Les missions du Département", "path": "le-departement/les-missions-du-departement" }
+    ],
+    "contactCta": true
+  }
+}

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Illustration Touraine">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a77a8"/>
+      <stop offset="1" stop-color="#cfe6f0"/>
+    </linearGradient>
+    <linearGradient id="rb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0aa6b8"/>
+      <stop offset="0.28" stop-color="#0a77a8"/>
+      <stop offset="0.52" stop-color="#8fb02e"/>
+      <stop offset="0.74" stop-color="#e8a23a"/>
+      <stop offset="1" stop-color="#d9533b"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#sky)"/>
+  <g fill="#003d5c" opacity="0.9">
+    <rect x="120" y="250" width="60" height="150"/>
+    <rect x="180" y="210" width="90" height="190"/>
+    <rect x="270" y="250" width="60" height="150"/>
+    <path d="M150 250 l30 -36 l30 36 z"/>
+    <path d="M225 210 l45 -50 l45 50 z" transform="translate(-45,0)"/>
+    <path d="M300 250 l30 -36 l30 36 z"/>
+  </g>
+  <g fill="#005380" opacity="0.85">
+    <rect x="470" y="280" width="55" height="120"/>
+    <rect x="525" y="245" width="80" height="155"/>
+    <rect x="605" y="280" width="55" height="120"/>
+    <path d="M497 280 l28 -32 l28 32 z"/>
+    <path d="M565 245 l40 -44 l40 44 z" transform="translate(-40,0)"/>
+    <path d="M633 280 l28 -32 l28 32 z"/>
+  </g>
+  <path d="M0 400 Q400 360 800 400 L800 500 L0 500 Z" fill="#006090"/>
+  <path d="M0 430 Q400 400 800 430 L800 500 L0 500 Z" fill="#0a77a8" opacity="0.7"/>
+  <rect x="0" y="0" width="800" height="8" fill="url(#rb)"/>
+</svg>

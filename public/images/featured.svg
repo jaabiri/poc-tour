@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-label="À la une — Le Département en action">
+  <defs>
+    <linearGradient id="f1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a77a8"/>
+      <stop offset="1" stop-color="#003d5c"/>
+    </linearGradient>
+    <linearGradient id="frb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0aa6b8"/><stop offset="0.28" stop-color="#0a77a8"/>
+      <stop offset="0.52" stop-color="#8fb02e"/><stop offset="0.74" stop-color="#e8a23a"/>
+      <stop offset="1" stop-color="#d9533b"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="600" fill="url(#f1)"/>
+  <g fill="#ffffff" opacity="0.10">
+    <circle cx="700" cy="140" r="120"/>
+    <circle cx="120" cy="480" r="90"/>
+  </g>
+  <g fill="#cfe6f0" opacity="0.85">
+    <rect x="300" y="300" width="80" height="220"/>
+    <rect x="400" y="250" width="110" height="270"/>
+    <rect x="520" y="300" width="80" height="220"/>
+    <path d="M340 300 l40 -50 l40 50 z" transform="translate(-40,0)"/>
+    <path d="M455 250 l55 -64 l55 64 z" transform="translate(-55,0)"/>
+    <path d="M560 300 l40 -50 l40 50 z" transform="translate(-40,0)"/>
+  </g>
+  <path d="M0 520 Q450 470 900 520 L900 600 L0 600 Z" fill="#0aa6b8" opacity="0.5"/>
+  <rect x="0" y="0" width="900" height="10" fill="url(#frb)"/>
+</svg>

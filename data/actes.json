@@ -1,0 +1,96 @@
+{
+  "intro": "Conformément au principe de libre accès aux actes des collectivités, le Département publie ici ses délibérations, les arrêtés de la Présidente et le recueil des actes administratifs (RAA). Filtrez par nature ou par année, puis téléchargez le document au format PDF.",
+  "acts": [
+    {
+      "title": "Adoption du budget primitif 2026",
+      "type": "budget",
+      "reference": "DEL-2026-001",
+      "date": "2026-04-10",
+      "session": "Session budgétaire du 10 avril 2026",
+      "pdfUrl": "/medias/actes/del-2026-001-budget-primitif.pdf"
+    },
+    {
+      "title": "Plan collèges 2026-2030 : programmation des travaux",
+      "type": "deliberation",
+      "reference": "DEL-2026-042",
+      "date": "2026-04-10",
+      "session": "Session budgétaire du 10 avril 2026",
+      "pdfUrl": "/medias/actes/del-2026-042-plan-colleges.pdf"
+    },
+    {
+      "title": "Tarification 2026 de l'aide sociale à l'hébergement",
+      "type": "deliberation",
+      "reference": "DEL-2026-058",
+      "date": "2026-04-10",
+      "session": "Session budgétaire du 10 avril 2026",
+      "pdfUrl": "/medias/actes/del-2026-058-tarification-ash.pdf"
+    },
+    {
+      "title": "Arrêté de voirie — réglementation de la RD910 à Monts",
+      "type": "arrete",
+      "reference": "ARR-2026-117",
+      "date": "2026-03-22",
+      "pdfUrl": "/medias/actes/arr-2026-117-rd910-monts.pdf"
+    },
+    {
+      "title": "Recueil des actes administratifs — 1er trimestre 2026",
+      "type": "raa",
+      "reference": "RAA-2026-T1",
+      "date": "2026-03-31",
+      "pdfUrl": "/medias/actes/raa-2026-t1.pdf"
+    },
+    {
+      "title": "Subventions aux associations sportives — campagne 2026",
+      "type": "deliberation",
+      "reference": "DEL-2026-073",
+      "date": "2026-02-13",
+      "session": "Session du 13 février 2026",
+      "pdfUrl": "/medias/actes/del-2026-073-subventions-sport.pdf"
+    },
+    {
+      "title": "Arrêté portant délégation de signature — Direction des solidarités",
+      "type": "arrete",
+      "reference": "ARR-2026-064",
+      "date": "2026-02-05",
+      "pdfUrl": "/medias/actes/arr-2026-064-delegation-signature.pdf"
+    },
+    {
+      "title": "Schéma départemental de l'autonomie 2026-2031",
+      "type": "deliberation",
+      "reference": "DEL-2026-019",
+      "date": "2026-01-30",
+      "session": "Session du 30 janvier 2026",
+      "pdfUrl": "/medias/actes/del-2026-019-schema-autonomie.pdf"
+    },
+    {
+      "title": "Recueil des actes administratifs — 4e trimestre 2025",
+      "type": "raa",
+      "reference": "RAA-2025-T4",
+      "date": "2025-12-31",
+      "pdfUrl": "/medias/actes/raa-2025-t4.pdf"
+    },
+    {
+      "title": "Décision modificative n°2 du budget 2025",
+      "type": "budget",
+      "reference": "DEL-2025-204",
+      "date": "2025-12-12",
+      "session": "Session du 12 décembre 2025",
+      "pdfUrl": "/medias/actes/del-2025-204-dm2.pdf"
+    },
+    {
+      "title": "Plan départemental des itinéraires de promenade et de randonnée",
+      "type": "deliberation",
+      "reference": "DEL-2025-188",
+      "date": "2025-11-21",
+      "session": "Session du 21 novembre 2025",
+      "pdfUrl": "/medias/actes/del-2025-188-pdipr.pdf"
+    },
+    {
+      "title": "Arrêté de classement de l'Espace naturel sensible des Prairies du Cher",
+      "type": "arrete",
+      "reference": "ARR-2025-339",
+      "date": "2025-10-08",
+      "pdfUrl": "/medias/actes/arr-2025-339-ens-cher.pdf"
+    }
+  ]
+}

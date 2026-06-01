@@ -1,0 +1,85 @@
+{
+  "intro": "« Touraine, le Mag » est le magazine du Conseil départemental, distribué gratuitement dans toutes les boîtes aux lettres d'Indre-et-Loire. Retrouvez tous les numéros à feuilleter en ligne ou à télécharger au format PDF dans notre kiosque numérique.",
+  "issues": [
+    {
+      "number": 48,
+      "title": "Touraine, le Mag n°48",
+      "date": "2026-05-01",
+      "period": "Mai – Juin 2026",
+      "cover": "https://picsum.photos/seed/touraine-mag-48/600/800",
+      "summary": "Dossier : la transition écologique des collèges. Rencontre avec les familles d'accueil. L'agenda de l'été en Touraine.",
+      "pdfUrl": "/medias/touraine-le-mag-48.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-48"
+    },
+    {
+      "number": 47,
+      "title": "Touraine, le Mag n°47",
+      "date": "2026-03-01",
+      "period": "Mars – Avril 2026",
+      "cover": "https://picsum.photos/seed/touraine-mag-47/600/800",
+      "summary": "Dossier : le très haut débit pour tous. Le budget 2026 expliqué. Portrait d'une assistante maternelle.",
+      "pdfUrl": "/medias/touraine-le-mag-47.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-47"
+    },
+    {
+      "number": 46,
+      "title": "Touraine, le Mag n°46",
+      "date": "2026-01-01",
+      "period": "Janvier – Février 2026",
+      "cover": "https://picsum.photos/seed/touraine-mag-46/600/800",
+      "summary": "Dossier : bien vieillir en Touraine. Les nouvelles aires de covoiturage. Vœux de la Présidente.",
+      "pdfUrl": "/medias/touraine-le-mag-46.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-46"
+    },
+    {
+      "number": 45,
+      "title": "Touraine, le Mag n°45",
+      "date": "2025-11-01",
+      "period": "Novembre – Décembre 2025",
+      "cover": "https://picsum.photos/seed/touraine-mag-45/600/800",
+      "summary": "Dossier : la culture près de chez vous. Insertion : objectif emploi. Les routes de demain.",
+      "pdfUrl": "/medias/touraine-le-mag-45.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-45"
+    },
+    {
+      "number": 44,
+      "title": "Touraine, le Mag n°44",
+      "date": "2025-09-01",
+      "period": "Septembre – Octobre 2025",
+      "cover": "https://picsum.photos/seed/touraine-mag-44/600/800",
+      "summary": "Dossier : la rentrée dans les collèges. Le sport pour tous. Patrimoine : nos châteaux secrets.",
+      "pdfUrl": "/medias/touraine-le-mag-44.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-44"
+    },
+    {
+      "number": 43,
+      "title": "Touraine, le Mag n°43",
+      "date": "2025-07-01",
+      "period": "Juillet – Août 2025",
+      "cover": "https://picsum.photos/seed/touraine-mag-43/600/800",
+      "summary": "Dossier spécial été : randonnées, baignades et festivals. L'environnement au cœur de l'action.",
+      "pdfUrl": "/medias/touraine-le-mag-43.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-43"
+    },
+    {
+      "number": 42,
+      "title": "Touraine, le Mag n°42",
+      "date": "2025-05-01",
+      "period": "Mai – Juin 2025",
+      "cover": "https://picsum.photos/seed/touraine-mag-42/600/800",
+      "summary": "Dossier : habitat et logement, les aides du Département. Soutien aux aidants. Agenda du printemps.",
+      "pdfUrl": "/medias/touraine-le-mag-42.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-42"
+    },
+    {
+      "number": 41,
+      "title": "Touraine, le Mag n°41",
+      "date": "2025-03-01",
+      "period": "Mars – Avril 2025",
+      "cover": "https://picsum.photos/seed/touraine-mag-41/600/800",
+      "summary": "Dossier : enfance et famille, un accompagnement de proximité. Les marchés publics du Département.",
+      "pdfUrl": "/medias/touraine-le-mag-41.pdf",
+      "readUrl": "https://kiosque.touraine.fr/mag-41"
+    }
+  ]
+}

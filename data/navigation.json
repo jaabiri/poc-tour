@@ -1,0 +1,48 @@
+[
+  {
+    "label": "Actualités",
+    "href": "/actualites",
+    "sub": [
+      { "label": "Toutes les actus", "href": "/actualites/toutes-les-actus" },
+      { "label": "Inscription Newsletter", "href": "/actualites/inscription-newsletter" },
+      { "label": "Touraine le Mag + kiosque", "href": "/actualites/touraine-le-mag-et-kiosque" },
+      { "label": "Agenda à la une", "href": "/actualites/agenda-a-la-une" },
+      { "label": "Agenda de la Présidente", "href": "/actualites/agenda-de-la-presidente" }
+    ]
+  },
+  {
+    "label": "Le Département",
+    "href": "/le-departement",
+    "sub": [
+      { "label": "Les missions du Département", "href": "/le-departement/les-missions-du-departement" },
+      { "label": "Un Département en action", "href": "/le-departement/un-departement-en-action" },
+      { "label": "Les 19 cantons", "href": "/le-departement/les-19-cantons" },
+      { "label": "Les élus du Département", "href": "/le-departement/les-elus-du-departement" },
+      { "label": "Les groupes politiques", "href": "/le-departement/les-groupes-politiques" },
+      { "label": "Les actes administratifs", "href": "/le-departement/les-actes-administratifs" },
+      { "label": "L'Administration", "href": "/le-departement/l-administration" }
+    ]
+  },
+  {
+    "label": "Mes services au quotidien",
+    "href": "/mes-services-au-quotidien",
+    "wide": true,
+    "sub": [
+      { "label": "Vos services de proximité", "href": "/mes-services-au-quotidien/vos-services-de-proximite" },
+      { "label": "L'accompagnement social", "href": "/mes-services-au-quotidien/l-accompagnement-social" },
+      { "label": "Habitat et logement", "href": "/mes-services-au-quotidien/habitat-et-logement" },
+      { "label": "Insertion et emploi", "href": "/mes-services-au-quotidien/insertion-et-emploi" },
+      { "label": "Enfance et famille", "href": "/mes-services-au-quotidien/enfance-et-famille" },
+      { "label": "Handicap", "href": "/mes-services-au-quotidien/handicap" },
+      { "label": "Personnes âgées", "href": "/mes-services-au-quotidien/personnes-agees" },
+      { "label": "Soutien aux aidants", "href": "/mes-services-au-quotidien/soutien-aux-aidants" },
+      { "label": "Collèges et Éducation", "href": "/mes-services-au-quotidien/colleges-et-education" },
+      { "label": "Culture", "href": "/mes-services-au-quotidien/culture" },
+      { "label": "Sport", "href": "/mes-services-au-quotidien/sport" },
+      { "label": "Tourisme et Patrimoine", "href": "/mes-services-au-quotidien/tourisme-et-patrimoine" },
+      { "label": "Routes et mobilité", "href": "/mes-services-au-quotidien/routes-et-mobilite" },
+      { "label": "Environnement", "href": "/mes-services-au-quotidien/environnement" },
+      { "label": "Sécurité", "href": "/mes-services-au-quotidien/securite" }
+    ]
+  }
+]

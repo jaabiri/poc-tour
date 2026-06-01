@@ -1,0 +1,57 @@
+{
+  "label": "Accès rapides",
+  "title": "Je trouve mon service en un clic",
+  "intro": "Choisissez votre profil ou un accès direct : le Département vous oriente vers la bonne démarche, en deux clics maximum.",
+  "profiles": [
+    {
+      "icon": "baby",
+      "audience": "Une famille",
+      "description": "Petite enfance, adoption, collèges, aides aux familles.",
+      "href": "/mes-services-au-quotidien/enfance-et-famille",
+      "family": "habitant"
+    },
+    {
+      "icon": "graduation-cap",
+      "audience": "Un jeune",
+      "description": "Collège, orientation, bourses, engagement et culture.",
+      "href": "/mes-services-au-quotidien/colleges-et-education",
+      "family": "habitant"
+    },
+    {
+      "icon": "accessibility",
+      "audience": "Un senior",
+      "description": "Maintien à domicile, APA, établissements, aidants.",
+      "href": "/mes-services-au-quotidien/personnes-agees",
+      "family": "habitant"
+    },
+    {
+      "icon": "heart-handshake",
+      "audience": "En situation de handicap",
+      "description": "MDPH, prestations, accès aux droits, accompagnement.",
+      "href": "/mes-services-au-quotidien/handicap",
+      "family": "habitant"
+    },
+    {
+      "icon": "building",
+      "audience": "Une entreprise ou association",
+      "description": "Subventions, mécénat, facturation, fonds européens.",
+      "href": "/entreprises-et-associations",
+      "family": "structure"
+    },
+    {
+      "icon": "building-2",
+      "audience": "Une commune",
+      "description": "Ingénierie, subventions, portail SIG, facturation.",
+      "href": "/communes-et-collectivites",
+      "family": "structure"
+    }
+  ],
+  "shortcuts": [
+    { "icon": "briefcase", "title": "Le Département recrute", "href": "/acces-direct/le-departement-recrute" },
+    { "icon": "hand-heart", "title": "Maisons de la solidarité", "href": "/acces-direct/maisons-departementales-de-la-solidarite" },
+    { "icon": "baby", "title": "Devenir famille d'accueil", "href": "/acces-direct/devenir-famille-d-accueil-acces-direct" },
+    { "icon": "file-text", "title": "Marchés publics", "href": "/acces-direct/marches-publics-et-appels-a-projets" },
+    { "icon": "landmark", "title": "Enquêtes publiques", "href": "/acces-direct/enquetes-publiques" },
+    { "icon": "file-text", "title": "OpenData", "href": "/acces-direct/plateforme-opendata" }
+  ]
+}

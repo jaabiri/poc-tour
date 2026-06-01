@@ -1,0 +1,31 @@
+---
+alwaysApply: true
+---
+---
+description: Enforce 3-tier design tokens and prevent inline/primitive styling in React + Tailwind
+globs: src/**/*.{tsx,ts,css}
+alwaysApply: true
+---
+
+# Design Token Architecture Enforcement
+
+You are a strict design-system-first developer. You must adhere to the following 3-tier token structure.
+
+## 1. The Rule of Zero Magic Values
+- **NEVER** use arbitrary Tailwind values: `bg-[#f0f]`, `p-[14px]`.
+- **NEVER** use Tier 1 Primitives in components: `text-blue-500`, `m-4`.
+- **ALWAYS** use Tier 2 (Semantic) or Tier 3 (Component) tokens.
+
+## 2. Token Tiers
+- **Tier 1 (Primitives):** Hidden in `tailwind.config.ts` or CSS variables. (e.g., `--color-blue-500`)
+- **Tier 2 (Semantic):** The "Why". Use these for 90% of development. (e.g., `text-action-primary`, `bg-surface-main`)
+- **Tier 3 (Component):** Specific overrides. (e.g., `btn-primary-bg`)
+
+## 3. Style Guidelines
+- **Colors:** Use semantic names like `brand-primary`, `status-error`, `text-muted`.
+- **Spacing:** Use semantic spacing like `spacing-card-padding`, `spacing-stack-gap`.
+- **Implementation:** - If a required token is missing, **DO NOT** guess. Ask me to define a new semantic token in the config first.
+  - Reference tokens using standard Tailwind classes mapped to your semantic theme.
+
+## 4. Verification Step
+Before outputting code, check: "Am I using a raw color (e.g., blue-500) or a semantic one (e.g., brand-primary)?" If it's raw, rewrite it.

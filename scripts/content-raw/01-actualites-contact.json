@@ -1,0 +1,472 @@
+{
+  "actualites": {
+    "seo": {
+      "title": "Actualités du Département de Touraine | Touraine",
+      "description": "Suivez toutes les actualités du Conseil Départemental d'Indre-et-Loire : politiques publiques, projets, événements et vie du territoire tourangeau."
+    },
+    "heroSubtitle": "Restez informé de toutes les initiatives, décisions et événements du Département de Touraine au service des habitants d'Indre-et-Loire.",
+    "intro": [
+      "Le Département de Touraine agit chaque jour pour améliorer la vie de ses habitants. Retrouvez ici l'ensemble de nos actualités : annonces de projets, résultats d'actions menées sur le territoire, rendez-vous institutionnels et témoignages de ceux qui font la Touraine.",
+      "Que vous souhaitiez consulter les dernières décisions de l'Assemblée départementale, suivre l'agenda de la Présidente ou feuilleter le magazine Touraine le Mag, cette rubrique est votre point d'entrée vers toute l'information départementale."
+    ],
+    "sections": [
+      {
+        "heading": "Toutes les actualités",
+        "paragraphs": [
+          "Politiques de solidarité, infrastructures routières, soutien aux collèges, développement économique, environnement et culture : le Département intervient dans de nombreux domaines de la vie quotidienne. Notre fil d'actualités vous tient informé en temps réel."
+        ]
+      },
+      {
+        "heading": "L'agenda et les événements",
+        "paragraphs": [
+          "Découvrez les événements à venir sur le territoire : inaugurations, réunions publiques, forums citoyens et manifestations soutenues par le Département. L'agenda à la une met en valeur les rendez-vous incontournables de la vie tourangelle."
+        ]
+      },
+      {
+        "heading": "Restez connecté à la Touraine",
+        "paragraphs": [
+          "Abonnez-vous à notre newsletter gratuite pour recevoir une sélection de nos actualités directement dans votre boîte mail. Consultez également Touraine le Mag, notre magazine trimestriel disponible en ligne et dans les lieux publics du département."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Toutes les actualités", "path": "actualites/toutes-les-actus" },
+      { "label": "Agenda à la une", "path": "actualites/agenda-a-la-une" },
+      { "label": "S'abonner à la newsletter", "path": "actualites/inscription-newsletter" },
+      { "label": "Touraine le Mag et kiosque", "path": "actualites/touraine-le-mag-et-kiosque" }
+    ],
+    "contactCta": false
+  },
+
+  "actualites/inscription-newsletter": {
+    "seo": {
+      "title": "S'abonner à la newsletter du Département | Touraine",
+      "description": "Recevez les actualités du Département de Touraine directement dans votre boîte mail. Inscription gratuite, désabonnement facile, conformité RGPD garantie."
+    },
+    "heroSubtitle": "Abonnez-vous gratuitement à la newsletter du Département de Touraine et recevez une sélection d'actualités chaque mois dans votre boîte mail.",
+    "intro": [
+      "La newsletter du Département de Touraine vous permet de suivre facilement les grandes décisions, les projets en cours et les événements qui rythment la vie d'Indre-et-Loire. Inscription gratuite, sans engagement, résiliable à tout moment."
+    ],
+    "sections": [
+      {
+        "heading": "Ce que vous recevrez",
+        "paragraphs": [
+          "Chaque mois, notre lettre d'information vous propose une sélection des actualités les plus importantes : avancée des projets d'infrastructure, nouvelles mesures de solidarité, appels à projets, agenda institutionnel et vie culturelle soutenue par le Département."
+        ],
+        "bullets": [
+          "Les décisions majeures de l'Assemblée départementale",
+          "Les projets phares pour le territoire tourangeau",
+          "Les événements et rendez-vous à ne pas manquer",
+          "Les appels à projets et dispositifs d'aide ouverts",
+          "Les parutions du magazine Touraine le Mag"
+        ]
+      },
+      {
+        "heading": "Comment fonctionne l'inscription (double opt-in)",
+        "paragraphs": [
+          "Conformément au Règlement Général sur la Protection des Données (RGPD), l'abonnement à notre newsletter repose sur un processus de double confirmation. Après avoir saisi votre adresse e-mail et validé le formulaire, vous recevrez un courriel de confirmation. Vous devrez cliquer sur le lien qu'il contient pour activer définitivement votre abonnement.",
+          "Cette procédure garantit que seules les personnes ayant expressément consenti reçoivent notre lettre d'information. Aucune donnée n'est transmise à des tiers à des fins commerciales."
+        ]
+      },
+      {
+        "heading": "Se désabonner",
+        "paragraphs": [
+          "Vous pouvez vous désabonner à tout moment, sans justification, en cliquant sur le lien de désabonnement présent en bas de chaque newsletter. Votre adresse e-mail sera immédiatement supprimée de notre liste de diffusion. Pour toute demande relative à vos données personnelles, contactez notre délégué à la protection des données à l'adresse contact@touraine.fr."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mon abonnement est-il immédiatement actif après le remplissage du formulaire ?",
+        "a": "Non. Vous recevrez un e-mail de confirmation dans les minutes suivant votre inscription. Votre abonnement ne sera effectif qu'après avoir cliqué sur le lien de validation contenu dans cet e-mail (double opt-in)."
+      },
+      {
+        "q": "À quelle fréquence la newsletter est-elle envoyée ?",
+        "a": "La newsletter est envoyée une fois par mois, en début de mois. Des envois exceptionnels peuvent avoir lieu lors d'événements importants pour le territoire."
+      },
+      {
+        "q": "Mes données personnelles sont-elles protégées ?",
+        "a": "Oui. Votre adresse e-mail est utilisée uniquement pour l'envoi de la newsletter départementale. Elle n'est jamais cédée ni vendue à des tiers. Vous pouvez exercer vos droits d'accès, de rectification et de suppression en écrivant à contact@touraine.fr."
+      }
+    ],
+    "related": [
+      { "label": "Toutes les actualités", "path": "actualites/toutes-les-actus" },
+      { "label": "Touraine le Mag et kiosque", "path": "actualites/touraine-le-mag-et-kiosque" },
+      { "label": "Accessibilité et mentions légales", "path": "nous-contacter/accessibilite-et-mentions-legales" }
+    ],
+    "contactCta": false
+  },
+
+  "actualites/touraine-le-mag-et-kiosque": {
+    "seo": {
+      "title": "Touraine le Mag — Magazine et kiosque numérique | Touraine",
+      "description": "Feuilletez Touraine le Mag, le magazine trimestriel du Département d'Indre-et-Loire, et retrouvez tous les numéros en ligne dans notre kiosque numérique."
+    },
+    "heroSubtitle": "Touraine le Mag, le magazine trimestriel du Département, vous plonge au cœur des politiques publiques, des projets et des visages qui font la Touraine.",
+    "intro": [
+      "Quatre fois par an, Touraine le Mag donne la parole aux habitants, aux élus et aux agents du Département pour raconter le territoire en images et en textes. Des grands dossiers thématiques aux reportages de terrain, le magazine éclaire les actions du Conseil Départemental d'Indre-et-Loire de manière accessible et vivante.",
+      "Tous les numéros sont disponibles en lecture en ligne et en téléchargement gratuit dans notre kiosque numérique. Le magazine est également distribué dans les collèges, les Maisons Départementales de la Solidarité (MDS), les médiathèques partenaires et les principaux lieux d'accueil du public du département."
+    ],
+    "sections": [
+      {
+        "heading": "Un magazine au service des Tourangeaux",
+        "paragraphs": [
+          "Chaque numéro de Touraine le Mag s'articule autour d'un grand dossier de fond — qu'il s'agisse de la transition écologique, de l'autonomie des personnes âgées, du réseau de collèges ou du tourisme en Val de Loire — complété par des rubriques régulières : vie de l'Assemblée, portrait d'un agent, coup de projecteur sur une commune du département, agenda culturel et sportif."
+        ]
+      },
+      {
+        "heading": "Où trouver le magazine en version papier ?",
+        "paragraphs": [
+          "La version imprimée est diffusée gratuitement dans les communes d'Indre-et-Loire via les mairies, les collèges publics du département, les Maisons Départementales de la Solidarité, les offices de tourisme du territoire et l'accueil de l'Hôtel du Département à Tours. Si vous ne trouvez pas le magazine dans votre commune, contactez-nous à contact@touraine.fr."
+        ]
+      },
+      {
+        "heading": "Le kiosque numérique",
+        "paragraphs": [
+          "Consultez l'intégralité des numéros parus depuis les premières éditions depuis notre kiosque numérique. Chaque numéro est disponible en format PDF téléchargeable et en visionneuse interactive. Le kiosque est accessible depuis tout appareil connecté, sans création de compte."
+        ]
+      }
+    ],
+    "downloads": [
+      "Touraine le Mag n°42 — Printemps 2026 (PDF)",
+      "Touraine le Mag n°41 — Hiver 2025-2026 (PDF)",
+      "Touraine le Mag n°40 — Automne 2025 (PDF)",
+      "Touraine le Mag n°39 — Été 2025 (PDF)",
+      "Touraine le Mag n°38 — Printemps 2025 (PDF)"
+    ],
+    "faq": [
+      {
+        "q": "Puis-je recevoir le magazine directement chez moi ?",
+        "a": "Le magazine est distribué dans les lieux publics et n'est pas envoyé individuellement à domicile. En revanche, vous pouvez recevoir une alerte à chaque nouvelle parution en vous abonnant à la newsletter du Département."
+      },
+      {
+        "q": "À quelle fréquence le magazine paraît-il ?",
+        "a": "Touraine le Mag est un trimestriel : il paraît au printemps, en été, en automne et en hiver. Les dates de parution sont annoncées sur ce site et dans la newsletter."
+      },
+      {
+        "q": "Les anciens numéros sont-ils tous disponibles en téléchargement ?",
+        "a": "Oui, le kiosque numérique archive l'ensemble des numéros disponibles. Vous pouvez les consulter et les télécharger gratuitement, sans inscription."
+      }
+    ],
+    "related": [
+      { "label": "Toutes les actualités", "path": "actualites/toutes-les-actus" },
+      { "label": "S'abonner à la newsletter", "path": "actualites/inscription-newsletter" },
+      { "label": "Agenda à la une", "path": "actualites/agenda-a-la-une" }
+    ],
+    "contactCta": true
+  },
+
+  "actualites/agenda-de-la-presidente": {
+    "seo": {
+      "title": "Agenda de la Présidente du Département | Touraine",
+      "description": "Consultez l'agenda public de la Présidente du Conseil Départemental d'Indre-et-Loire : déplacements, cérémonies, réunions et événements institutionnels."
+    },
+    "heroSubtitle": "Retrouvez les engagements publics de la Présidente du Conseil Départemental de Touraine : inaugurations, rencontres avec les citoyens et représentations institutionnelles.",
+    "intro": [
+      "Dans un souci de transparence et d'ouverture envers les habitants d'Indre-et-Loire, le Département de Touraine publie l'agenda public de sa Présidente. Vous y trouvez les principaux rendez-vous institutionnels, déplacements sur le territoire, participations à des événements régionaux ou nationaux, ainsi que les séances de l'Assemblée départementale."
+    ],
+    "sections": [
+      {
+        "heading": "Des engagements au cœur du territoire",
+        "paragraphs": [
+          "La Présidente du Conseil Départemental est au contact permanent du terrain : inaugurations d'équipements, visites dans les collèges, rencontres avec les associations, réunions avec les maires du département ou représentations auprès des instances régionales et nationales. Cet agenda traduit l'implication quotidienne de l'exécutif départemental au service des Tourangeaux."
+        ]
+      },
+      {
+        "heading": "Séances de l'Assemblée départementale",
+        "paragraphs": [
+          "Les séances plénières de l'Assemblée départementale, au cours desquelles les conseillers départementaux débattent et votent les délibérations, sont publiques. Leurs dates sont intégrées à l'agenda. Les comptes rendus et les délibérations adoptées sont publiés sur ce site dans les jours suivant chaque séance."
+        ]
+      },
+      {
+        "heading": "Demande d'audience",
+        "paragraphs": [
+          "Les associations, collectivités et partenaires institutionnels souhaitant solliciter une rencontre avec la Présidente peuvent adresser leur demande par écrit au cabinet de la Présidence, à l'adresse contact@touraine.fr ou par courrier à l'Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Actualités du Département", "path": "actualites" },
+      { "label": "Agenda à la une", "path": "actualites/agenda-a-la-une" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "nous-contacter": {
+    "seo": {
+      "title": "Nous contacter — Département de Touraine | Touraine",
+      "description": "Contactez le Conseil Départemental d'Indre-et-Loire : adresse, horaires d'accueil, formulaire de contact et informations pratiques pour venir à l'Hôtel du Département."
+    },
+    "heroSubtitle": "Le Département de Touraine est à votre écoute. Retrouvez toutes les façons de nous contacter : en ligne, par téléphone ou en vous rendant directement à l'Hôtel du Département.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire met tout en œuvre pour répondre aux questions des habitants, des associations, des collectivités partenaires et de toute personne souhaitant entrer en contact avec ses services. Que votre demande concerne une aide sociale, un collège, un projet de voirie ou toute autre compétence départementale, nous vous orienterons vers le bon interlocuteur.",
+      "Cette rubrique regroupe l'ensemble des informations pour nous joindre : coordonnées postales et téléphoniques, horaires d'accueil, formulaire de contact en ligne et informations pratiques pour venir en personne à l'Hôtel du Département à Tours."
+    ],
+    "sections": [
+      {
+        "heading": "Plusieurs façons de nous contacter",
+        "paragraphs": [
+          "Selon la nature de votre demande, différents canaux s'offrent à vous. Pour une question générale ou un renseignement rapide, notre standard téléphonique est disponible aux heures ouvrables. Pour une demande nécessitant un traitement écrit ou un suivi, le formulaire de contact en ligne est la solution la plus adaptée."
+        ],
+        "bullets": [
+          "Par téléphone : 02 47 31 47 31",
+          "Par formulaire en ligne (acheminement vers le bon service garanti)",
+          "Par courrier : Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9",
+          "Par e-mail général : contact@touraine.fr",
+          "En personne, aux horaires d'accueil du public"
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Coordonnées", "path": "nous-contacter/coordonnees" },
+      { "label": "Infos pratiques et horaires", "path": "nous-contacter/infos-pratiques-et-horaires" },
+      { "label": "Formulaire de contact", "path": "nous-contacter/formulaire-de-contact" },
+      { "label": "Accessibilité et mentions légales", "path": "nous-contacter/accessibilite-et-mentions-legales" }
+    ],
+    "contactCta": false
+  },
+
+  "nous-contacter/coordonnees": {
+    "seo": {
+      "title": "Coordonnées du Département de Touraine | Touraine",
+      "description": "Adresse postale, numéro de téléphone et e-mail du Conseil Départemental d'Indre-et-Loire. Retrouvez tous les contacts utiles pour joindre le Département."
+    },
+    "heroSubtitle": "Retrouvez l'adresse, le standard téléphonique et les contacts de l'Hôtel du Département de Touraine à Tours.",
+    "intro": [
+      "L'Hôtel du Département, siège du Conseil Départemental d'Indre-et-Loire, est implanté en plein cœur de Tours, à proximité immédiate de la Préfecture. Vous trouverez ci-dessous toutes les coordonnées nécessaires pour nous joindre."
+    ],
+    "sections": [
+      {
+        "heading": "Adresse postale et accueil",
+        "paragraphs": [
+          "Conseil Départemental d'Indre-et-Loire — Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9."
+        ]
+      },
+      {
+        "heading": "Contacts téléphoniques et électroniques",
+        "paragraphs": [
+          "Standard général : 02 47 31 47 31. Courriel général : contact@touraine.fr.",
+          "Le standard est ouvert du lundi au vendredi, de 8 h 30 à 12 h 30 et de 13 h 30 à 17 h 30. En dehors de ces horaires, nous vous invitons à utiliser le formulaire de contact en ligne ou à nous adresser un courriel."
+        ]
+      },
+      {
+        "heading": "Maisons Départementales de la Solidarité (MDS)",
+        "paragraphs": [
+          "Pour les demandes relevant de l'action sociale (RSA, aide à domicile, protection de l'enfance, accompagnement des personnes âgées ou en situation de handicap), les Maisons Départementales de la Solidarité constituent le premier point de contact de proximité. Les coordonnées des MDS réparties sur le territoire d'Indre-et-Loire sont consultables dans la rubrique Mes services au quotidien."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Infos pratiques et horaires", "path": "nous-contacter/infos-pratiques-et-horaires" },
+      { "label": "Formulaire de contact", "path": "nous-contacter/formulaire-de-contact" },
+      { "label": "Mes services au quotidien", "path": "mes-services-au-quotidien" }
+    ],
+    "contactCta": false
+  },
+
+  "nous-contacter/infos-pratiques-et-horaires": {
+    "seo": {
+      "title": "Infos pratiques et horaires — Hôtel du Département | Touraine",
+      "description": "Horaires d'accueil, accès en voiture, train, bus et vélo à l'Hôtel du Département à Tours. Informations d'accessibilité pour les personnes à mobilité réduite."
+    },
+    "heroSubtitle": "Préparez votre visite à l'Hôtel du Département de Touraine : horaires d'accueil, accès par tous les modes de transport et informations d'accessibilité.",
+    "intro": [
+      "L'Hôtel du Département est situé au cœur de Tours, place de la Préfecture. Facilement accessible par les transports en commun, à pied, à vélo ou en voiture, il accueille le public aux guichets dans les conditions décrites ci-dessous."
+    ],
+    "sections": [
+      {
+        "heading": "Horaires d'accueil du public",
+        "paragraphs": [
+          "L'accueil du public est ouvert du lundi au vendredi, de 8 h 30 à 12 h 30 et de 13 h 30 à 17 h 30. Le bâtiment est fermé les jours fériés. En dehors de ces horaires, les services d'urgence sociale (protection de l'enfance, violences conjugales) restent joignables via les numéros d'urgence départementaux indiqués dans la rubrique Mes services au quotidien."
+        ]
+      },
+      {
+        "heading": "Accès en transports en commun",
+        "paragraphs": [
+          "L'Hôtel du Département est desservi par le réseau Fil Bleu de Tours Métropole Val de Loire. Plusieurs lignes de bus et le tramway s'arrêtent à proximité immédiate (arrêt Préfecture ou Jean-Jaurès selon les lignes). Nous vous recommandons de consulter le site de Fil Bleu pour préparer votre trajet en temps réel.",
+          "Depuis la gare de Tours-Saint-Pierre-des-Corps ou la gare de Tours, comptez environ 15 minutes en tramway ou en bus. Des liaisons régulières existent depuis l'ensemble des communes de l'agglomération tourangelle."
+        ]
+      },
+      {
+        "heading": "Accès en voiture et stationnement",
+        "paragraphs": [
+          "L'Hôtel du Département est situé en zone hyper-centre de Tours. L'accès en voiture est possible par le boulevard Heurteloup et les axes principaux du centre-ville. Des parkings payants se trouvent à proximité (parking des Halles, parking Jean-Jaurès). Des places de stationnement PMR (personnes à mobilité réduite) sont disponibles au droit du bâtiment sur la place de la Préfecture."
+        ]
+      },
+      {
+        "heading": "Accès à vélo",
+        "paragraphs": [
+          "Tours bénéficie d'un réseau de pistes cyclables reliant le centre-ville aux communes de la métropole. Des arceaux vélo sont disponibles à l'entrée de l'Hôtel du Département. Le service de vélos en libre-service de la métropole tourangelle dispose de stations à proximité."
+        ]
+      },
+      {
+        "heading": "Accessibilité",
+        "paragraphs": [
+          "L'Hôtel du Département est un établissement recevant du public (ERP) accessible aux personnes en situation de handicap. L'accueil est de plain-pied, des ascenseurs permettent l'accès à tous les niveaux, et des boucles magnétiques sont disponibles aux guichets pour les personnes malentendantes. Si vous avez des besoins spécifiques pour préparer votre visite, contactez-nous à contact@touraine.fr afin que nous puissions vous accompagner dans les meilleures conditions."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "L'Hôtel du Département est-il ouvert le samedi ?",
+        "a": "Non, les services au public sont ouverts uniquement du lundi au vendredi, de 8 h 30 à 12 h 30 et de 13 h 30 à 17 h 30. Pour toute demande en dehors de ces horaires, utilisez le formulaire de contact en ligne."
+      },
+      {
+        "q": "Puis-je me garer gratuitement devant l'Hôtel du Département ?",
+        "a": "Le stationnement sur la place de la Préfecture est payant et limité dans le temps. Nous vous recommandons d'utiliser les parkings souterrains proches ou de venir en transports en commun. Des places PMR gratuites sont réservées devant l'entrée principale."
+      },
+      {
+        "q": "Le bâtiment est-il accessible en fauteuil roulant ?",
+        "a": "Oui, l'Hôtel du Département est entièrement accessible aux personnes en fauteuil roulant : rampe d'accès à l'entrée, ascenseurs et sanitaires adaptés. Pour toute demande d'aménagement spécifique, contactez-nous préalablement à votre visite."
+      }
+    ],
+    "related": [
+      { "label": "Coordonnées", "path": "nous-contacter/coordonnees" },
+      { "label": "Formulaire de contact", "path": "nous-contacter/formulaire-de-contact" }
+    ],
+    "contactCta": false
+  },
+
+  "nous-contacter/formulaire-de-contact": {
+    "seo": {
+      "title": "Formulaire de contact — Département de Touraine | Touraine",
+      "description": "Contactez le Département de Touraine en ligne. Votre message est automatiquement acheminé au service compétent. Réponse garantie sous 5 jours ouvrés."
+    },
+    "heroSubtitle": "Adressez votre message au Département de Touraine via notre formulaire sécurisé : nous vous orientons vers le bon service et vous répondons dans les meilleurs délais.",
+    "intro": [
+      "Le formulaire de contact en ligne est le moyen le plus rapide et le plus sûr pour adresser une demande au Conseil Départemental d'Indre-et-Loire. Grâce au système de qualification de votre demande, votre message est automatiquement acheminé vers le service compétent, ce qui vous garantit une réponse plus rapide et plus précise."
+    ],
+    "sections": [
+      {
+        "heading": "Comment utiliser le formulaire",
+        "paragraphs": [
+          "Sélectionnez la thématique qui correspond le mieux à votre demande (action sociale, collèges, routes et mobilités, environnement, culture, information générale…), renseignez vos coordonnées et rédigez votre message. Vous recevrez un accusé de réception automatique par e-mail confirmant la bonne prise en compte de votre demande."
+        ],
+        "bullets": [
+          "Choisissez la thématique de votre demande dans le menu déroulant",
+          "Renseignez vos nom, prénom et adresse e-mail",
+          "Décrivez votre demande de manière précise",
+          "Joignez un document si nécessaire (taille maximale : 5 Mo par fichier)",
+          "Validez le formulaire : vous recevrez un accusé de réception par e-mail"
+        ]
+      },
+      {
+        "heading": "Délai de réponse",
+        "paragraphs": [
+          "Le Département s'engage à répondre à toute demande formulée via ce formulaire dans un délai de 5 jours ouvrés. Certaines demandes complexes, nécessitant une instruction approfondie (demande d'aide sociale, recours, etc.), peuvent faire l'objet d'un délai plus long ; vous en serez informé par retour de courriel."
+        ]
+      },
+      {
+        "heading": "Protection de vos données personnelles (RGPD)",
+        "paragraphs": [
+          "Les informations recueillies via ce formulaire sont traitées par le Conseil Départemental d'Indre-et-Loire en sa qualité de responsable de traitement, dans le seul but de traiter votre demande et d'y répondre. Elles ne sont pas transmises à des tiers, sauf obligation légale.",
+          "Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, de suppression et d'opposition aux données vous concernant. Pour exercer ces droits, contactez notre Délégué à la Protection des Données à contact@touraine.fr. Pour en savoir plus, consultez notre page Accessibilité et mentions légales."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mon message sera-t-il bien lu par un agent du Département ?",
+        "a": "Oui. Après la qualification automatique de votre demande, votre message est transmis à un agent humain du service concerné, qui vous répond personnellement dans le délai indiqué."
+      },
+      {
+        "q": "Puis-je joindre des pièces justificatives à mon message ?",
+        "a": "Oui, le formulaire permet de joindre des fichiers (PDF, JPEG, PNG) dans la limite de 5 Mo par fichier. Si vos documents sont trop volumineux, vous pouvez les envoyer par courrier postal à l'Hôtel du Département."
+      },
+      {
+        "q": "Je n'ai pas reçu l'accusé de réception, que faire ?",
+        "a": "Vérifiez votre dossier de courriers indésirables (spam). Si l'e-mail de confirmation ne s'y trouve pas, c'est peut-être que votre adresse a été saisie avec une erreur. Dans ce cas, renvoyez votre message en vérifiant soigneusement votre adresse e-mail."
+      },
+      {
+        "q": "Le formulaire est-il accessible aux personnes en situation de handicap ?",
+        "a": "Oui, le formulaire est conçu pour être compatible avec les technologies d'assistance (lecteurs d'écran, navigation au clavier). Si vous rencontrez une difficulté d'accessibilité, signalez-la à contact@touraine.fr."
+      }
+    ],
+    "related": [
+      { "label": "Coordonnées", "path": "nous-contacter/coordonnees" },
+      { "label": "Accessibilité et mentions légales", "path": "nous-contacter/accessibilite-et-mentions-legales" },
+      { "label": "Infos pratiques et horaires", "path": "nous-contacter/infos-pratiques-et-horaires" }
+    ],
+    "contactCta": true
+  },
+
+  "nous-contacter/accessibilite-et-mentions-legales": {
+    "seo": {
+      "title": "Accessibilité, mentions légales et RGPD | Touraine",
+      "description": "Déclaration d'accessibilité RGAA, mentions légales, politique de confidentialité et gestion des cookies du site officiel du Département de Touraine."
+    },
+    "heroSubtitle": "Déclaration d'accessibilité numérique, mentions légales de l'éditeur et informations relatives à la protection de vos données personnelles sur touraine.fr.",
+    "intro": [
+      "Cette page regroupe les informations légales et réglementaires relatives au site officiel du Département de Touraine : déclaration d'accessibilité conforme au RGAA, mentions légales de l'éditeur, politique de confidentialité et gestion des cookies."
+    ],
+    "sections": [
+      {
+        "heading": "Déclaration d'accessibilité (RGAA 4.1)",
+        "paragraphs": [
+          "Le Conseil Départemental d'Indre-et-Loire s'engage à rendre son site Internet accessible conformément à l'article 47 de la loi n° 2005-102 du 11 février 2005 et au décret n° 2019-768 du 24 juillet 2019. La présente déclaration d'accessibilité s'applique au site touraine.fr.",
+          "État de conformité : le site touraine.fr est partiellement conforme au référentiel général d'amélioration de l'accessibilité (RGAA) version 4.1. Un audit de conformité est en cours pour identifier et corriger les non-conformités résiduelles. Les résultats de l'audit et le plan d'action seront publiés sur cette page.",
+          "Si vous rencontrez un défaut d'accessibilité vous empêchant d'accéder à un contenu ou à une fonctionnalité du site, contactez-nous à contact@touraine.fr. Nous nous engageons à vous fournir, dans un délai raisonnable, une alternative accessible ou le contenu dans la forme que vous souhaitez. Si votre demande reste sans réponse dans un délai de deux jours ouvrés, vous avez la possibilité de saisir le Défenseur des droits (defenseurdesdroits.fr)."
+        ]
+      },
+      {
+        "heading": "Mentions légales",
+        "paragraphs": [
+          "Éditeur du site : Conseil Départemental d'Indre-et-Loire, Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9. Téléphone : 02 47 31 47 31. Courriel : contact@touraine.fr.",
+          "Directeur de la publication : la Présidente du Conseil Départemental d'Indre-et-Loire. Responsable éditorial : Direction de la Communication. Conception et réalisation technique : Direction des Systèmes d'Information du Conseil Départemental d'Indre-et-Loire.",
+          "Hébergement : le site touraine.fr est hébergé par un prestataire agréé. Les données sont stockées sur des serveurs situés sur le territoire de l'Union européenne, conformément aux exigences du RGPD."
+        ]
+      },
+      {
+        "heading": "Propriété intellectuelle",
+        "paragraphs": [
+          "L'ensemble des contenus publiés sur touraine.fr (textes, photographies, infographies, vidéos, logos) est la propriété du Conseil Départemental d'Indre-et-Loire ou de ses partenaires et est protégé par le droit de la propriété intellectuelle. Toute reproduction ou représentation, totale ou partielle, sans autorisation préalable écrite du Département est interdite et constitue une contrefaçon au sens des articles L. 335-2 et suivants du Code de la propriété intellectuelle.",
+          "Certains contenus sont publiés sous licence ouverte (Open Data / Licence Etalab) dans le cadre de la politique d'ouverture des données publiques du Département. Les conditions d'utilisation sont alors précisées au cas par cas."
+        ]
+      },
+      {
+        "heading": "Protection des données personnelles (RGPD)",
+        "paragraphs": [
+          "Le Conseil Départemental d'Indre-et-Loire est responsable de traitement au sens du Règlement (UE) 2016/679 (RGPD). Les données personnelles collectées sur ce site (formulaire de contact, newsletter, cookies de mesure d'audience) sont traitées dans le strict cadre des finalités pour lesquelles elles ont été collectées et ne sont jamais revendues à des tiers.",
+          "Vous disposez, sur les données vous concernant, de droits d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité et d'opposition. Pour exercer ces droits ou pour toute question relative à la protection de vos données, contactez le Délégué à la Protection des Données (DPD) du Département à l'adresse contact@touraine.fr ou par courrier à l'adresse de l'Hôtel du Département, à l'attention du DPD.",
+          "Vous avez également le droit d'introduire une réclamation auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) sur le site cnil.fr."
+        ]
+      },
+      {
+        "heading": "Cookies et traceurs",
+        "paragraphs": [
+          "Le site touraine.fr utilise des cookies et traceurs à des fins de mesure d'audience anonymisée (outil de statistiques exempt de consentement selon les recommandations de la CNIL) et, le cas échéant, de personnalisation de contenu. Aucun cookie publicitaire ou de profilage n'est déposé sur votre terminal.",
+          "Lors de votre première visite, un bandeau d'information vous informe de la présence de ces traceurs et vous permet de paramétrer vos choix. Vous pouvez modifier vos préférences à tout moment via le lien de gestion des cookies disponible en bas de chaque page du site."
+        ]
+      },
+      {
+        "heading": "Liens hypertextes",
+        "paragraphs": [
+          "Le site touraine.fr propose des liens vers des sites Internet de tiers (Service-Public.fr, Défenseur des droits, CNIL, partenaires institutionnels). Le Département ne saurait être tenu responsable des contenus publiés sur ces sites externes, dont il ne maîtrise pas l'édition. La présence d'un lien ne vaut pas approbation du contenu du site lié."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment signaler un problème d'accessibilité sur le site ?",
+        "a": "Envoyez un message à contact@touraine.fr en décrivant la page concernée et le type de difficulté rencontré. Nous nous engageons à vous répondre dans les deux jours ouvrés et à corriger la non-conformité dans les meilleurs délais."
+      },
+      {
+        "q": "Comment exercer mes droits sur mes données personnelles ?",
+        "a": "Adressez votre demande par e-mail à contact@touraine.fr, à l'attention du Délégué à la Protection des Données, ou par courrier à l'Hôtel du Département. Précisez la nature de votre demande (accès, rectification, suppression, opposition) et joignez une copie d'une pièce d'identité."
+      },
+      {
+        "q": "Puis-je réutiliser les contenus du site touraine.fr ?",
+        "a": "Les contenus sont protégés par le droit d'auteur. Toute réutilisation nécessite une autorisation préalable écrite du Département, sauf pour les contenus explicitement publiés sous Licence Ouverte Etalab. Pour toute demande, écrivez à contact@touraine.fr."
+      }
+    ],
+    "related": [
+      { "label": "Formulaire de contact", "path": "nous-contacter/formulaire-de-contact" },
+      { "label": "Coordonnées", "path": "nous-contacter/coordonnees" },
+      { "label": "Service-Public.fr", "url": "https://www.service-public.fr" },
+      { "label": "CNIL — Commission Nationale de l'Informatique et des Libertés", "url": "https://www.cnil.fr" },
+      { "label": "Défenseur des droits", "url": "https://www.defenseurdesdroits.fr" }
+    ],
+    "contactCta": false
+  }
+}

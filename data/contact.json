@@ -1,0 +1,14 @@
+{
+  "intro": "Une question, une démarche, une demande d'information ? Le Département de Touraine vous accueille, vous oriente et vous répond.",
+  "hours": [
+    { "days": "Lundi – Jeudi", "time": "8h30 – 17h30" },
+    { "days": "Vendredi", "time": "8h30 – 16h30" },
+    { "days": "Samedi – Dimanche", "time": "Fermé" }
+  ],
+  "map": {
+    "embedUrl": "https://www.openstreetmap.org/export/embed.html?bbox=0.6800%2C47.3856%2C0.7040%2C47.3976&layer=mapnik&marker=47.3916%2C0.6920",
+    "linkUrl": "https://www.openstreetmap.org/?mlat=47.3916&mlon=0.6920#map=16/47.3916/0.6920",
+    "label": "Hôtel du Département — Place de la Préfecture, 37000 Tours"
+  },
+  "transport": "Accès en transports en commun : réseau Fil Bleu, arrêt « Préfecture » (tramway A et lignes de bus). Stationnement vélo et parkings à proximité."
+}

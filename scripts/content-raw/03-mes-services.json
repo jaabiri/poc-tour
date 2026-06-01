@@ -1,0 +1,1196 @@
+{
+  "mes-services-au-quotidien": {
+    "seo": {
+      "title": "Mes services au quotidien – Département de Touraine",
+      "description": "Le Département d'Indre-et-Loire accompagne les Tourangeaux à chaque étape de la vie : solidarité, logement, emploi, mobilité, culture et environnement."
+    },
+    "heroSubtitle": "Le Département de Touraine agit chaque jour au plus près des habitants : solidarités, accès aux droits, mobilité, éducation, culture et cadre de vie pour tous les Tourangeaux.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire est votre interlocuteur de proximité pour un large éventail de services publics essentiels. Que vous traversiez une période de fragilité, que vous accompagniez un proche en perte d'autonomie ou que vous souhaitiez profiter des richesses du territoire, le Département est là.",
+      "Découvrez ci-dessous l'ensemble des rubriques thématiques pour accéder facilement à vos droits, aux aides disponibles et aux services qui vous concernent."
+    ],
+    "sections": [
+      {
+        "heading": "Le Département, acteur de votre vie quotidienne",
+        "paragraphs": [
+          "Chef de file de l'action sociale, le Département intervient dans des domaines aussi variés que la protection de l'enfance, le soutien aux personnes âgées et handicapées, l'insertion professionnelle, le logement ou encore la gestion du réseau routier départemental.",
+          "Ces missions sont portées par des équipes pluridisciplinaires réparties sur tout le territoire, notamment au sein des Maisons départementales de la solidarité (MDS), vos points de contact locaux."
+        ],
+        "bullets": [
+          "14 Maisons départementales de la solidarité réparties sur le territoire",
+          "Accompagnement social individualisé par des travailleurs sociaux qualifiés",
+          "Aides financières et dispositifs d'accès aux droits",
+          "Gestion de plus de 3 700 km de routes départementales",
+          "Soutien à la culture, au tourisme et à la préservation de l'environnement"
+        ]
+      },
+      {
+        "heading": "Comment accéder à vos services ?",
+        "paragraphs": [
+          "Pour toute demande d'accompagnement social, rapprochez-vous de la MDS la plus proche de votre domicile. Vous pouvez également contacter le standard départemental ou écrire à contact@touraine.fr pour être orienté vers le bon interlocuteur.",
+          "Certaines démarches sont entièrement dématérialisées et accessibles depuis votre espace personnel sur touraine.fr. Pour les démarches nécessitant un accompagnement physique, la prise de rendez-vous est recommandée."
+        ],
+        "bullets": [
+          "En ligne sur touraine.fr — démarches simplifiées 24h/24",
+          "Par téléphone : 02 47 31 47 31 (du lundi au vendredi)",
+          "En personne dans votre MDS de secteur",
+          "Par courrier : Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qu'est-ce qu'une Maison départementale de la solidarité (MDS) ?",
+        "a": "La MDS est le lieu d'accueil de proximité du Département pour toutes les questions d'action sociale : accompagnement des familles, insertion, personnes âgées et handicapées. Des travailleurs sociaux y reçoivent les habitants sur rendez-vous ou en accueil libre selon les sites."
+      },
+      {
+        "q": "Comment savoir si j'ai droit à une aide du Département ?",
+        "a": "Contactez la MDS de votre secteur ou appelez le 02 47 31 47 31. Un travailleur social évaluera votre situation et vous informera des dispositifs auxquels vous pouvez prétendre (RSA, APA, FSL, PCH, aides ponctuelles, etc.)."
+      },
+      {
+        "q": "Le Département gère-t-il les collèges et les routes ?",
+        "a": "Oui. Le Département d'Indre-et-Loire est propriétaire et gestionnaire des collèges publics du territoire, et assure l'entretien et l'exploitation de son réseau de routes départementales. Il finance également les transports scolaires."
+      }
+    ],
+    "related": [
+      {
+        "label": "Vos services de proximité (MDS)",
+        "path": "mes-services-au-quotidien/vos-services-de-proximite"
+      },
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      }
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/vos-services-de-proximite": {
+    "seo": {
+      "title": "Services de proximité et MDS – Touraine (37)",
+      "description": "Trouvez la Maison départementale de la solidarité (MDS) la plus proche de chez vous en Indre-et-Loire. Accueil, accompagnement social, accès aux droits."
+    },
+    "heroSubtitle": "Les Maisons départementales de la solidarité sont vos points de contact locaux pour l'ensemble des services sociaux du Département, répartis sur tout le territoire d'Indre-et-Loire.",
+    "intro": [
+      "Le Département de Touraine a organisé ses services sociaux en réseau de proximité grâce aux Maisons départementales de la solidarité (MDS). Chaque MDS couvre un secteur géographique et accueille travailleurs sociaux, conseillers en insertion et professionnels de la santé sociale.",
+      "Que vous ayez besoin d'un accompagnement ponctuel ou d'un suivi régulier, votre MDS de secteur est le premier guichet à contacter."
+    ],
+    "sections": [
+      {
+        "heading": "À quoi sert une MDS ?",
+        "paragraphs": [
+          "La MDS est un lieu pluridisciplinaire où vous pouvez rencontrer des assistants sociaux, des conseillers en économie sociale et familiale, des professionnels de la PMI (Protection maternelle et infantile) et des référents d'insertion. Elle est ouverte à tous les habitants de son secteur, sans condition préalable.",
+          "Les équipes de MDS instruisent les demandes d'aides (RSA, FSL, APA, PCH), orientent vers les partenaires du territoire et assurent un suivi social personnalisé dans la durée."
+        ],
+        "bullets": [
+          "Accueil sans rendez-vous et sur rendez-vous selon les sites",
+          "Accompagnement social global par des travailleurs sociaux",
+          "Instruction des dossiers RSA, APA, PCH, FSL",
+          "Coordination avec les partenaires locaux (CCAS, CAF, Pôle emploi, associations)",
+          "Actions collectives de prévention et d'insertion"
+        ]
+      },
+      {
+        "heading": "Trouver votre MDS",
+        "paragraphs": [
+          "Le Département dispose d'un réseau de Maisons départementales de la solidarité couvrant l'ensemble du territoire d'Indre-et-Loire, de Tours à la Touraine rurale. Utilisez la carte interactive ci-dessous pour localiser le site le plus proche de votre domicile, consulter ses horaires d'ouverture et obtenir ses coordonnées.",
+          "Si vous ne savez pas à quelle MDS vous rattacher, contactez le standard départemental au 02 47 31 47 31 : vous serez orienté vers le bon secteur."
+        ]
+      },
+      {
+        "heading": "Autres services de proximité du Département",
+        "paragraphs": [
+          "En complément des MDS, le Département soutient un réseau de services de proximité sur l'ensemble du territoire : points info familles, relais assistants maternels, épiceries sociales partenaires et permanences délocalisées dans les communes rurales.",
+          "Ces services participent à lutter contre l'isolement et à faciliter l'accès aux droits pour les habitants les plus éloignés des centres-villes."
+        ],
+        "bullets": [
+          "Permanences délocalisées dans les communes rurales",
+          "Points d'accès aux droits en lien avec les CCAS",
+          "Relais d'assistants maternels (RAM)",
+          "Épiceries sociales et associatives partenaires"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Puis-je me rendre dans n'importe quelle MDS ou dois-je aller dans celle de mon secteur ?",
+        "a": "En principe, vous êtes rattaché à la MDS correspondant à votre lieu de résidence. Cependant, en cas d'urgence ou de difficulté de déplacement, toute MDS du réseau peut vous accueillir et vous orienter."
+      },
+      {
+        "q": "Faut-il prendre rendez-vous pour être reçu en MDS ?",
+        "a": "Cela dépend du site. Certaines MDS proposent des plages d'accueil libre ; d'autres fonctionnent sur rendez-vous. Renseignez-vous directement auprès de la MDS de votre secteur ou via le 02 47 31 47 31."
+      },
+      {
+        "q": "Quels documents apporter lors de ma première visite ?",
+        "a": "Amenez une pièce d'identité, votre justificatif de domicile et, si possible, les documents relatifs à votre situation (avis d'imposition, jugement de divorce, notification CAF, etc.). Le travailleur social pourra vous indiquer d'autres pièces si nécessaire selon votre demande."
+      }
+    ],
+    "related": [
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "Insertion et emploi",
+        "path": "mes-services-au-quotidien/insertion-et-emploi"
+      },
+      {
+        "label": "Handicap et MDPH",
+        "path": "mes-services-au-quotidien/handicap"
+      }
+    ],
+    "downloads": [
+      "Guide des services de proximité en Touraine (PDF)",
+      "Annuaire des MDS d'Indre-et-Loire (PDF)"
+    ],
+    "contactCta": true,
+    "map": {
+      "title": "Carte des Maisons départementales de la solidarité (MDS) en Indre-et-Loire",
+      "arcgisItemUrl": "https://www.arcgis.com/home/item.html?id=mds-indre-et-loire-cd37"
+    }
+  },
+  "mes-services-au-quotidien/l-accompagnement-social": {
+    "seo": {
+      "title": "Accompagnement social en Touraine – CD37",
+      "description": "Le Département d'Indre-et-Loire propose un accompagnement social personnalisé : accès aux droits, RSA, aides financières et soutien aux familles en difficulté."
+    },
+    "heroSubtitle": "Les travailleurs sociaux du Département vous accompagnent dans vos démarches, vos droits et vos projets de vie, au plus près de votre situation personnelle et familiale.",
+    "intro": [
+      "L'action sociale est au cœur des missions du Conseil Départemental. En Indre-et-Loire, des équipes de professionnels — assistants de service social, conseillers en économie sociale et familiale, éducateurs spécialisés — interviennent auprès des personnes et des familles pour les accompagner face aux difficultés de la vie.",
+      "L'accompagnement social du Département couvre l'accès aux droits, le soutien budgétaire, l'insertion, la protection de l'enfance et la lutte contre l'exclusion. Il s'adapte à chaque situation individuelle."
+    ],
+    "sections": [
+      {
+        "heading": "Qui peut bénéficier de l'accompagnement social ?",
+        "paragraphs": [
+          "Tout habitant d'Indre-et-Loire peut solliciter l'accompagnement social du Département, quelle que soit sa situation. Il n'y a pas de condition de ressources pour une première prise de contact. Les travailleurs sociaux reçoivent les personnes qui traversent des difficultés financières, familiales, de logement ou de santé.",
+          "Les situations les plus fréquentes concernent : les personnes sans emploi ou en situation de pauvreté, les familles fragilisées, les personnes sortant d'hospitalisation ou de détention, les jeunes majeurs en difficulté et les victimes de violence."
+        ],
+        "bullets": [
+          "Personnes en situation de précarité financière",
+          "Familles confrontées à des difficultés éducatives ou relationnelles",
+          "Personnes isolées ou en perte d'autonomie",
+          "Jeunes adultes en rupture (18–25 ans)",
+          "Victimes de violence conjugale ou intrafamiliale"
+        ]
+      },
+      {
+        "heading": "Les aides et dispositifs mobilisables",
+        "paragraphs": [
+          "Le Département instruit et verse plusieurs aides légales et facultatives selon la situation des personnes. Le Revenu de solidarité active (RSA) est la principale aide nationale gérée par le Département pour les personnes sans ressources suffisantes. Des aides ponctuelles peuvent également être accordées pour faire face à des situations d'urgence.",
+          "Au-delà des aides financières, le Département finance et coordonne des dispositifs d'insertion, de lutte contre l'illettrisme, d'accompagnement vers le logement et de médiation familiale."
+        ],
+        "bullets": [
+          "RSA — Revenu de solidarité active (instruction et versement)",
+          "Aides financières ponctuelles d'urgence",
+          "Accompagnement budgétaire et mesures d'ASLL (Accompagnement social lié au logement)",
+          "Fonds d'aide aux jeunes (FAJ) pour les 18–25 ans",
+          "Médiation familiale",
+          "Mesures d'accompagnement social personnalisé (MASP)"
+        ]
+      },
+      {
+        "heading": "Comment est organisé l'accompagnement ?",
+        "paragraphs": [
+          "Après un premier accueil en MDS, une évaluation sociale est réalisée par un travailleur social référent. Un projet personnalisé est co-construit avec la personne, définissant les objectifs et les étapes de l'accompagnement. Des rendez-vous réguliers permettent de suivre l'avancement et d'adapter les actions.",
+          "Le Département travaille en partenariat étroit avec la CAF, Pôle emploi, les CCAS, les associations, les bailleurs sociaux et les services de santé pour proposer une réponse globale et coordonnée."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment demander le RSA en Indre-et-Loire ?",
+        "a": "La demande de RSA se fait en ligne sur le site de la CAF (caf.fr) ou directement dans votre MDS de secteur. Le Département est responsable de l'orientation et de l'accompagnement des bénéficiaires vers l'emploi ou l'insertion."
+      },
+      {
+        "q": "Puis-je être accompagné même si je ne touche pas d'aide financière ?",
+        "a": "Oui, absolument. L'accompagnement social ne se limite pas aux aides financières. Un travailleur social peut vous recevoir pour vous aider dans vos démarches administratives, votre orientation professionnelle, votre situation de logement ou toute autre difficulté de vie quotidienne."
+      },
+      {
+        "q": "La confidentialité est-elle garantie ?",
+        "a": "Oui. Les informations partagées avec votre travailleur social sont couvertes par le secret professionnel. Elles ne peuvent être transmises à des tiers sans votre accord, sauf situations de danger prévues par la loi."
+      }
+    ],
+    "related": [
+      {
+        "label": "Vos services de proximité (MDS)",
+        "path": "mes-services-au-quotidien/vos-services-de-proximite"
+      },
+      {
+        "label": "Insertion et emploi",
+        "path": "mes-services-au-quotidien/insertion-et-emploi"
+      },
+      {
+        "label": "Habitat et logement",
+        "path": "mes-services-au-quotidien/habitat-et-logement"
+      },
+      {
+        "label": "service-public.fr – RSA",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/N19775"
+      }
+    ],
+    "downloads": [
+      "Guide des aides sociales du Département (PDF)",
+      "Dépliant « Votre travailleur social, comment ça marche ? » (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/habitat-et-logement": {
+    "seo": {
+      "title": "Habitat et logement – Aides du Département 37",
+      "description": "FSL, rénovation énergétique, adaptation du logement au handicap ou au vieillissement : le Département d'Indre-et-Loire vous accompagne dans votre projet habitat."
+    },
+    "heroSubtitle": "Le Département soutient les Tourangeaux pour accéder à un logement décent, le rénover, l'adapter à la perte d'autonomie ou sortir d'une situation de mal-logement.",
+    "intro": [
+      "Le logement est un droit fondamental et un déterminant majeur du bien-être. Le Conseil Départemental d'Indre-et-Loire intervient à plusieurs niveaux pour aider les habitants en difficulté : maintien dans le logement, accès à un nouveau logement, rénovation énergétique et adaptation aux besoins des personnes âgées ou handicapées.",
+      "Ces interventions passent notamment par le Fonds de solidarité pour le logement (FSL), des aides à l'amélioration de l'habitat et la lutte contre le logement indigne."
+    ],
+    "sections": [
+      {
+        "heading": "Le Fonds de solidarité pour le logement (FSL)",
+        "paragraphs": [
+          "Le FSL est la principale aide du Département en matière de logement. Il s'adresse aux ménages aux ressources modestes qui rencontrent des difficultés pour accéder à un logement ou s'y maintenir. Le FSL peut financer le dépôt de garantie, le premier mois de loyer, les dettes locatives ou les impayés d'énergie, d'eau et de téléphone.",
+          "La demande de FSL est à déposer auprès de votre MDS de secteur, accompagnée des pièces justificatives de votre situation. Un travailleur social instruit le dossier et vous informe de la décision."
+        ],
+        "bullets": [
+          "Aide à l'accès au logement : dépôt de garantie, 1er loyer, frais d'agence",
+          "Aide au maintien : dettes locatives, impayés énergie, eau, téléphone",
+          "Accompagnement social lié au logement (ASLL)",
+          "Aide à l'installation (équipements ménagers de première nécessité)"
+        ]
+      },
+      {
+        "heading": "Rénovation énergétique et adaptation du logement",
+        "paragraphs": [
+          "Le Département accompagne les propriétaires occupants modestes dans leurs projets de rénovation énergétique, en articulation avec les dispositifs nationaux (MaPrimeRénov', ANAH). Des aides complémentaires peuvent être mobilisées pour les ménages les plus fragiles.",
+          "Pour les personnes âgées ou en situation de handicap, des aides à l'adaptation du logement permettent de financer des travaux d'accessibilité (barres d'appui, douche à l'italienne, monte-escalier, etc.) afin de favoriser le maintien à domicile dans de bonnes conditions de sécurité."
+        ],
+        "bullets": [
+          "Accompagnement vers MaPrimeRénov' et aides ANAH",
+          "Aides complémentaires pour les ménages très modestes",
+          "Adaptation du logement au vieillissement et au handicap",
+          "Diagnostic d'accessibilité et conseil technique"
+        ]
+      },
+      {
+        "heading": "Lutte contre l'habitat indigne",
+        "paragraphs": [
+          "Le Département participe, en lien avec l'État et les communes, à l'identification et au traitement de l'habitat indigne sur le territoire d'Indre-et-Loire. Des équipes pluridisciplinaires interviennent pour évaluer les situations signalées, accompagner les occupants et mobiliser les propriétaires à réaliser les travaux nécessaires.",
+          "Si vous vivez dans un logement présentant des risques pour votre santé ou votre sécurité (humidité, moisissures, plomb, installation électrique défaillante, etc.), vous pouvez le signaler à votre MDS ou à la mairie de votre commune."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qui peut bénéficier du FSL ?",
+        "a": "Le FSL est accessible à toute personne ou famille en difficulté financière, locataire ou propriétaire, dès lors que ses ressources sont inférieures à un plafond défini par le règlement intérieur du FSL. Renseignez-vous auprès de votre MDS pour connaître les conditions exactes."
+      },
+      {
+        "q": "Comment obtenir une aide pour adapter mon logement au vieillissement ?",
+        "a": "Rapprochez-vous de votre MDS ou contactez le service APA du Département. Un ergothérapeute peut être mandaté pour évaluer les besoins d'adaptation. Les travaux peuvent être financés via l'APA à domicile, les aides de l'ANAH ou des aides complémentaires du Département."
+      },
+      {
+        "q": "Mon propriétaire refuse de faire les travaux nécessaires, que faire ?",
+        "a": "Vous pouvez signaler la situation à votre MDS, à la mairie ou à la Direction départementale de l'emploi, du travail et des solidarités (DDETS). Des procédures coercitives existent pour obliger les propriétaires à mettre leur bien aux normes."
+      }
+    ],
+    "related": [
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "Personnes âgées",
+        "path": "mes-services-au-quotidien/personnes-agees"
+      },
+      {
+        "label": "Handicap et MDPH",
+        "path": "mes-services-au-quotidien/handicap"
+      },
+      {
+        "label": "MaPrimeRénov'",
+        "url": "https://www.maprimerenov.gouv.fr"
+      },
+      {
+        "label": "service-public.fr – FSL",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F1334"
+      }
+    ],
+    "downloads": [
+      "Guide FSL – Fonds de solidarité pour le logement (PDF)",
+      "Dépliant « Adapter votre logement » (PDF)",
+      "Formulaire de demande FSL (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/insertion-et-emploi": {
+    "seo": {
+      "title": "Insertion et emploi – Département Indre-et-Loire",
+      "description": "RSA, accompagnement vers l'emploi, chantiers d'insertion : le Département de Touraine soutient les parcours de retour à l'activité professionnelle en Indre-et-Loire."
+    },
+    "heroSubtitle": "Le Département accompagne les personnes éloignées de l'emploi vers un retour durable à l'activité, grâce au RSA, aux structures d'insertion et à un réseau de partenaires actifs sur tout le territoire.",
+    "intro": [
+      "L'insertion professionnelle est une compétence centrale du Département. En tant que chef de file du dispositif RSA, le Conseil Départemental d'Indre-et-Loire est responsable de l'orientation et de l'accompagnement des allocataires vers l'emploi, la formation ou l'insertion sociale.",
+      "Cette mission est assurée en partenariat avec France Travail (ex-Pôle emploi), les missions locales, les structures d'insertion par l'activité économique (SIAE) et les opérateurs associatifs du territoire."
+    ],
+    "sections": [
+      {
+        "heading": "Le RSA et l'accompagnement vers l'emploi",
+        "paragraphs": [
+          "Le Revenu de solidarité active (RSA) est une allocation versée par la CAF aux personnes sans ressources ou aux ressources insuffisantes. Le Département est responsable de l'orientation des bénéficiaires du RSA (BRSA) et de la coordination de leur parcours d'insertion.",
+          "Chaque bénéficiaire est orienté vers un référent unique — travailleur social de MDS, conseiller France Travail ou opérateur d'insertion — qui co-construit avec lui un contrat d'engagement réciproque (CER) définissant les étapes vers le retour à l'emploi ou vers une stabilisation sociale."
+        ],
+        "bullets": [
+          "Orientation des bénéficiaires du RSA (BRSA) vers le bon référent",
+          "Contrat d'engagement réciproque (CER) personnalisé",
+          "Levée des freins périphériques à l'emploi (mobilité, garde d'enfants, santé)",
+          "Accès aux formations et aux remises à niveau"
+        ]
+      },
+      {
+        "heading": "Les structures d'insertion par l'activité économique (SIAE)",
+        "paragraphs": [
+          "Le Département soutient financièrement les structures d'insertion par l'activité économique présentes en Indre-et-Loire : chantiers d'insertion, associations intermédiaires, entreprises d'insertion et ateliers et chantiers d'insertion (ACI). Ces structures offrent des emplois aidés à des personnes très éloignées du marché du travail, dans des secteurs comme l'environnement, le recyclage, la restauration du bâti ancien, les services à la personne ou les espaces verts.",
+          "Au-delà du contrat de travail, ces structures assurent un accompagnement socioprofessionnel renforcé pour préparer la personne à un emploi durable dans le secteur ordinaire."
+        ],
+        "bullets": [
+          "Chantiers et ateliers d'insertion (ACI)",
+          "Entreprises d'insertion (EI)",
+          "Associations intermédiaires",
+          "Accompagnement socioprofessionnel individualisé"
+        ]
+      },
+      {
+        "heading": "Le Plan départemental d'insertion et d'emploi (PDIE)",
+        "paragraphs": [
+          "Le Département pilote un Plan départemental d'insertion et d'emploi (PDIE) qui coordonne l'action de l'ensemble des acteurs de l'insertion sur le territoire. Ce plan fixe les priorités, les objectifs et les moyens alloués pour réduire durablement le taux de bénéficiaires du RSA et favoriser l'accès à l'emploi des publics les plus fragiles.",
+          "Le PDIE est décliné par bassins de vie pour tenir compte des spécificités locales du marché de l'emploi, en milieu urbain comme dans les zones rurales de Touraine."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Je touche le RSA. Suis-je obligé de m'inscrire à France Travail ?",
+        "a": "Depuis 2024, l'inscription à France Travail est en principe obligatoire pour les bénéficiaires du RSA. Votre référent RSA vous accompagnera dans cette démarche et veillera à ce que votre parcours d'insertion soit cohérent avec votre situation personnelle."
+      },
+      {
+        "q": "Comment intégrer un chantier d'insertion ?",
+        "a": "L'accès à un chantier d'insertion se fait sur orientation d'un professionnel (travailleur social MDS, conseiller France Travail, Mission locale). Contactez votre MDS ou votre conseiller pour être orienté vers la structure la plus adaptée à votre profil et vos souhaits."
+      },
+      {
+        "q": "Je ne touche pas le RSA mais je cherche du travail, le Département peut-il m'aider ?",
+        "a": "Si vous avez moins de 26 ans, la Mission locale est votre interlocuteur privilégié. Le Département peut également mobiliser le Fonds d'aide aux jeunes (FAJ) pour lever des freins ponctuels. Pour les autres publics, France Travail reste le principal opérateur, avec le soutien des partenaires locaux."
+      }
+    ],
+    "related": [
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "Vos services de proximité (MDS)",
+        "path": "mes-services-au-quotidien/vos-services-de-proximite"
+      },
+      {
+        "label": "Habitat et logement",
+        "path": "mes-services-au-quotidien/habitat-et-logement"
+      },
+      {
+        "label": "service-public.fr – RSA",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/N19775"
+      }
+    ],
+    "downloads": [
+      "Guide de l'insertion en Indre-et-Loire (PDF)",
+      "Annuaire des structures d'insertion par l'activité économique (PDF)",
+      "Dépliant RSA – Vos droits et obligations (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/handicap": {
+    "seo": {
+      "title": "Handicap et MDPH – Département de Touraine",
+      "description": "MDPH 37, PCH, AAH, transport adapté, scolarisation : le Département accompagne les personnes en situation de handicap et leurs proches en Indre-et-Loire."
+    },
+    "heroSubtitle": "La Maison départementale des personnes handicapées (MDPH) est le guichet unique pour toutes vos demandes liées au handicap en Indre-et-Loire : droits, aides, scolarisation et autonomie.",
+    "intro": [
+      "Le Département d'Indre-et-Loire est cosignataire de la convention constitutive de la MDPH d'Indre-et-Loire et contribue à son financement et à son fonctionnement. La MDPH est le point d'entrée unique pour toute demande de droits et de prestations liée à une situation de handicap, quel que soit l'âge de la personne.",
+      "Au-delà de la MDPH, le Département finance des services d'aide à domicile, des établissements spécialisés et des dispositifs de transport adapté pour favoriser l'inclusion et l'autonomie des personnes handicapées sur l'ensemble du territoire."
+    ],
+    "sections": [
+      {
+        "heading": "La MDPH : votre guichet unique pour le handicap",
+        "paragraphs": [
+          "La Maison départementale des personnes handicapées (MDPH) instruit toutes les demandes de droits et de prestations pour les personnes en situation de handicap : Prestation de compensation du handicap (PCH), Allocation adulte handicapé (AAH - orientation), Reconnaissance de la qualité de travailleur handicapé (RQTH), carte mobilité inclusion, orientation vers des établissements spécialisés, aménagements scolaires, etc.",
+          "La demande se fait via un formulaire unique de demande (CERFA), accompagné d'un certificat médical récent. La Commission des droits et de l'autonomie des personnes handicapées (CDAPH) statue ensuite sur les droits ouverts."
+        ],
+        "bullets": [
+          "Prestation de compensation du handicap (PCH)",
+          "Orientation vers l'AAH (versée par la CAF ou la MSA)",
+          "Reconnaissance de la qualité de travailleur handicapé (RQTH)",
+          "Carte mobilité inclusion (CMI)",
+          "Plan personnalisé de compensation du handicap",
+          "Orientation vers les établissements et services médico-sociaux (ESMS)"
+        ]
+      },
+      {
+        "heading": "Scolarisation et inclusion scolaire",
+        "paragraphs": [
+          "Le Département participe à l'inclusion scolaire des élèves en situation de handicap scolarisés dans les collèges publics d'Indre-et-Loire. Il finance les auxiliaires de vie scolaire (AVS/AESH) dans les collèges relevant de sa compétence et veille à l'accessibilité des bâtiments scolaires.",
+          "La MDPH émet les notifications d'orientation scolaire et les préconisations de matériel pédagogique adapté, en lien avec l'Éducation nationale."
+        ],
+        "bullets": [
+          "Financement des AESH dans les collèges publics",
+          "Accessibilité des collèges (mise en conformité progressive)",
+          "Matériel pédagogique adapté (sur notification MDPH)",
+          "Transport scolaire adapté"
+        ]
+      },
+      {
+        "heading": "Transport adapté et mobilité",
+        "paragraphs": [
+          "Le Département organise et finance des services de transport adapté pour les personnes en situation de handicap qui ne peuvent emprunter les transports en commun ordinaires. Ces services permettent de se rendre vers des établissements spécialisés, des centres de soins ou dans le cadre d'activités de la vie quotidienne.",
+          "Pour bénéficier du transport adapté, une demande doit être déposée à la MDPH ou auprès des services de transport du Département, avec justificatif de la situation de handicap."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment déposer un dossier à la MDPH d'Indre-et-Loire ?",
+        "a": "Vous pouvez retirer le formulaire unique de demande à la MDPH (20 rue Édouard Vaillant, Tours), dans les MDS ou le télécharger sur mdph37.fr. Il doit être accompagné d'un certificat médical de moins de 6 mois et de tout justificatif utile, puis retourné à la MDPH."
+      },
+      {
+        "q": "Quelle est la différence entre la PCH et l'AAH ?",
+        "a": "La PCH (Prestation de compensation du handicap) est versée par le Département pour financer les aides humaines, techniques, d'aménagement du logement ou du véhicule liées au handicap. L'AAH (Allocation aux adultes handicapés) est une aide financière mensuelle versée par la CAF ou la MSA pour garantir un revenu minimum aux personnes handicapées. Les deux peuvent se cumuler sous conditions."
+      },
+      {
+        "q": "La PCH est-elle soumise à condition de ressources ?",
+        "a": "Non, la PCH n'est pas soumise à conditions de ressources. En revanche, elle est conditionnée à un taux d'incapacité et à des besoins de compensation reconnus par la CDAPH. Elle est accessible aux personnes de moins de 60 ans (ou de moins de 75 ans sous conditions)."
+      }
+    ],
+    "related": [
+      {
+        "label": "Soutien aux aidants",
+        "path": "mes-services-au-quotidien/soutien-aux-aidants"
+      },
+      {
+        "label": "Personnes âgées",
+        "path": "mes-services-au-quotidien/personnes-agees"
+      },
+      {
+        "label": "Habitat et logement",
+        "path": "mes-services-au-quotidien/habitat-et-logement"
+      },
+      {
+        "label": "service-public.fr – MDPH",
+        "url": "https://www.service-public.fr/particuliers/vosdroits/F2964"
+      }
+    ],
+    "downloads": [
+      "Guide des droits des personnes handicapées en Touraine (PDF)",
+      "Formulaire unique de demande MDPH (CERFA) (PDF)",
+      "Dépliant PCH – La prestation de compensation du handicap (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/personnes-agees": {
+    "seo": {
+      "title": "Personnes âgées – APA et maintien à domicile en Touraine",
+      "description": "APA, maintien à domicile, téléassistance, EHPAD : le Département d'Indre-et-Loire accompagne les personnes âgées et prévient la perte d'autonomie sur tout le territoire."
+    },
+    "heroSubtitle": "Le Département soutient les personnes âgées d'Indre-et-Loire pour vieillir dans les meilleures conditions, à domicile ou en établissement, grâce à l'APA et à un réseau de services de qualité.",
+    "intro": [
+      "La politique en faveur des personnes âgées est l'une des premières missions du Département en termes de volume financier et d'impact humain. L'Allocation personnalisée d'autonomie (APA) est le principal outil permettant à chaque personne de financer l'aide dont elle a besoin, que ce soit pour rester chez elle ou pour intégrer un établissement.",
+      "Au-delà de l'APA, le Département de Touraine investit dans la prévention de la perte d'autonomie, soutient les services d'aide à domicile et régule les établissements d'hébergement pour personnes âgées dépendantes (EHPAD) de son territoire."
+    ],
+    "sections": [
+      {
+        "heading": "L'Allocation personnalisée d'autonomie (APA)",
+        "paragraphs": [
+          "L'APA est une aide financière versée par le Département aux personnes de 60 ans et plus en perte d'autonomie (classées GIR 1 à 4 par la grille AGGIR). Elle peut être attribuée à domicile (APA à domicile) pour financer des heures d'aide à domicile, du matériel ou de la téléassistance, ou en établissement (APA en établissement) pour réduire le reste à charge en EHPAD.",
+          "La demande d'APA se dépose à la MDS de votre secteur. Une équipe médico-sociale se déplace ensuite à votre domicile pour évaluer votre degré d'autonomie et établir votre plan d'aide personnalisé."
+        ],
+        "bullets": [
+          "APA à domicile : financement des heures d'aide à domicile, matériel adapté, téléassistance",
+          "APA en établissement : participation aux frais de dépendance en EHPAD",
+          "Évaluation à domicile par une équipe médico-sociale",
+          "Plan d'aide personnalisé révisable"
+        ]
+      },
+      {
+        "heading": "Maintien à domicile et téléassistance",
+        "paragraphs": [
+          "Le Département encourage et finance le maintien à domicile comme alternative prioritaire à l'entrée en établissement. Il subventionne les services d'aide et d'accompagnement à domicile (SAAD) agréés et autorisés sur le territoire, et contrôle la qualité des prestations délivrées.",
+          "La téléassistance permet aux personnes âgées vivant seules de disposer d'une alarme reliée à une centrale d'écoute 24h/24. Le Département peut participer au financement de la téléassistance dans le cadre de l'APA à domicile."
+        ],
+        "bullets": [
+          "Services d'aide à domicile autorisés et contrôlés par le Département",
+          "Téléassistance (finançable via l'APA)",
+          "Portage de repas à domicile",
+          "Accueil de jour et hébergement temporaire"
+        ]
+      },
+      {
+        "heading": "Les établissements et la prévention",
+        "paragraphs": [
+          "Le Département autorise et tarifie les EHPAD (Établissements d'hébergement pour personnes âgées dépendantes) d'Indre-et-Loire. Il veille à la qualité de l'accompagnement et au respect des droits des résidents. En cas de dysfonctionnement, il peut diligenter des inspections.",
+          "La prévention de la perte d'autonomie est une priorité croissante : le Département soutient les conférences des financeurs, les programmes de prévention (nutrition, activité physique, lien social) et les actions de repérage de l'isolement des personnes âgées à domicile."
+        ],
+        "bullets": [
+          "Autorisation et tarification des EHPAD",
+          "Contrôle qualité des établissements",
+          "Programme de prévention de la perte d'autonomie",
+          "Lutte contre l'isolement des personnes âgées"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "À partir de quel âge peut-on demander l'APA ?",
+        "a": "L'APA est ouverte à toute personne âgée de 60 ans et plus, résidant de manière stable et régulière en France, et présentant une perte d'autonomie (classement GIR 1 à 4). Il n'y a pas de condition de ressources pour en bénéficier, mais le montant de la participation peut varier selon les revenus."
+      },
+      {
+        "q": "Comment choisir entre le maintien à domicile et l'EHPAD ?",
+        "a": "Ce choix dépend de votre degré d'autonomie, de votre situation familiale, de votre environnement de vie et de vos souhaits. L'équipe médico-sociale du Département peut vous aider à évaluer les options et à préparer éventuellement une demande d'EHPAD. Le site pour-les-personnes-agees.gouv.fr offre également un outil d'aide à la décision."
+      },
+      {
+        "q": "Comment signaler une maltraitance en EHPAD ?",
+        "a": "Vous pouvez signaler une suspicion de maltraitance en appelant le 3977 (numéro national de lutte contre la maltraitance), ou en contactant directement le Département à contact@touraine.fr. Le Département peut mener des contrôles inopinés dans les établissements."
+      }
+    ],
+    "related": [
+      {
+        "label": "Soutien aux aidants",
+        "path": "mes-services-au-quotidien/soutien-aux-aidants"
+      },
+      {
+        "label": "Handicap et MDPH",
+        "path": "mes-services-au-quotidien/handicap"
+      },
+      {
+        "label": "Habitat et logement",
+        "path": "mes-services-au-quotidien/habitat-et-logement"
+      },
+      {
+        "label": "pour-les-personnes-agees.gouv.fr",
+        "url": "https://www.pour-les-personnes-agees.gouv.fr"
+      }
+    ],
+    "downloads": [
+      "Guide APA – Allocation personnalisée d'autonomie (PDF)",
+      "Annuaire des services d'aide à domicile autorisés (PDF)",
+      "Formulaire de demande APA (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/soutien-aux-aidants": {
+    "seo": {
+      "title": "Soutien aux aidants – Département de Touraine",
+      "description": "Droit au répit, accueil temporaire, plateformes de soutien : le Département d'Indre-et-Loire accompagne les aidants familiaux pour préserver leur santé et leur équilibre."
+    },
+    "heroSubtitle": "Être aidant, c'est s'engager au quotidien auprès d'un proche. Le Département de Touraine vous accompagne pour souffler, trouver du soutien et préserver votre propre bien-être.",
+    "intro": [
+      "En France, des millions de personnes accompagnent au quotidien un proche âgé, malade ou en situation de handicap. Ces aidants familiaux jouent un rôle irremplaçable, mais s'exposent aussi à l'épuisement. Le Conseil Départemental d'Indre-et-Loire a fait du soutien aux aidants une priorité de sa politique sociale.",
+      "Droit au répit, accueil temporaire, écoute psychologique, formations et mise en réseau : le Département et ses partenaires proposent un ensemble de dispositifs pour soutenir les aidants à chaque étape de leur parcours."
+    ],
+    "sections": [
+      {
+        "heading": "Le droit au répit : souffler pour mieux accompagner",
+        "paragraphs": [
+          "Le droit au répit permet à l'aidant de s'accorder des moments de pause sans culpabilité, en organisant la prise en charge temporaire de son proche. En Indre-et-Loire, plusieurs solutions de répit sont disponibles : accueil de jour, hébergement temporaire en établissement, garde itinérante de nuit, relayage à domicile.",
+          "Dans le cadre de l'APA, un plan d'aide peut inclure des heures dédiées au répit de l'aidant. Pour les personnes handicapées, la PCH peut également financer des solutions de relayage."
+        ],
+        "bullets": [
+          "Accueil de jour en établissement (EHPAD, foyers de jour)",
+          "Hébergement temporaire (court séjour en établissement)",
+          "Garde itinérante de nuit à domicile",
+          "Relayage à domicile (remplacement de l'aidant)",
+          "Séjours de vacances adaptés aidant-aidé"
+        ]
+      },
+      {
+        "heading": "Les plateformes de répit et d'accompagnement",
+        "paragraphs": [
+          "Le Département soutient financièrement les plateformes de répit et d'accompagnement des aidants présentes sur le territoire d'Indre-et-Loire. Ces structures associatives proposent écoute téléphonique, groupes de parole, ateliers bien-être, formations et accompagnement individuel aux aidants de proches âgés ou en situation de handicap.",
+          "Ces plateformes jouent un rôle essentiel dans la prévention de l'épuisement de l'aidant et dans la détection précoce des situations à risque."
+        ],
+        "bullets": [
+          "Écoute et soutien psychologique individuel",
+          "Groupes de parole entre aidants",
+          "Ateliers de formation et d'information",
+          "Accompagnement dans les démarches administratives",
+          "Coordination avec les services médico-sociaux"
+        ]
+      },
+      {
+        "heading": "Reconnaître et valoriser le rôle d'aidant",
+        "paragraphs": [
+          "Le Département s'engage à mieux reconnaître le rôle des aidants dans la société. Des actions de sensibilisation sont menées auprès du grand public et des employeurs pour faciliter la conciliation entre vie professionnelle et rôle d'aidant.",
+          "Si vous accompagnez un proche et que vous ne savez pas vers qui vous tourner, contactez votre MDS de secteur : un travailleur social pourra évaluer la situation et vous orienter vers les dispositifs les plus adaptés."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment savoir si je suis considéré comme un aidant ?",
+        "a": "Vous êtes aidant si vous accompagnez régulièrement un proche (parent, conjoint, enfant) en situation de dépendance, de maladie chronique ou de handicap. Il n'existe pas de statut administratif unique, mais plusieurs droits (répit, formation, congé) sont ouverts aux aidants sous certaines conditions."
+      },
+      {
+        "q": "Puis-je bénéficier du répit même si mon proche n'a pas de plan d'aide APA ou PCH ?",
+        "a": "Oui. Les plateformes de répit sont ouvertes à tous les aidants, sans condition de bénéfice de l'APA ou de la PCH. Certaines solutions de répit peuvent également être financées par d'autres sources (mutuelles, caisse de retraite, CARSAT)."
+      },
+      {
+        "q": "Je me sens épuisé, qui puis-je appeler en urgence ?",
+        "a": "Vous pouvez contacter votre MDS au 02 47 31 47 31, une plateforme de répit de votre territoire, ou appeler le numéro national des aidants si vous êtes en difficulté. En cas de crise, n'attendez pas : parlez-en à votre médecin traitant."
+      }
+    ],
+    "related": [
+      {
+        "label": "Personnes âgées",
+        "path": "mes-services-au-quotidien/personnes-agees"
+      },
+      {
+        "label": "Handicap et MDPH",
+        "path": "mes-services-au-quotidien/handicap"
+      },
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "pour-les-personnes-agees.gouv.fr",
+        "url": "https://www.pour-les-personnes-agees.gouv.fr"
+      }
+    ],
+    "downloads": [
+      "Guide des solutions de répit en Indre-et-Loire (PDF)",
+      "Dépliant « Aidants : vous n'êtes pas seuls » (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/colleges-et-education": {
+    "seo": {
+      "title": "Collèges et éducation – Département Indre-et-Loire",
+      "description": "Construction, entretien des collèges, restauration scolaire, numérique éducatif, transport : le Département de Touraine investit pour la réussite des collégiens du 37."
+    },
+    "heroSubtitle": "Le Département d'Indre-et-Loire est le garant du cadre scolaire de tous les collégiens : bâtiments, restauration, équipement numérique et transport pour un parcours éducatif de qualité.",
+    "intro": [
+      "La compétence éducative du Département porte sur les collèges publics d'Indre-et-Loire : construction, rénovation, entretien des bâtiments, équipement informatique, restauration scolaire et financement des assistants d'éducation. Le Département investit chaque année pour offrir aux collégiens un environnement scolaire moderne, sûr et favorable à la réussite.",
+      "En étroite collaboration avec l'Éducation nationale, les communes et les familles, le Département veille à ce que chaque jeune de Touraine bénéficie de conditions d'apprentissage optimales, où qu'il soit sur le territoire."
+    ],
+    "sections": [
+      {
+        "heading": "Construction et rénovation des collèges",
+        "paragraphs": [
+          "Le Département est propriétaire et gestionnaire des collèges publics d'Indre-et-Loire. À ce titre, il finance les opérations de construction neuve, d'extension et de rénovation des bâtiments, en intégrant les enjeux d'accessibilité, de performance énergétique et de qualité des espaces d'apprentissage.",
+          "Un programme pluriannuel d'investissement permet de planifier les travaux prioritaires en concertation avec les équipes éducatives et les collectivités locales. La transition écologique est au cœur des nouveaux projets : isolation, énergies renouvelables et végétalisation des cours."
+        ],
+        "bullets": [
+          "Construction et extension de collèges publics",
+          "Rénovation thermique et énergétique des bâtiments",
+          "Mise aux normes accessibilité (PMR)",
+          "Végétalisation et aménagement des cours de récréation"
+        ]
+      },
+      {
+        "heading": "Restauration scolaire et vie du collège",
+        "paragraphs": [
+          "Le Département fixe les tarifs de la restauration scolaire dans les collèges publics et veille à la qualité des repas servis. Il encourage le recours aux produits locaux et biologiques dans les menus, en lien avec les producteurs tourangeaux. Des dotations annuelles sont versées aux collèges pour financer les sorties pédagogiques, les projets éducatifs et les équipements sportifs.",
+          "Le Département finance également les assistants d'éducation (AED) et les personnels techniques et ouvriers de service (TOS) qui assurent le fonctionnement quotidien des établissements."
+        ],
+        "bullets": [
+          "Tarification et contrôle de la restauration scolaire",
+          "Approvisionnement en produits locaux et bio",
+          "Dotations pédagogiques et sportives",
+          "Financement des AED et personnels TOS"
+        ]
+      },
+      {
+        "heading": "Numérique éducatif et transport scolaire",
+        "paragraphs": [
+          "Le Département équipe les collèges en matériel numérique : tablettes, ordinateurs, tableaux numériques interactifs et connexion haut débit. Ces investissements visent à réduire les inégalités d'accès aux outils numériques entre les élèves et à soutenir les pédagogies innovantes.",
+          "Le transport des collégiens vers leur établissement est organisé et financé par le Département, en lien avec les opérateurs de transport du territoire. Des solutions spécifiques sont prévues pour les élèves en situation de handicap."
+        ],
+        "bullets": [
+          "Équipement numérique des collèges (tablettes, TNI)",
+          "Très haut débit dans tous les collèges",
+          "Transport scolaire gratuit ou à tarif modéré",
+          "Transport adapté pour les collégiens en situation de handicap"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment est déterminé le collège de sectorisation de mon enfant ?",
+        "a": "La sectorisation des collèges est définie par le Département en lien avec l'Éducation nationale. Votre enfant est affecté au collège de son secteur géographique. Des demandes de dérogation peuvent être formulées auprès de la Direction des services départementaux de l'Éducation nationale (DSDEN 37)."
+      },
+      {
+        "q": "Comment obtenir un abonnement de transport scolaire pour mon enfant ?",
+        "a": "Les demandes de transport scolaire sont à effectuer auprès du Département avant la rentrée scolaire, généralement en juin-juillet. Les tarifs sont modulés selon les revenus du foyer. Renseignez-vous sur touraine.fr ou contactez le 02 47 31 47 31."
+      },
+      {
+        "q": "Mon enfant a un régime alimentaire particulier. Le collège peut-il l'accueillir à la cantine ?",
+        "a": "Les collèges s'efforcent de proposer des menus adaptés aux régimes alimentaires liés à des convictions religieuses ou à des allergies alimentaires déclarées. Renseignez-vous directement auprès du chef d'établissement."
+      }
+    ],
+    "related": [
+      {
+        "label": "Handicap et MDPH",
+        "path": "mes-services-au-quotidien/handicap"
+      },
+      {
+        "label": "Culture",
+        "path": "mes-services-au-quotidien/culture"
+      },
+      {
+        "label": "Sport",
+        "path": "mes-services-au-quotidien/sport"
+      }
+    ],
+    "downloads": [
+      "Guide des services aux collégiens en Indre-et-Loire (PDF)",
+      "Formulaire de demande de transport scolaire (PDF)",
+      "Programme pluriannuel d'investissement dans les collèges (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/culture": {
+    "seo": {
+      "title": "Culture en Touraine – Archives, lecture, patrimoine",
+      "description": "Archives départementales, bibliothèque de Touraine, soutien aux festivals et au patrimoine : le Département d'Indre-et-Loire rayonne culturellement au service de tous."
+    },
+    "heroSubtitle": "Le Département de Touraine soutient une vie culturelle riche et accessible à tous : archives, lecture publique, éducation artistique, patrimoine et soutien aux acteurs culturels du territoire.",
+    "intro": [
+      "Terre d'art et d'histoire, la Touraine bénéficie d'un patrimoine exceptionnel que le Département s'attache à préserver, valoriser et partager avec le plus grand nombre. Des archives départementales à la bibliothèque départementale de Touraine, en passant par le soutien aux festivals et à l'éducation artistique, la politique culturelle du Département irrigue tout le territoire.",
+      "Elle vise à la fois à démocratiser l'accès à la culture pour tous les habitants, y compris en milieu rural, et à soutenir la création et les acteurs culturels locaux."
+    ],
+    "sections": [
+      {
+        "heading": "Les Archives départementales d'Indre-et-Loire",
+        "paragraphs": [
+          "Les Archives départementales collectent, conservent et communiquent les documents historiques produits par les institutions publiques et privées d'Indre-et-Loire depuis le Moyen Âge jusqu'à nos jours. Elles constituent une mémoire irremplaçable du territoire, accessible à tous les chercheurs, généalogistes et curieux d'histoire.",
+          "Une grande partie des fonds est numérisée et consultable en ligne sur le portail des archives. Les Archives accueillent également le public en salle de lecture sur rendez-vous et proposent des actions pédagogiques pour les scolaires."
+        ],
+        "bullets": [
+          "Consultation des archives en ligne et en salle de lecture",
+          "Registres paroissiaux et état civil numérisés (généalogie)",
+          "Actions pédagogiques pour les classes",
+          "Expositions thématiques permanentes et temporaires"
+        ]
+      },
+      {
+        "heading": "La Bibliothèque départementale de Touraine (BDT)",
+        "paragraphs": [
+          "La Bibliothèque départementale de Touraine (BDT) est un équipement de tête de réseau qui soutient les bibliothèques et médiathèques des communes d'Indre-et-Loire, notamment en milieu rural. Elle prête des collections documentaires, audiovisuelles et numériques, assure la formation des bibliothécaires bénévoles et professionnels, et coordonne l'animation du réseau de lecture publique.",
+          "La BDT développe également des actions hors les murs pour toucher les publics empêchés : personnes hospitalisées, résidents d'EHPAD, détenus. Elle participe à la lutte contre l'illettrisme et au développement de la médiation numérique."
+        ],
+        "bullets": [
+          "Prêt de collections aux bibliothèques communales",
+          "Formation des bibliothécaires",
+          "Actions culturelles hors les murs",
+          "Médiation numérique et lutte contre l'illettrisme"
+        ]
+      },
+      {
+        "heading": "Soutien à la création, aux festivals et au patrimoine",
+        "paragraphs": [
+          "Le Département attribue des subventions à de nombreux acteurs culturels du territoire : compagnies de spectacle vivant, festivals de musique, de cinéma ou de danse, structures d'éducation artistique et culturelle, musées, fondations patrimoniales. Cette politique de soutien vise à maintenir une offre culturelle diversifiée et accessible sur tout le territoire.",
+          "La valorisation du patrimoine bâti et immatériel de Touraine est également une priorité : le Département contribue à la restauration de monuments, au soutien aux sites patrimoniaux locaux et à la mise en valeur de la culture ligérienne."
+        ],
+        "bullets": [
+          "Subventions aux festivals et compagnies de spectacle vivant",
+          "Soutien à l'éducation artistique et culturelle (EAC)",
+          "Aide à la restauration du patrimoine bâti",
+          "Valorisation du patrimoine ligérien et de la culture tourangelle"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment accéder aux archives en ligne du Département ?",
+        "a": "Le portail des archives en ligne est accessible gratuitement depuis le site des Archives départementales d'Indre-et-Loire. Vous pouvez y consulter des millions de documents numérisés : registres paroissiaux, état civil, cadastre, presse ancienne, etc."
+      },
+      {
+        "q": "Ma commune n'a pas de bibliothèque. Puis-je quand même bénéficier des services de la BDT ?",
+        "a": "La BDT travaille principalement avec les bibliothèques communales et associatives du réseau. Renseignez-vous auprès de votre mairie pour savoir si une desserte est possible. La BDT peut également soutenir la création d'un point-lecture dans votre commune."
+      },
+      {
+        "q": "Comment obtenir une subvention du Département pour un projet culturel ?",
+        "a": "Les demandes de subvention culturelle sont à déposer auprès de la Direction de la culture du Conseil Départemental. Les dossiers sont examinés une à deux fois par an. Contactez le 02 47 31 47 31 ou écrivez à contact@touraine.fr pour connaître les conditions et calendriers d'instruction."
+      }
+    ],
+    "related": [
+      {
+        "label": "Tourisme et patrimoine",
+        "path": "mes-services-au-quotidien/tourisme-et-patrimoine"
+      },
+      {
+        "label": "Collèges et éducation",
+        "path": "mes-services-au-quotidien/colleges-et-education"
+      },
+      {
+        "label": "Environnement",
+        "path": "mes-services-au-quotidien/environnement"
+      }
+    ],
+    "downloads": [
+      "Guide des lieux culturels soutenus par le Département (PDF)",
+      "Dossier de demande de subvention culturelle (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/tourisme-et-patrimoine": {
+    "seo": {
+      "title": "Tourisme et patrimoine – Val de Loire, Touraine",
+      "description": "Châteaux de la Loire, Loire à Vélo, oenotourisme, Touraine Loire Valley : le Département soutient le tourisme et valorise un patrimoine UNESCO d'exception en Indre-et-Loire."
+    },
+    "heroSubtitle": "La Touraine, cœur du Val de Loire inscrit au patrimoine mondial de l'UNESCO, offre châteaux, vignobles, Loire à Vélo et une gastronomie d'exception. Le Département en est le premier ambassadeur.",
+    "intro": [
+      "Avec ses châteaux de la Renaissance, ses appellations viticoles de renom, sa Loire sauvage et ses paysages inscrits au patrimoine mondial de l'UNESCO, l'Indre-et-Loire est l'une des destinations touristiques les plus attractives de France. Le Conseil Départemental soutient cette filière et travaille à la valorisation du patrimoine naturel, bâti et culturel de la Touraine.",
+      "À travers l'agence Touraine Loire Valley et ses partenaires, le Département anime et promeut le territoire auprès des visiteurs français et internationaux, tout en veillant à un tourisme durable et respectueux du cadre de vie des habitants."
+    ],
+    "sections": [
+      {
+        "heading": "Les châteaux et le patrimoine de la Renaissance",
+        "paragraphs": [
+          "L'Indre-et-Loire abrite un ensemble exceptionnel de châteaux et de demeures de la Renaissance : Amboise, Villandry, Azay-le-Rideau, Langeais, Loches, Montrésor, Gizeux... Cet héritage architectural unique fait de la Touraine le berceau de la Renaissance française. Le Département soutient la mise en valeur de ces sites, l'accueil des visiteurs et la sensibilisation au patrimoine auprès des jeunes.",
+          "Au-delà des grands sites nationaux, le Département valorise les « pépites » méconnues du territoire, notamment dans le cadre du label Val de Loire, patrimoine mondial UNESCO."
+        ],
+        "bullets": [
+          "Soutien à la valorisation des sites patrimoniaux",
+          "Promotion de l'itinérance et des circuits culturels",
+          "Éducation au patrimoine pour les scolaires",
+          "Contribution au label UNESCO Val de Loire"
+        ]
+      },
+      {
+        "heading": "La Loire à Vélo et les itinéraires de randonnée",
+        "paragraphs": [
+          "La Loire à Vélo est l'un des itinéraires cyclables les plus fréquentés d'Europe. Le Département d'Indre-et-Loire entretient et développe sa portion de l'itinéraire, avec des aménagements en site propre et des services aux cyclotouristes (hébergements labellisés, points de location, jalonnement).",
+          "Au-delà de la Loire à Vélo, le Département soutient le développement de pistes cyclables et de voies vertes sur l'ensemble du territoire, contribuant à un tourisme doux et à la mobilité quotidienne des habitants."
+        ],
+        "bullets": [
+          "Entretien et développement de la Loire à Vélo en Touraine",
+          "Hébergements et services labellisés Loire à Vélo",
+          "Voies vertes et pistes cyclables connexes",
+          "Promotion de la randonnée pédestre et équestre"
+        ]
+      },
+      {
+        "heading": "Oenotourisme et gastronomie",
+        "paragraphs": [
+          "La Touraine est un terroir viticole de réputation mondiale : Vouvray, Montlouis, Bourgueil, Chinon, Saint-Nicolas-de-Bourgueil... Le Département soutient le développement de l'oenotourisme en Indre-et-Loire, en partenariat avec les professionnels de la vigne et du vin, les cavistes et les structures d'accueil touristique.",
+          "La gastronomie tourangelle — rillons, fromages de chèvre, fouaces — participe également à l'attractivité du territoire. Le Département soutient les événements et les filières qui font vivre cette identité culinaire unique."
+        ],
+        "bullets": [
+          "Promotion des appellations viticoles tourangelles",
+          "Soutien aux caves et domaines accueillant des visiteurs",
+          "Événements oenotouristiques et foires aux vins",
+          "Valorisation des produits du terroir tourangeau"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qu'est-ce que Touraine Loire Valley ?",
+        "a": "Touraine Loire Valley est l'agence départementale de développement touristique d'Indre-et-Loire. Elle assure la promotion du territoire auprès des touristes français et étrangers, accompagne les professionnels du tourisme et gère les outils de communication et de réservation du territoire."
+      },
+      {
+        "q": "Comment accéder à la Loire à Vélo depuis Tours ?",
+        "a": "La Loire à Vélo est accessible depuis le centre de Tours par plusieurs entrées : les quais de Loire, le pont Wilson, la place Anatole France. Des vélos en libre-service et des loueurs de vélos sont disponibles à Tours et dans les principales communes de l'itinéraire."
+      },
+      {
+        "q": "Le Département propose-t-il des visites guidées de son patrimoine ?",
+        "a": "Le Département soutient les Journées européennes du patrimoine et des actions de médiation culturelle sur ses sites propres. Pour les visites guidées, renseignez-vous auprès de l'office de tourisme de votre lieu de séjour ou de Touraine Loire Valley."
+      }
+    ],
+    "related": [
+      {
+        "label": "Culture",
+        "path": "mes-services-au-quotidien/culture"
+      },
+      {
+        "label": "Environnement",
+        "path": "mes-services-au-quotidien/environnement"
+      },
+      {
+        "label": "Routes et mobilité",
+        "path": "mes-services-au-quotidien/routes-et-mobilite"
+      },
+      {
+        "label": "Touraine Loire Valley",
+        "url": "https://www.touraine-loire-valley.com"
+      }
+    ],
+    "downloads": [
+      "Guide touristique de la Touraine (PDF)",
+      "Carte de la Loire à Vélo en Indre-et-Loire (PDF)",
+      "Guide des appellations viticoles tourangelles (PDF)"
+    ],
+    "contactCta": false
+  },
+  "mes-services-au-quotidien/routes-et-mobilite": {
+    "seo": {
+      "title": "Routes et mobilité – Réseau routier de Touraine (37)",
+      "description": "Infos trafic, travaux, covoiturage et pistes cyclables : le Département gère plus de 3 700 km de routes en Indre-et-Loire pour assurer votre mobilité au quotidien."
+    },
+    "heroSubtitle": "Le Département d'Indre-et-Loire entretient et développe un vaste réseau routier pour faciliter vos déplacements, avec des informations trafic en temps réel et des solutions de mobilité durable.",
+    "intro": [
+      "Avec plus de 3 700 kilomètres de routes départementales sillonnant l'Indre-et-Loire, le Département est le premier gestionnaire routier du territoire. Il assure l'entretien courant, la signalisation, la sécurité des usagers et la réalisation des grands travaux, dans un territoire qui articule une agglomération de Tours dynamique et un vaste espace rural.",
+      "Au-delà de la route, le Département s'engage pour des mobilités durables : covoiturage, pistes cyclables, transports collectifs et lien avec les territoires les plus isolés."
+    ],
+    "sections": [
+      {
+        "heading": "Gestion et entretien du réseau routier",
+        "paragraphs": [
+          "Les équipes du Département interviennent toute l'année pour entretenir le réseau routier départemental : réfection de chaussée, fauchage, entretien des ouvrages d'art, signalisation horizontale et verticale, déneigement en hiver. Des patrouilleurs veillent à la sécurité du réseau et signalent les incidents.",
+          "Un programme pluriannuel de travaux permet de planifier les investissements de remise à niveau et d'amélioration du réseau, en priorisant les axes les plus fréquentés et les ouvrages les plus dégradés."
+        ],
+        "bullets": [
+          "Entretien et réfection de la chaussée",
+          "Déneigement et viabilité hivernale",
+          "Entretien des ponts et ouvrages d'art",
+          "Signalisation et sécurité des carrefours",
+          "Patrouilleurs et intervention rapide"
+        ]
+      },
+      {
+        "heading": "Travaux en cours et information trafic",
+        "paragraphs": [
+          "Le Département informe les usagers en temps réel des chantiers en cours, des restrictions de circulation et des incidents sur le réseau départemental. Consultez la carte interactive ci-dessous pour visualiser les travaux et anticiper vos itinéraires.",
+          "En cas d'urgence routière (accident, chaussée dégradée, arbre sur la route), contactez le centre de gestion routière du Département au 02 47 31 47 31 ou via le formulaire en ligne."
+        ]
+      },
+      {
+        "heading": "Mobilités durables : covoiturage, vélo et transports",
+        "paragraphs": [
+          "Le Département s'engage pour le développement des mobilités alternatives à la voiture individuelle. Il aménage des pistes cyclables sécurisées sur son réseau, en cohérence avec les itinéraires de la Loire à Vélo et des schémas cyclables intercommunaux. Il soutient également des aires de covoiturage et des applications de mise en relation des covoitureurs.",
+          "En matière de transports collectifs, le Département finance et organise des lignes de cars interurbains reliant les communes rurales aux pôles urbains, en lien avec la Région Centre-Val de Loire pour l'articulation avec le réseau TER."
+        ],
+        "bullets": [
+          "Pistes cyclables et voies vertes sur le réseau départemental",
+          "Aires de covoiturage aménagées",
+          "Lignes de cars interurbains",
+          "Transport à la demande pour les zones rurales isolées"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment signaler un problème sur une route départementale ?",
+        "a": "Vous pouvez signaler un problème (nid-de-poule, signalisation endommagée, végétation envahissante) via le formulaire en ligne sur touraine.fr ou en appelant le 02 47 31 47 31. En cas de danger immédiat, composez le 15, 17 ou 18."
+      },
+      {
+        "q": "Qui entretient les routes dans ma commune, le Département ou la commune ?",
+        "a": "Les voies communales sont entretenues par les communes ; les routes nationales par l'État ; les routes départementales (préfixées RD) par le Département. En cas de doute sur le gestionnaire d'une voie, contactez votre mairie."
+      },
+      {
+        "q": "Comment trouver une aire de covoiturage près de chez moi ?",
+        "a": "La carte des aires de covoiturage est disponible sur touraine.fr. Vous pouvez également utiliser des plateformes nationales de covoiturage qui référencent les points de rendez-vous habituels sur le territoire d'Indre-et-Loire."
+      }
+    ],
+    "related": [
+      {
+        "label": "Environnement",
+        "path": "mes-services-au-quotidien/environnement"
+      },
+      {
+        "label": "Tourisme et patrimoine",
+        "path": "mes-services-au-quotidien/tourisme-et-patrimoine"
+      },
+      {
+        "label": "Sécurité",
+        "path": "mes-services-au-quotidien/securite"
+      }
+    ],
+    "downloads": [
+      "Programme pluriannuel de travaux routiers (PDF)",
+      "Guide du covoiturage en Indre-et-Loire (PDF)",
+      "Carte du réseau cyclable départemental (PDF)"
+    ],
+    "contactCta": true,
+    "map": {
+      "title": "Carte du réseau routier, travaux et informations trafic en Indre-et-Loire",
+      "arcgisItemUrl": "https://www.arcgis.com/home/item.html?id=routes-travaux-cd37-indre-et-loire"
+    }
+  },
+  "mes-services-au-quotidien/environnement": {
+    "seo": {
+      "title": "Environnement et nature – Département de Touraine",
+      "description": "ENS, Loire, biodiversité, eau et transition écologique : le Département d'Indre-et-Loire protège les milieux naturels et accompagne les habitants vers un mode de vie durable."
+    },
+    "heroSubtitle": "Le Département de Touraine préserve les espaces naturels sensibles, protège la Loire et ses affluents, soutient la biodiversité et accompagne la transition écologique de tout le territoire.",
+    "intro": [
+      "L'Indre-et-Loire est un territoire d'une richesse écologique remarquable : la Loire et ses îles, les forêts de Touraine, les coteaux viticoles, les zones humides et les vallées des affluents constituent un patrimoine naturel exceptionnel. Le Conseil Départemental a la responsabilité de protéger ces milieux au bénéfice des générations futures et de la qualité de vie des habitants.",
+      "À travers sa politique des Espaces naturels sensibles (ENS), sa contribution à la surveillance de la qualité des eaux et son engagement dans la transition écologique, le Département agit concrètement pour un territoire plus vert et plus résilient."
+    ],
+    "sections": [
+      {
+        "heading": "Les Espaces naturels sensibles (ENS)",
+        "paragraphs": [
+          "Le Département a la compétence Espaces naturels sensibles (ENS) pour protéger, gérer et ouvrir au public des milieux naturels remarquables. En Indre-et-Loire, le Département acquiert, gère et valorise des sites d'intérêt écologique : zones humides, coteaux calcaires, bords de Loire, forêts alluviales.",
+          "Ces sites sont accessibles gratuitement au public et font l'objet d'animations nature toute l'année (sorties guidées, chantiers bénévoles, programmes scolaires). Ils participent à la préservation de la biodiversité locale et à l'éducation à l'environnement."
+        ],
+        "bullets": [
+          "Acquisition et gestion de sites naturels remarquables",
+          "Ouverture gratuite au public avec sentiers balisés",
+          "Animations nature et éducation à l'environnement",
+          "Gestion écologique (fauche tardive, pâturage extensif)"
+        ]
+      },
+      {
+        "heading": "La Loire, les rivières et la qualité de l'eau",
+        "paragraphs": [
+          "La Loire traverse l'Indre-et-Loire sur près de 100 kilomètres. Le Département contribue à la préservation de ce fleuve sauvage, dernier grand fleuve naturel d'Europe, en participant aux programmes de restauration des milieux aquatiques, à la lutte contre les espèces envahissantes et à la surveillance de la qualité des eaux.",
+          "Le SATESE (Service d'assistance technique aux exploitants de stations d'épuration) du Département accompagne les communes dans la gestion de leurs installations de traitement des eaux usées, garantissant la qualité des rejets dans le milieu naturel."
+        ],
+        "bullets": [
+          "Contribution aux programmes de restauration de la Loire",
+          "Lutte contre les espèces exotiques envahissantes",
+          "SATESE : assistance technique aux stations d'épuration",
+          "Surveillance de la qualité des eaux superficielles"
+        ]
+      },
+      {
+        "heading": "Transition écologique et randonnée nature",
+        "paragraphs": [
+          "Le Département intègre la transition écologique dans toutes ses politiques : construction de collèges basse consommation, flotte de véhicules électriques, marchés publics responsables, plan de réduction des pesticides. Il soutient également les initiatives locales de compostage, d'agriculture biologique et de circuits courts.",
+          "Le réseau de sentiers de randonnée balisés en Indre-et-Loire offre aux habitants et aux visiteurs des itinéraires pour découvrir les paysages naturels de la Touraine. Le Département contribue à l'entretien et à la signalisation de ces itinéraires en lien avec les associations et les communes."
+        ],
+        "bullets": [
+          "Bâtiments et véhicules écoresponsables",
+          "Plan de réduction des produits phytosanitaires",
+          "Soutien à l'agriculture biologique et aux circuits courts",
+          "Réseau de sentiers de randonnée balisés"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment accéder aux Espaces naturels sensibles du Département ?",
+        "a": "Les ENS gérés par le Département sont ouverts gratuitement au public. Vous pouvez consulter la liste et la localisation des sites sur touraine.fr. Des panneaux d'entrée indiquent les règles de visite et les sentiers accessibles."
+      },
+      {
+        "q": "Ma commune veut réduire l'usage des pesticides. Le Département peut-il l'aider ?",
+        "a": "Oui. Le Département propose un accompagnement technique aux communes dans le cadre du plan régional de réduction des pesticides. Des formations et des outils de gestion différenciée des espaces verts sont disponibles. Contactez la Direction de l'environnement au 02 47 31 47 31."
+      },
+      {
+        "q": "Qui puis-je contacter pour signaler une pollution d'un cours d'eau ?",
+        "a": "En cas de pollution constatée, contactez immédiatement l'Office français de la biodiversité (OFB) ou la Direction départementale des territoires (DDT 37). Vous pouvez également alerter le Département via contact@touraine.fr. En situation d'urgence, appelez le 18 ou le 112."
+      }
+    ],
+    "related": [
+      {
+        "label": "Tourisme et patrimoine",
+        "path": "mes-services-au-quotidien/tourisme-et-patrimoine"
+      },
+      {
+        "label": "Routes et mobilité",
+        "path": "mes-services-au-quotidien/routes-et-mobilite"
+      },
+      {
+        "label": "Sécurité",
+        "path": "mes-services-au-quotidien/securite"
+      }
+    ],
+    "downloads": [
+      "Guide des Espaces naturels sensibles d'Indre-et-Loire (PDF)",
+      "Carte des sentiers de randonnée de Touraine (PDF)",
+      "Rapport annuel de la qualité des eaux en Indre-et-Loire (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/securite": {
+    "seo": {
+      "title": "Sécurité en Touraine – SDIS, routes, protection des personnes",
+      "description": "SDIS 37, sécurité routière, gestion de crise et protection des personnes vulnérables : le Département d'Indre-et-Loire contribue à la sécurité de tous ses habitants."
+    },
+    "heroSubtitle": "Le Département de Touraine contribue à la sécurité des habitants : financement des pompiers du SDIS 37, sécurité routière, gestion de crise et protection des personnes les plus vulnérables.",
+    "intro": [
+      "La sécurité des habitants est une responsabilité partagée entre l'État et les collectivités territoriales. Le Conseil Départemental d'Indre-et-Loire y contribue à plusieurs titres : il est le premier financeur du Service départemental d'incendie et de secours (SDIS 37), il investit dans la sécurité de son réseau routier et il coordonne des dispositifs de protection des personnes vulnérables.",
+      "Ces missions s'inscrivent dans un cadre partenarial étroit avec la Préfecture, les communes, les forces de l'ordre et les associations de sécurité civile."
+    ],
+    "sections": [
+      {
+        "heading": "Le SDIS 37 : les pompiers d'Indre-et-Loire",
+        "paragraphs": [
+          "Le Service départemental d'incendie et de secours (SDIS 37) est l'établissement public chargé de la prévention et de la lutte contre les incendies, ainsi que du secours à personnes sur l'ensemble du territoire d'Indre-et-Loire. Le Département est son principal financeur, aux côtés des communes et communautés de communes.",
+          "Le SDIS 37 dispose de plusieurs centres de secours principaux et secondaires répartis sur le territoire, avec des personnels professionnels et une large proportion de sapeurs-pompiers volontaires dont le Département soutient le recrutement et la fidélisation."
+        ],
+        "bullets": [
+          "Premier financeur du SDIS 37",
+          "Réseau de centres de secours couvrant tout le territoire",
+          "Sapeurs-pompiers professionnels et volontaires",
+          "Soutien au recrutement des pompiers volontaires",
+          "Actions de prévention des risques d'incendie"
+        ]
+      },
+      {
+        "heading": "Sécurité routière",
+        "paragraphs": [
+          "En tant que gestionnaire du réseau routier départemental, le Département agit pour améliorer la sécurité des usagers de la route : aménagement de carrefours dangereux, mise en place de ralentisseurs sur les traversées de villages, installation de glissières de sécurité, entretien de la signalisation. Il participe également aux actions de sensibilisation à la sécurité routière, notamment en direction des jeunes conducteurs et des collégiens.",
+          "Le Département est membre du Plan départemental d'actions de sécurité routière (PDASR) coordonné par la Préfecture, qui regroupe l'ensemble des partenaires œuvrant à la réduction des accidents sur le territoire."
+        ],
+        "bullets": [
+          "Aménagement de carrefours et points noirs accidentogènes",
+          "Signalisation et équipements de sécurité passive",
+          "Sensibilisation à la sécurité routière dans les collèges",
+          "Participation au PDASR en lien avec la Préfecture"
+        ]
+      },
+      {
+        "heading": "Gestion de crise et protection des personnes vulnérables",
+        "paragraphs": [
+          "Le Département participe à la gestion des crises sur le territoire (inondations, canicule, grand froid) en activant des plans d'action spécifiques pour protéger les personnes les plus vulnérables : personnes âgées isolées, sans-abri, personnes handicapées. Il coordonne les acteurs sociaux et sanitaires pour assurer une veille et une intervention rapide.",
+          "En cas de canicule, le Département met en œuvre un plan canicule en lien avec les EHPAD, les services d'aide à domicile et les communes, pour repérer et accompagner les personnes à risque d'hyperthermie. En hiver, il contribue au dispositif « grand froid » en finançant des associations d'aide aux sans-abri."
+        ],
+        "bullets": [
+          "Plan canicule : veille et accompagnement des personnes âgées",
+          "Plan grand froid : soutien aux associations d'aide aux sans-abri",
+          "Alerte inondation et coordination des secours",
+          "Protection des personnes vulnérables en situation de crise"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment contacter les pompiers en Indre-et-Loire ?",
+        "a": "En cas d'urgence, composez le 18 (pompiers) ou le 112 (numéro d'urgence européen). Pour toute question non urgente relative au SDIS 37, vous pouvez contacter son siège directement ou vous renseigner via le site sdis37.fr."
+      },
+      {
+        "q": "Que faire si je connais une personne âgée isolée et vulnérable lors d'une canicule ?",
+        "a": "Signalez-la à la mairie de sa commune (registre canicule) et à la MDS de son secteur. Si vous êtes inquiet pour sa santé immédiate, appelez le 15 (SAMU) ou le 18."
+      },
+      {
+        "q": "Comment signaler un carrefour dangereux sur une route départementale ?",
+        "a": "Adressez votre signalement au Département via contact@touraine.fr ou par courrier à l'Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9. Précisez le numéro de la route, la commune et la nature du danger constaté. Votre signalement sera instruit par les services routiers."
+      }
+    ],
+    "related": [
+      {
+        "label": "Routes et mobilité",
+        "path": "mes-services-au-quotidien/routes-et-mobilite"
+      },
+      {
+        "label": "Personnes âgées",
+        "path": "mes-services-au-quotidien/personnes-agees"
+      },
+      {
+        "label": "L'accompagnement social",
+        "path": "mes-services-au-quotidien/l-accompagnement-social"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      }
+    ],
+    "downloads": [
+      "Guide des numéros d'urgence en Indre-et-Loire (PDF)",
+      "Plan canicule – Conseils et dispositif départemental (PDF)"
+    ],
+    "contactCta": true
+  }
+}

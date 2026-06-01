@@ -1,0 +1,45 @@
+{
+  "name": "poc",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "payload": "payload",
+    "generate:types": "payload generate:types",
+    "db:seed": "payload run ./seed.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@payloadcms/db-sqlite": "3.85.0",
+    "@payloadcms/live-preview-react": "3.85.0",
+    "@payloadcms/next": "3.85.0",
+    "@payloadcms/plugin-form-builder": "3.85.0",
+    "@payloadcms/plugin-nested-docs": "3.85.0",
+    "@payloadcms/plugin-search": "3.85.0",
+    "@payloadcms/richtext-lexical": "3.85.0",
+    "@payloadcms/ui": "3.85.0",
+    "graphql": "16.8.1",
+    "lucide-react": "^1.17.0",
+    "next": "16.2.6",
+    "payload": "3.85.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "vitest": "^3.2.4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "badge": "Portail du Département",
+  "title": "Le Département vous accompagne au quotidien",
+  "subtitle": "Démarches, aides et services de proximité, réunis en un seul endroit.",
+  "image": "/images/hero-touraine.jpg",
+  "imageAlt": "Château de Chambord au crépuscule, vallée de la Loire",
+  "search": {
+    "label": "Que cherchez-vous ?",
+    "placeholder": "Une démarche, une aide, un service…",
+    "button": "Rechercher"
+  },
+  "quickAccessLabel": "Accès directs"
+}

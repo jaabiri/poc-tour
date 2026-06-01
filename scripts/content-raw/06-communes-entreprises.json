@@ -1,0 +1,777 @@
+{
+  "communes-et-collectivites": {
+    "seo": {
+      "title": "Communes & collectivités – Département de Touraine",
+      "description": "Le Département d'Indre-et-Loire accompagne les communes et EPCI : subventions, ingénierie territoriale, facturation électronique, SIG et ZPENS."
+    },
+    "heroSubtitle": "Le Département de Touraine est le partenaire privilégié des communes et intercommunalités d'Indre-et-Loire : financements, expertise technique, outils numériques.",
+    "intro": [
+      "Collectivité de proximité, le Département d'Indre-et-Loire met à disposition des communes et EPCI un ensemble de dispositifs d'appui : aides financières (FDSR, contrats de territoire), ingénierie territoriale, dématérialisation des échanges financiers et outils cartographiques de référence.",
+      "Retrouvez dans cet espace l'ensemble des services dédiés aux élus et agents des collectivités locales d'Indre-et-Loire."
+    ],
+    "sections": [
+      {
+        "heading": "Aides financières aux communes",
+        "paragraphs": [
+          "Le Département soutient les projets d'investissement des communes et intercommunalités à travers le Fonds Départemental de Solidarité Rurale (FDSR) et les contrats de territoire. Ces dispositifs permettent de financer des opérations de voirie, de rénovation du patrimoine, d'équipements sportifs et culturels ou encore de transition numérique."
+        ]
+      },
+      {
+        "heading": "Ingénierie territoriale",
+        "paragraphs": [
+          "Les équipes du Département apportent un appui technique gratuit aux communes qui ne disposent pas des ressources internes suffisantes pour conduire leurs projets. Études, maîtrise d'ouvrage, conseil : notre expertise couvre la voirie, les bâtiments, l'eau et l'assainissement ainsi que le numérique."
+        ]
+      },
+      {
+        "heading": "Outils numériques",
+        "paragraphs": [
+          "Le Département met à disposition des collectivités un portail SIG pour accéder aux données géographiques de référence du territoire, ainsi qu'une application dédiée à la consultation des Zones de Préemption des Espaces Naturels Sensibles (ZPENS)."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Demande de subventions", "path": "communes-et-collectivites/demande-de-subventions" },
+      { "label": "Ingénierie territoriale", "path": "communes-et-collectivites/plateforme-web-ingenierie" },
+      { "label": "Facturation électronique", "path": "communes-et-collectivites/facturation-electronique" },
+      { "label": "Portail SIG", "path": "communes-et-collectivites/portail-sig" },
+      { "label": "Application ZPENS", "path": "communes-et-collectivites/application-zpens" }
+    ],
+    "contactCta": true
+  },
+
+  "communes-et-collectivites/demande-de-subventions": {
+    "seo": {
+      "title": "Demande de subventions – Communes & collectivités",
+      "description": "Déposez votre demande de subvention au Département d'Indre-et-Loire : FDSR, contrats de territoire, éligibilité et procédure de dépôt en ligne."
+    },
+    "heroSubtitle": "Financez vos projets communaux grâce aux dispositifs d'aide du Département : FDSR, contrats de territoire et fonds thématiques. Déposez votre dossier en ligne.",
+    "intro": [
+      "Le Département d'Indre-et-Loire soutient les investissements des communes et intercommunalités à travers plusieurs dispositifs d'aide financière. Le Fonds Départemental de Solidarité Rurale (FDSR) est le principal outil d'appui aux communes rurales, complété par les contrats de territoire pour les projets structurants.",
+      "Toute demande de subvention doit être déposée avant le début des travaux, via la plateforme dématérialisée dédiée."
+    ],
+    "sections": [
+      {
+        "heading": "Les dispositifs de financement",
+        "paragraphs": [
+          "Le Fonds Départemental de Solidarité Rurale (FDSR) soutient les projets d'investissement des communes de moins de 10 000 habitants et des groupements de communes. Il couvre les domaines suivants : voirie communale, réseaux, bâtiments communaux, équipements sportifs et culturels, aménagements de bourgs.",
+          "Les contrats de territoire sont conclus entre le Département et les intercommunalités pour une durée de trois ans. Ils permettent de programmer et de cofinancer des opérations prioritaires définies conjointement."
+        ],
+        "bullets": [
+          "FDSR : taux de subvention jusqu'à 30 % de la dépense subventionnable",
+          "Contrats de territoire : enveloppe pluriannuelle négociée par EPCI",
+          "Fonds thématiques : accessibilité, transition énergétique, numérique"
+        ]
+      },
+      {
+        "heading": "Conditions d'éligibilité",
+        "paragraphs": [
+          "Pour être éligible, la collectivité doit être à jour de ses obligations comptables et fiscales vis-à-vis du Département. Les projets doivent être inscrits au budget primitif de l'année de la demande et respecter les priorités définies par les règlements d'intervention en vigueur."
+        ],
+        "bullets": [
+          "Communes et EPCI d'Indre-et-Loire",
+          "Projet non commencé à la date de dépôt du dossier",
+          "Maîtrise d'ouvrage publique obligatoire",
+          "Pièces justificatives : délibération, plan de financement, devis"
+        ]
+      },
+      {
+        "heading": "Comment déposer votre dossier",
+        "paragraphs": [
+          "Les dossiers de demande de subvention sont déposés exclusivement en ligne via la plateforme dématérialisée du Département, accessible depuis l'espace collectivités. Après instruction par les services compétents, la décision d'attribution est notifiée par courrier officiel."
+        ],
+        "bullets": [
+          "Connexion à l'espace collectivités avec identifiants fournis par le Département",
+          "Renseignement du formulaire de demande et téléversement des pièces",
+          "Accusé de réception automatique par courriel",
+          "Délai d'instruction : 2 à 4 mois selon le dispositif"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Peut-on déposer une demande de subvention pour des travaux déjà commencés ?",
+        "a": "Non. Tout commencement de travaux avant la notification de la décision d'attribution entraîne l'irrecevabilité de la demande. Il est impératif de déposer le dossier et d'attendre la décision avant tout démarrage."
+      },
+      {
+        "q": "Quels documents faut-il joindre au dossier FDSR ?",
+        "a": "La délibération du conseil municipal approuvant le projet et le plan de financement, les devis ou avant-projets, le relevé d'identité bancaire (RIB) et, le cas échéant, les autorisations administratives requises (permis de construire, etc.)."
+      },
+      {
+        "q": "À quelle fréquence les dossiers sont-ils examinés ?",
+        "a": "Les demandes FDSR sont examinées lors des sessions de la Commission Permanente du Département, qui se réunit environ tous les deux mois."
+      }
+    ],
+    "downloads": [
+      "Règlement d'intervention FDSR (PDF)",
+      "Guide du porteur de projet – Contrats de territoire (PDF)",
+      "Modèle de délibération pour demande de subvention (PDF)"
+    ],
+    "related": [
+      { "label": "Retour à l'espace communes", "path": "communes-et-collectivites" },
+      { "label": "Ingénierie territoriale", "path": "communes-et-collectivites/plateforme-web-ingenierie" },
+      { "label": "Marchés publics et appels à projets", "path": "acces-direct/marches-publics-et-appels-a-projets" }
+    ],
+    "contactCta": true
+  },
+
+  "communes-et-collectivites/facturation-electronique": {
+    "seo": {
+      "title": "Facturation électronique – Communes & collectivités",
+      "description": "Déposez vos factures dématérialisées via Chorus Pro. Retrouvez les obligations, la procédure et les contacts du Département d'Indre-et-Loire."
+    },
+    "heroSubtitle": "Le Département d'Indre-et-Loire est raccordé à Chorus Pro, la plateforme nationale de facturation électronique. Toute facture doit désormais être transmise par voie dématérialisée.",
+    "intro": [
+      "Conformément à la réglementation en vigueur, les fournisseurs et partenaires du Département d'Indre-et-Loire sont tenus de transmettre leurs factures via la plateforme Chorus Pro, portail national de la facturation électronique inter-administrations.",
+      "Cette obligation garantit un traitement plus rapide des factures et une traçabilité complète des échanges financiers."
+    ],
+    "sections": [
+      {
+        "heading": "Obligation de facturation électronique",
+        "paragraphs": [
+          "Depuis le 1er janvier 2020, toutes les collectivités territoriales et leurs groupements sont dans l'obligation légale de recevoir des factures électroniques de la part de leurs fournisseurs. Cette obligation concerne les marchés publics et les contrats de la commande publique.",
+          "Le Département d'Indre-et-Loire est identifié dans Chorus Pro avec un numéro SIRET unique. Toute facture adressée au Département doit impérativement mentionner ce numéro ainsi que le service destinataire."
+        ]
+      },
+      {
+        "heading": "Comment déposer une facture via Chorus Pro",
+        "paragraphs": [
+          "La transmission d'une facture électronique au Département se fait en trois étapes : connexion au portail Chorus Pro, saisie ou dépôt du fichier facture (format Factur-X ou PDF signé), puis envoi avec les références contractuelles."
+        ],
+        "bullets": [
+          "Accéder à Chorus Pro sur chorus-pro.gouv.fr",
+          "Créer un compte fournisseur si vous n'en disposez pas",
+          "Renseigner le SIRET du Département",
+          "Indiquer le numéro d'engagement ou de marché dans la référence facture",
+          "Joindre les pièces justificatives demandées (situation de travaux, PV de réception…)"
+        ]
+      },
+      {
+        "heading": "Informations pratiques",
+        "paragraphs": [
+          "En cas de difficulté technique sur Chorus Pro, le support national est joignable via le portail. Pour toute question relative à un paiement ou à un dossier en cours, contactez la Direction des Finances du Département à l'adresse contact@touraine.fr ou au 02 47 31 47 31."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mon logiciel de facturation est-il compatible avec Chorus Pro ?",
+        "a": "Chorus Pro accepte les factures au format Factur-X (PDF/A-3 avec XML intégré) et les dépôts de fichiers PDF. La plupart des logiciels de comptabilité du marché proposent un connecteur Chorus Pro natif ou via EDI."
+      },
+      {
+        "q": "Que faire si ma facture est rejetée ?",
+        "a": "Un motif de rejet est systématiquement indiqué dans Chorus Pro. Les causes les plus fréquentes sont : SIRET erroné, référence de marché manquante ou montant incohérent. Corrigez la facture et déposez-la à nouveau."
+      }
+    ],
+    "related": [
+      { "label": "Retour à l'espace communes", "path": "communes-et-collectivites" },
+      { "label": "Marchés publics et appels à projets", "path": "acces-direct/marches-publics-et-appels-a-projets" },
+      { "label": "Chorus Pro – portail national", "url": "https://chorus-pro.gouv.fr" }
+    ],
+    "contactCta": true
+  },
+
+  "communes-et-collectivites/plateforme-web-ingenierie": {
+    "seo": {
+      "title": "Ingénierie territoriale – Communes & collectivités",
+      "description": "Le Département de Touraine offre un appui technique gratuit aux communes : voirie, bâtiments, eau, numérique. Déposez votre demande en ligne."
+    },
+    "heroSubtitle": "Le Département d'Indre-et-Loire met son expertise d'ingénierie à disposition des communes qui souhaitent être accompagnées dans la conduite de leurs projets.",
+    "intro": [
+      "Face à la complexité croissante des projets et à la diminution des ressources internes dans les petites communes, le Département de Touraine propose une offre d'ingénierie territoriale mutualisée. Ce service gratuit s'adresse aux communes et groupements qui ne disposent pas de services techniques suffisamment dimensionnés.",
+      "Les équipes du Département interviennent en conseil, en assistance à maîtrise d'ouvrage et, le cas échéant, en maîtrise d'œuvre directe pour certaines opérations."
+    ],
+    "sections": [
+      {
+        "heading": "Domaines d'intervention",
+        "paragraphs": [
+          "L'ingénierie territoriale du Département couvre l'ensemble du cycle de vie d'un projet communal, de la définition du besoin jusqu'à la réception des travaux."
+        ],
+        "bullets": [
+          "Voirie communale : diagnostics, programmation, études de conception",
+          "Bâtiments communaux : audits énergétiques, accessibilité, réhabilitation",
+          "Eau potable et assainissement : schémas directeurs, travaux de mise en conformité",
+          "Transition numérique : déploiement du très haut débit, téléservices",
+          "Aménagement et urbanisme : conseils en planification, révision de PLU"
+        ]
+      },
+      {
+        "heading": "Comment solliciter l'ingénierie départementale",
+        "paragraphs": [
+          "La demande d'accompagnement technique s'effectue via la plateforme web dédiée, accessible depuis l'espace collectivités. Après analyse de la demande, un chargé de mission territorial prend contact avec la commune dans un délai de quinze jours ouvrés pour convenir d'une première rencontre."
+        ],
+        "bullets": [
+          "Connexion à la plateforme avec les identifiants collectivités",
+          "Description du projet et de la nature de l'accompagnement souhaité",
+          "Transmission des éléments de contexte (plans, études existantes, contraintes)",
+          "Mise en relation avec le chargé de mission référent"
+        ]
+      },
+      {
+        "heading": "Engagements du Département",
+        "paragraphs": [
+          "Le Département s'engage à fournir un accompagnement neutre, sans lien commercial avec les prestataires, fondé uniquement sur l'intérêt général et la qualité technique des solutions proposées. Les prestations d'ingénierie sont intégralement financées par le Département dans le cadre de sa mission de solidarité territoriale."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ce service est-il gratuit pour les communes ?",
+        "a": "Oui, l'ensemble des prestations d'ingénierie territoriale du Département est fourni gratuitement aux communes et EPCI d'Indre-et-Loire qui en font la demande, dans la limite des capacités disponibles."
+      },
+      {
+        "q": "Quelles communes peuvent en bénéficier ?",
+        "a": "Toutes les communes et intercommunalités d'Indre-et-Loire peuvent solliciter l'ingénierie départementale. Une attention particulière est portée aux communes rurales de moins de 5 000 habitants qui ne disposent pas de service technique dédié."
+      },
+      {
+        "q": "L'ingénierie départementale remplace-t-elle le recours à un maître d'œuvre privé ?",
+        "a": "Non. Le Département intervient en conseil et en assistance à maîtrise d'ouvrage. Pour les marchés de maîtrise d'œuvre soumis à mise en concurrence, la commune reste tenue de respecter les règles de la commande publique."
+      }
+    ],
+    "related": [
+      { "label": "Retour à l'espace communes", "path": "communes-et-collectivites" },
+      { "label": "Demande de subventions", "path": "communes-et-collectivites/demande-de-subventions" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "communes-et-collectivites/portail-sig": {
+    "seo": {
+      "title": "Portail SIG – Données géographiques de Touraine",
+      "description": "Accédez au portail cartographique SIG du Département d'Indre-et-Loire : cadastre, couches thématiques, données géographiques de référence du territoire."
+    },
+    "heroSubtitle": "Le portail SIG du Département de Touraine donne accès aux données géographiques de référence : cadastre, occupation des sols, réseaux, espaces naturels et bien plus encore.",
+    "intro": [
+      "Le Système d'Information Géographique (SIG) du Département d'Indre-et-Loire centralise et diffuse les données géographiques produites ou collectées par les services départementaux. Ce portail cartographique est mis à disposition des communes, des EPCI et des partenaires institutionnels.",
+      "Les couches de données sont régulièrement mises à jour et accessibles en consultation libre ou en téléchargement selon les droits définis."
+    ],
+    "sections": [
+      {
+        "heading": "Données disponibles",
+        "paragraphs": [
+          "Le portail SIG propose un catalogue de couches thématiques couvrant l'ensemble du territoire d'Indre-et-Loire. Ces données sont issues de producteurs nationaux (IGN, cadastre DGFiP) et des productions propres au Département."
+        ],
+        "bullets": [
+          "Cadastre parcellaire (source DGFiP, mise à jour annuelle)",
+          "Occupation du sol et usage des terres",
+          "Réseau routier départemental et communal",
+          "Zones de préemption ENS (ZPENS)",
+          "Périmètres réglementaires (PLU, SCOT, Natura 2000)",
+          "Réseaux d'eau potable et d'assainissement",
+          "Données socio-économiques communales"
+        ]
+      },
+      {
+        "heading": "Comment accéder au portail",
+        "paragraphs": [
+          "Le portail est accessible depuis un navigateur web sans installation de logiciel. Une partie des données est consultable librement ; l'accès aux couches sensibles et au téléchargement nécessite la création d'un compte utilisateur auprès du service SIG du Département."
+        ],
+        "bullets": [
+          "Consultation libre des couches publiques sans authentification",
+          "Création de compte pour accès complet et téléchargement",
+          "Export aux formats SHP, GeoJSON, KML et WMS/WFS",
+          "Assistance technique : sig@touraine.fr"
+        ]
+      }
+    ],
+    "map": {
+      "title": "Portail cartographique SIG – Indre-et-Loire",
+      "arcgisItemUrl": "https://www.arcgis.com/home/item.html?id=departement37_sig_portail"
+    },
+    "related": [
+      { "label": "Application ZPENS", "path": "communes-et-collectivites/application-zpens" },
+      { "label": "Retour à l'espace communes", "path": "communes-et-collectivites" }
+    ],
+    "contactCta": true
+  },
+
+  "communes-et-collectivites/application-zpens": {
+    "seo": {
+      "title": "Application ZPENS – Zones de préemption ENS Touraine",
+      "description": "Consultez les zones de préemption des Espaces Naturels Sensibles (ZPENS) d'Indre-et-Loire sur la carte cadastrale interactive du Département."
+    },
+    "heroSubtitle": "Identifiez les parcelles situées en zone de préemption ENS sur la carte cadastrale interactive du Département de Touraine. Outil indispensable pour les communes et notaires.",
+    "intro": [
+      "Le Département d'Indre-et-Loire exerce son droit de préemption sur les Espaces Naturels Sensibles (ENS) afin de protéger la biodiversité et les paysages remarquables du territoire. L'application ZPENS permet à tout utilisateur de consulter les périmètres de préemption à la parcelle cadastrale.",
+      "Cet outil est particulièrement utile aux communes, aux notaires, aux géomètres-experts et aux porteurs de projets fonciers qui souhaitent vérifier si une parcelle est soumise au droit de préemption du Département."
+    ],
+    "sections": [
+      {
+        "heading": "Qu'est-ce qu'une ZPENS ?",
+        "paragraphs": [
+          "Les Zones de Préemption des Espaces Naturels Sensibles (ZPENS) sont des périmètres délimités par arrêté du Président du Département, à l'intérieur desquels le Département dispose d'un droit de préemption sur toute cession à titre onéreux de terrain non bâti.",
+          "En Indre-et-Loire, ces zones couvrent les secteurs à forte valeur écologique : vallées alluviales, zones humides, pelouses sèches, forêts et bocages remarquables. Leur objectif est de permettre au Département d'acquérir des terrains afin de les protéger, de les gérer et d'en faciliter l'accès au public."
+        ]
+      },
+      {
+        "heading": "Utiliser l'application ZPENS",
+        "paragraphs": [
+          "L'application cartographique permet de rechercher une parcelle par son identifiant cadastral (département, commune, section, numéro de parcelle) ou par saisie d'une adresse. Une fois la parcelle identifiée, l'application indique si elle est incluse dans un périmètre ZPENS et affiche les informations de contact pour toute démarche de cession."
+        ],
+        "bullets": [
+          "Recherche par référence cadastrale ou adresse",
+          "Visualisation du périmètre ZPENS en superposition du plan cadastral",
+          "Téléchargement d'une attestation de situation parcellaire",
+          "Accès libre, sans authentification requise"
+        ]
+      },
+      {
+        "heading": "Obligations lors d'une cession en ZPENS",
+        "paragraphs": [
+          "Tout notaire ou vendeur envisageant la cession d'un terrain situé en ZPENS doit adresser une Déclaration d'Intention d'Aliéner (DIA) au Département. Le Département dispose alors de deux mois pour exercer ou renoncer à son droit de préemption."
+        ]
+      }
+    ],
+    "map": {
+      "title": "Zones de préemption ENS – Consultation cadastrale Indre-et-Loire",
+      "arcgisItemUrl": "https://www.arcgis.com/home/item.html?id=departement37_zpens_cadastre"
+    },
+    "faq": [
+      {
+        "q": "L'attestation obtenue via l'application a-t-elle valeur officielle ?",
+        "a": "L'attestation éditée depuis l'application a valeur indicative. Pour un acte notarié, il est recommandé de solliciter une confirmation écrite auprès du service ENS du Département."
+      },
+      {
+        "q": "Comment signaler une erreur sur le périmètre ZPENS affiché ?",
+        "a": "Vous pouvez signaler toute anomalie cartographique à l'adresse sig@touraine.fr en précisant la référence cadastrale de la parcelle concernée."
+      }
+    ],
+    "related": [
+      { "label": "Portail SIG", "path": "communes-et-collectivites/portail-sig" },
+      { "label": "Retour à l'espace communes", "path": "communes-et-collectivites" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "entreprises-et-associations": {
+    "seo": {
+      "title": "Entreprises & associations – Département de Touraine",
+      "description": "Le Département d'Indre-et-Loire accompagne entreprises et associations : subventions, facturation électronique, fonds européens et mécénat."
+    },
+    "heroSubtitle": "Le Département de Touraine est un partenaire actif des entreprises et associations du territoire : aides financières, fonds européens, facturation dématérialisée et mécénat.",
+    "intro": [
+      "Le Département d'Indre-et-Loire s'engage aux côtés des acteurs économiques et associatifs du territoire à travers une gamme d'outils d'appui : dispositifs de subvention, accompagnement à l'accès aux fonds européens, facilitation des échanges financiers et promotion du mécénat.",
+      "Retrouvez dans cet espace l'ensemble des ressources et procédures utiles aux associations, entreprises et fournisseurs du Département."
+    ],
+    "sections": [
+      {
+        "heading": "Soutien aux associations",
+        "paragraphs": [
+          "Le Département soutient les associations qui contribuent à la vie sociale, culturelle, sportive et solidaire du territoire. Des dispositifs de subvention annuels et pluriannuels permettent de financer des projets d'intérêt général."
+        ]
+      },
+      {
+        "heading": "Appui aux entreprises",
+        "paragraphs": [
+          "Les entreprises fournisseurs du Département sont tenues de dématérialiser leurs factures via Chorus Pro. Par ailleurs, les entreprises engagées dans des projets innovants ou territoriaux peuvent bénéficier d'un accompagnement au montage de dossiers de financement européen."
+        ]
+      },
+      {
+        "heading": "Mécénat",
+        "paragraphs": [
+          "Le Département de Touraine encourage les entreprises à soutenir des projets culturels, patrimoniaux et solidaires portés par la collectivité. Les dons ouvrent droit à une réduction d'impôt au titre du mécénat d'entreprise."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Demande de subventions", "path": "entreprises-et-associations/demande-de-subventions-entreprises-et-associations" },
+      { "label": "Facturation électronique", "path": "entreprises-et-associations/facturation-electronique-entreprises-et-associations" },
+      { "label": "Subventions européennes", "path": "entreprises-et-associations/subventions-europeennes" },
+      { "label": "Mécénat", "path": "entreprises-et-associations/mecenat" }
+    ],
+    "contactCta": true
+  },
+
+  "entreprises-et-associations/demande-de-subventions-entreprises-et-associations": {
+    "seo": {
+      "title": "Demande de subventions – Entreprises & associations",
+      "description": "Associations et entreprises d'Indre-et-Loire : déposez votre demande de subvention au Département. Dispositifs, éligibilité et dépôt en ligne."
+    },
+    "heroSubtitle": "Associations culturelles, sportives, sociales, ou entreprises porteuses de projets territoriaux : le Département de Touraine soutient vos initiatives. Déposez votre dossier en ligne.",
+    "intro": [
+      "Le Département d'Indre-et-Loire attribue des subventions aux associations et, dans certains cas, aux entreprises qui portent des projets d'intérêt général en lien avec les compétences et les priorités de la collectivité.",
+      "Les demandes sont instruites par les directions métier compétentes et soumises à l'approbation de la Commission Permanente ou de l'Assemblée Départementale selon les montants en jeu."
+    ],
+    "sections": [
+      {
+        "heading": "Qui peut déposer une demande ?",
+        "paragraphs": [
+          "Les subventions départementales sont principalement destinées aux associations loi 1901 dont le siège social ou le champ d'action est situé en Indre-et-Loire. Des aides spécifiques peuvent être accordées à des structures d'utilité sociale (SCIC, ESUS) ou à des entreprises dans le cadre de dispositifs ciblés."
+        ],
+        "bullets": [
+          "Associations loi 1901 domiciliées en Indre-et-Loire",
+          "Structures d'économie sociale et solidaire (ESS) agréées",
+          "Entreprises répondant à un appel à projets départemental spécifique",
+          "Champ d'action : culture, sport, solidarité, environnement, éducation, tourisme"
+        ]
+      },
+      {
+        "heading": "Constitution du dossier",
+        "paragraphs": [
+          "Le dossier de demande de subvention doit être complet pour être instruit. Il est déposé via la plateforme dématérialisée du Département accessible depuis cet espace. Les associations dont le budget annuel dépasse 75 000 € doivent joindre leurs comptes certifiés."
+        ],
+        "bullets": [
+          "Formulaire de demande complété et signé",
+          "Statuts de l'association et récépissé de déclaration en préfecture",
+          "Rapport d'activité de l'année N-1",
+          "Budget prévisionnel du projet subventionné",
+          "Relevé d'identité bancaire (RIB)",
+          "Comptes annuels approuvés (si budget > 75 000 €)"
+        ]
+      },
+      {
+        "heading": "Calendrier et instruction",
+        "paragraphs": [
+          "Les dossiers doivent être déposés avant le 31 janvier de l'année de réalisation du projet pour les aides récurrentes, ou selon le calendrier propre à chaque appel à projets. L'instruction est réalisée par les services du Département dans un délai moyen de deux à trois mois."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Une association peut-elle déposer plusieurs demandes la même année ?",
+        "a": "Oui, sous réserve que les projets concernés relèvent de domaines d'intervention différents et soient instruits par des directions distinctes du Département."
+      },
+      {
+        "q": "Faut-il rembourser la subvention si le projet n'est pas réalisé ?",
+        "a": "Oui. Si le projet subventionné n'est pas réalisé ou si les conditions d'attribution ne sont pas respectées, le Département peut demander le reversement total ou partiel de la subvention."
+      }
+    ],
+    "downloads": [
+      "Règlement général des subventions aux associations (PDF)",
+      "Guide du porteur de projet associatif (PDF)",
+      "Modèle de budget prévisionnel (XLSX)"
+    ],
+    "related": [
+      { "label": "Retour à l'espace entreprises & associations", "path": "entreprises-et-associations" },
+      { "label": "Subventions européennes", "path": "entreprises-et-associations/subventions-europeennes" },
+      { "label": "Démarches simplifiées", "url": "https://www.demarches-simplifiees.fr" }
+    ],
+    "contactCta": true
+  },
+
+  "entreprises-et-associations/facturation-electronique-entreprises-et-associations": {
+    "seo": {
+      "title": "Facturation électronique fournisseurs – Touraine",
+      "description": "Fournisseurs du Département d'Indre-et-Loire : déposez vos factures via Chorus Pro. Obligations, procédure et contacts pour la facturation dématérialisée."
+    },
+    "heroSubtitle": "Vous êtes fournisseur ou prestataire du Département de Touraine ? Transmettez vos factures exclusivement via Chorus Pro, la plateforme nationale de facturation électronique.",
+    "intro": [
+      "Conformément aux obligations issues de l'ordonnance n° 2014-697 du 26 juin 2014, toutes les entreprises et associations titulaires d'un marché ou d'une convention avec le Département d'Indre-et-Loire doivent transmettre leurs factures sous forme électronique via la plateforme Chorus Pro.",
+      "Cette dématérialisation accélère les délais de traitement et garantit la traçabilité de chaque facture tout au long de son cycle de validation."
+    ],
+    "sections": [
+      {
+        "heading": "Obligations légales",
+        "paragraphs": [
+          "L'obligation de facturation électronique s'applique à toutes les entreprises et associations, quelle que soit leur taille, dès lors qu'elles contractent avec une collectivité publique. Depuis le 1er janvier 2020, aucune facture papier ne peut être acceptée par le Département."
+        ],
+        "bullets": [
+          "Obligation applicable à toutes les tailles d'entreprise depuis le 1er janvier 2020",
+          "Marché public ou convention de subvention : Chorus Pro obligatoire",
+          "Les factures papier ou par e-mail ne sont plus acceptées"
+        ]
+      },
+      {
+        "heading": "Étapes pour déposer une facture",
+        "paragraphs": [
+          "Le dépôt d'une facture via Chorus Pro suit un processus standardisé. Chaque facture doit comporter les mentions obligatoires et référencer le numéro d'engagement du Département."
+        ],
+        "bullets": [
+          "Créer ou se connecter à votre compte sur chorus-pro.gouv.fr",
+          "Sélectionner le mode de dépôt : saisie en ligne ou téléversement de fichier",
+          "Renseigner le SIRET du Département et le code service destinataire",
+          "Indiquer la référence du marché ou de la convention",
+          "Soumettre la facture et conserver l'accusé de réception"
+        ]
+      },
+      {
+        "heading": "Délais de paiement",
+        "paragraphs": [
+          "Le Département s'engage à respecter le délai légal de paiement de 30 jours à compter de la réception de la facture dans Chorus Pro. En cas de retard, des intérêts moratoires et une indemnité forfaitaire sont dus de plein droit."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment obtenir le code service destinataire du Département ?",
+        "a": "Le code service est indiqué dans votre marché ou votre convention. À défaut, contactez le service gestionnaire de votre contrat ou la Direction des Finances au 02 47 31 47 31."
+      },
+      {
+        "q": "Puis-je déposer une facture en format PDF simple ?",
+        "a": "Chorus Pro accepte les PDF pour les dépôts manuels. Toutefois, il est recommandé d'utiliser le format Factur-X (PDF/A-3 avec métadonnées XML) pour accélérer le traitement automatisé."
+      }
+    ],
+    "related": [
+      { "label": "Retour à l'espace entreprises & associations", "path": "entreprises-et-associations" },
+      { "label": "Chorus Pro – portail national", "url": "https://chorus-pro.gouv.fr" },
+      { "label": "Marchés publics et appels à projets", "path": "acces-direct/marches-publics-et-appels-a-projets" }
+    ],
+    "contactCta": true
+  },
+
+  "entreprises-et-associations/subventions-europeennes": {
+    "seo": {
+      "title": "Subventions européennes – FEDER FSE LEADER Touraine",
+      "description": "Mobilisez les fonds européens FEDER, FSE+ et LEADER en Indre-et-Loire. Le Département vous accompagne dans le montage de votre dossier de financement."
+    },
+    "heroSubtitle": "FEDER, FSE+, LEADER : le Département de Touraine accompagne les porteurs de projets dans l'accès aux fonds européens pour la période 2021–2027.",
+    "intro": [
+      "Le Département d'Indre-et-Loire est impliqué dans la gestion et l'animation des fonds structurels et d'investissement européens sur son territoire. Pour la programmation 2021–2027, plusieurs dispositifs sont mobilisables par les entreprises, associations et collectivités.",
+      "L'équipe Europe du Département propose un accompagnement personnalisé aux porteurs de projets souhaitant accéder à ces financements complémentaires."
+    ],
+    "sections": [
+      {
+        "heading": "Les fonds européens disponibles",
+        "paragraphs": [
+          "Trois grands fonds européens sont accessibles aux porteurs de projets en Indre-et-Loire, chacun ciblant des thématiques spécifiques."
+        ],
+        "bullets": [
+          "FEDER (Fonds Européen de Développement Régional) : transition numérique, innovation, transition énergétique, développement territorial",
+          "FSE+ (Fonds Social Européen Plus) : emploi, formation, inclusion sociale, apprentissage",
+          "LEADER : projets de développement rural portés par les Groupes d'Action Locale (GAL) en zones rurales"
+        ]
+      },
+      {
+        "heading": "Qui peut bénéficier de ces fonds ?",
+        "paragraphs": [
+          "Les fonds européens s'adressent à une grande diversité de porteurs de projets publics et privés, à condition que le projet réponde aux critères d'éligibilité du programme opérationnel régional ou du GAL local."
+        ],
+        "bullets": [
+          "Entreprises (PME, TPE) pour projets d'innovation ou de transition",
+          "Associations pour projets d'insertion, de formation ou de développement local",
+          "Communes et intercommunalités pour investissements structurants",
+          "Établissements d'enseignement et de recherche"
+        ]
+      },
+      {
+        "heading": "Accompagnement du Département",
+        "paragraphs": [
+          "L'équipe Europe du Département peut vous aider à identifier le fonds adapté à votre projet, à vérifier l'éligibilité de vos dépenses et à constituer votre dossier de demande. Cet accompagnement est gratuit et sans engagement."
+        ],
+        "bullets": [
+          "Diagnostic de financement européen",
+          "Aide à la rédaction du dossier de demande",
+          "Suivi de la mise en œuvre et de la justification des dépenses",
+          "Ateliers collectifs d'information sur les appels à projets en cours"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Puis-je cumuler un financement européen avec une subvention du Département ?",
+        "a": "Oui, sous réserve de respecter les règles de cumul des aides publiques et les plafonds fixés par les régimes d'aide d'État applicables. L'équipe Europe du Département peut vous aider à vérifier ce point."
+      },
+      {
+        "q": "Quelles sont les prochaines échéances pour déposer un dossier FEDER ?",
+        "a": "Les appels à projets sont publiés de manière régulière sur le portail national dédié. Consultez europe-en-france.gouv.fr pour le calendrier des ouvertures de guichet."
+      }
+    ],
+    "related": [
+      { "label": "Retour à l'espace entreprises & associations", "path": "entreprises-et-associations" },
+      { "label": "Europe en France – portail des fonds européens", "url": "https://www.europe-en-france.gouv.fr" },
+      { "label": "Demande de subventions", "path": "entreprises-et-associations/demande-de-subventions-entreprises-et-associations" }
+    ],
+    "contactCta": true
+  },
+
+  "entreprises-et-associations/mecenat": {
+    "seo": {
+      "title": "Mécénat – Soutenir les projets du Département de Touraine",
+      "description": "Soutenez des projets culturels, patrimoniaux et solidaires du Département d'Indre-et-Loire par le mécénat d'entreprise et bénéficiez d'avantages fiscaux."
+    },
+    "heroSubtitle": "Engagez votre entreprise aux côtés du Département de Touraine en soutenant des projets culturels, patrimoniaux et solidaires. Avantage fiscal jusqu'à 60 % du don.",
+    "intro": [
+      "Le Département d'Indre-et-Loire est habilité à recevoir des dons de mécénat en application de la loi n° 2003-709 du 1er août 2003 relative au mécénat, aux associations et aux fondations. Cette démarche permet aux entreprises de s'associer à des projets d'intérêt général portés par la collectivité tout en bénéficiant d'une réduction d'impôt sur les sociétés.",
+      "Les projets éligibles au mécénat couvrent les domaines de la culture, du patrimoine, de la solidarité, de l'environnement et de l'éducation."
+    ],
+    "sections": [
+      {
+        "heading": "Projets soutenus par le mécénat",
+        "paragraphs": [
+          "Le Département identifie chaque année des projets prioritaires susceptibles d'être cofinancés par le mécénat d'entreprise. Ces projets répondent à une démarche d'intérêt général et présentent une forte visibilité territoriale."
+        ],
+        "bullets": [
+          "Restauration et valorisation du patrimoine départemental",
+          "Acquisitions pour les musées et les collections publiques",
+          "Projets de solidarité et d'insertion sociale",
+          "Actions éducatives et culturelles en faveur de la jeunesse",
+          "Préservation des espaces naturels sensibles"
+        ]
+      },
+      {
+        "heading": "Avantages fiscaux pour les entreprises mécènes",
+        "paragraphs": [
+          "En contrepartie d'un don en numéraire, en nature ou en compétences, l'entreprise mécène bénéficie d'une réduction d'impôt sur les sociétés égale à 60 % du montant du don, dans la limite de 0,5 % du chiffre d'affaires hors taxe. Pour les dons supérieurs à ce plafond, l'excédent est reportable sur les cinq exercices suivants."
+        ],
+        "bullets": [
+          "Réduction IS : 60 % du montant versé",
+          "Plafond : 0,5 % du CA HT de l'exercice",
+          "Report possible sur 5 ans en cas de dépassement",
+          "Délivrance d'un reçu fiscal conforme à l'article 238 bis du CGI"
+        ]
+      },
+      {
+        "heading": "Comment devenir mécène ?",
+        "paragraphs": [
+          "Les entreprises souhaitant s'engager dans une démarche de mécénat avec le Département sont invitées à prendre contact avec la Direction de la Communication et du Rayonnement. Une convention de mécénat est formalisée pour chaque engagement, précisant l'objet, le montant et les contreparties éventuelles."
+        ],
+        "bullets": [
+          "Prise de contact avec la Direction de la Communication",
+          "Présentation des projets éligibles et discussion des modalités",
+          "Signature d'une convention de mécénat",
+          "Émission du reçu fiscal dans les 30 jours suivant la réalisation du don"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Les particuliers peuvent-ils aussi faire un don au Département ?",
+        "a": "Le mécénat dans le sens évoqué ici vise principalement les entreprises assujetties à l'IS. Les dons des particuliers à une collectivité territoriale ne sont pas éligibles à la réduction d'impôt sur le revenu prévue par la loi mécénat."
+      },
+      {
+        "q": "Quelles sont les contreparties autorisées pour le mécène ?",
+        "a": "La loi autorise des contreparties symboliques dans la limite de 25 % du montant du don : apposition du logo, invitation à des événements, visites privées. Au-delà, l'opération serait requalifiée en parrainage (sponsoring)."
+      }
+    ],
+    "related": [
+      { "label": "Retour à l'espace entreprises & associations", "path": "entreprises-et-associations" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "espace-presse": {
+    "seo": {
+      "title": "Espace presse – Département de Touraine",
+      "description": "Journalistes : accédez aux communiqués, dossiers de presse, visuels et contacts du service presse du Département d'Indre-et-Loire."
+    },
+    "heroSubtitle": "Bienvenue dans l'espace presse du Département de Touraine. Retrouvez communiqués, dossiers de presse, photos et coordonnées du service communication.",
+    "intro": [
+      "Le Département d'Indre-et-Loire met à disposition des journalistes et des médias un espace dédié pour accéder à l'ensemble des ressources d'information institutionnelle : communiqués de presse, dossiers thématiques, photos libres de droits et contacts directs.",
+      "Pour toute demande d'interview, d'accréditation ou de visuels complémentaires, le service communication est joignable du lundi au vendredi de 9 h à 17 h."
+    ],
+    "sections": [
+      {
+        "heading": "Communiqués de presse",
+        "paragraphs": [
+          "L'ensemble des communiqués de presse émis par le Département est accessible en téléchargement dans cet espace. Ils sont classés par date et par thématique (social, routes, culture, environnement, budget, etc.)."
+        ]
+      },
+      {
+        "heading": "Dossiers de presse",
+        "paragraphs": [
+          "Les dossiers de presse accompagnent les grandes décisions et événements de la collectivité : budget primitif, résultats des politiques publiques, inaugurations, opérations de communication. Ils sont disponibles en téléchargement au format PDF."
+        ]
+      },
+      {
+        "heading": "Photothèque",
+        "paragraphs": [
+          "Le Département met à disposition des médias une sélection de visuels libres de droits pour usage éditorial. Ces photos sont disponibles sur demande auprès du service communication. La mention de crédit « Département d'Indre-et-Loire » est obligatoire."
+        ]
+      },
+      {
+        "heading": "Contact presse",
+        "paragraphs": [
+          "Pour toute demande presse, contactez le service communication du Département : téléphone 02 47 31 47 31, courriel contact@touraine.fr, adresse Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9."
+        ]
+      }
+    ],
+    "downloads": [
+      "Communiqués de presse – archives (ZIP)",
+      "Dossier de presse – Budget primitif (PDF)",
+      "Kit presse institutionnel (PDF)"
+    ],
+    "related": [
+      { "label": "Accès charte graphique", "path": "acces-charte-graphique" },
+      { "label": "Sites internet annexes", "path": "sites-internet-annexes-au-departement" }
+    ],
+    "contactCta": true
+  },
+
+  "acces-charte-graphique": {
+    "seo": {
+      "title": "Charte graphique et logo – Département de Touraine",
+      "description": "Téléchargez le logo et la charte graphique officielle du Département d'Indre-et-Loire. Ressources réservées aux partenaires et services du Département."
+    },
+    "heroSubtitle": "Accédez aux ressources graphiques officielles du Département de Touraine : logo, palette de couleurs, typographies et règles d'usage pour une communication cohérente.",
+    "intro": [
+      "Le Département d'Indre-et-Loire met à disposition de ses services, partenaires institutionnels et prestataires agréés les éléments de sa charte graphique officielle. L'utilisation du logo et des ressources visuelles du Département est soumise au respect des règles définies dans la charte.",
+      "Toute utilisation du logo ou de l'identité visuelle à des fins autres que celles prévues par la charte doit faire l'objet d'une autorisation préalable de la Direction de la Communication."
+    ],
+    "sections": [
+      {
+        "heading": "Utilisation du logo",
+        "paragraphs": [
+          "Le logo du Département de Touraine est un élément d'identité protégé. Il ne peut être modifié, déformé, recolorisé ou utilisé hors des contextes prévus par la charte. Les fichiers sont fournis en haute définition pour les impressions et en formats optimisés pour le web."
+        ],
+        "bullets": [
+          "Versions disponibles : couleur, noir et blanc, inversé (fond sombre)",
+          "Formats : SVG, PNG (72 dpi web), EPS/PDF (haute définition impression)",
+          "Zone de protection à respecter autour du logo",
+          "Interdiction de modifier les proportions ou les couleurs"
+        ]
+      },
+      {
+        "heading": "Charte graphique",
+        "paragraphs": [
+          "La charte graphique définit l'ensemble des règles d'utilisation de l'identité visuelle : typographies institutionnelles, palette de couleurs, mise en page des documents officiels, règles pour les supports numériques et imprimés."
+        ],
+        "bullets": [
+          "Typographies : définies dans la charte, non substituables",
+          "Palette primaire et palette secondaire",
+          "Gabarits pour présentations, courriers et documents officiels",
+          "Règles pour les réseaux sociaux et le web"
+        ]
+      },
+      {
+        "heading": "Accès aux ressources",
+        "paragraphs": [
+          "Les fichiers téléchargeables ci-dessous sont réservés aux services du Département, aux partenaires institutionnels et aux prestataires de communication mandatés. Pour tout autre usage, contactez la Direction de la Communication."
+        ]
+      }
+    ],
+    "downloads": [
+      "Logo du Département – Pack complet (ZIP, SVG/PNG/EPS)",
+      "Charte graphique officielle (PDF)",
+      "Gabarit présentation institutionnelle (PPTX)",
+      "Gabarit courrier officiel (DOCX)",
+      "Palette de couleurs officielle (PDF)"
+    ],
+    "related": [
+      { "label": "Espace presse", "path": "espace-presse" },
+      { "label": "Nous contacter", "path": "nous-contacter" }
+    ],
+    "contactCta": true
+  },
+
+  "sites-internet-annexes-au-departement": {
+    "seo": {
+      "title": "Sites internet annexes – Département de Touraine",
+      "description": "Retrouvez l'annuaire des sites internet satellites du Département d'Indre-et-Loire : tourisme, archives, culture, jeunesse, environnement et plus encore."
+    },
+    "heroSubtitle": "Le Département de Touraine anime un écosystème de sites internet thématiques. Retrouvez ici l'ensemble des portails et ressources numériques partenaires ou rattachés.",
+    "intro": [
+      "En complément du portail institutionnel touraine.fr, le Département d'Indre-et-Loire développe et soutient plusieurs sites internet thématiques dédiés à ses grandes politiques publiques et à ses services spécialisés.",
+      "Ces sites constituent des points d'entrée privilégiés pour les publics concernés : touristes, chercheurs, jeunes, associations ou professionnels."
+    ],
+    "sections": [
+      {
+        "heading": "Sites thématiques du Département",
+        "paragraphs": [
+          "Chaque site ci-dessous correspond à un domaine d'action spécifique du Département. Ils sont régulièrement mis à jour par les équipes métier concernées."
+        ]
+      }
+    ],
+    "related": [
+      { "label": "Tourisme en Touraine – Touraine Val de Loire", "url": "https://www.tours-tourisme.fr" },
+      { "label": "Archives départementales d'Indre-et-Loire", "url": "https://archives.touraine.fr" },
+      { "label": "Lecture publique en Touraine", "url": "https://www.touraine.fr" },
+      { "label": "Espaces naturels sensibles de Touraine", "url": "https://www.touraine.fr" },
+      { "label": "Réseau de transport Fil Bleu", "url": "https://www.filbleu.fr" },
+      { "label": "Accès charte graphique", "path": "acces-charte-graphique" },
+      { "label": "Espace presse", "path": "espace-presse" }
+    ],
+    "contactCta": false
+  }
+}

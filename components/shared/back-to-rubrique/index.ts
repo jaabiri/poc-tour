@@ -1,0 +1,1 @@
+export { BackToRubrique } from "./BackToRubrique";

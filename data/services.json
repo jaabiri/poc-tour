@@ -1,0 +1,44 @@
+{
+  "watermark": "Services",
+  "label": "Mes services au quotidien",
+  "title": "Le Département vous accompagne",
+  "cta": { "label": "Voir les 17 services", "href": "/mes-services-au-quotidien" },
+  "items": [
+    {
+      "icon": "hand-heart",
+      "title": "Accompagnement social",
+      "description": "Vos services de proximité, insertion, retour à l'emploi, RSA.",
+      "href": "/mes-services-au-quotidien/l-accompagnement-social"
+    },
+    {
+      "icon": "baby",
+      "title": "Enfance et famille",
+      "description": "Modes d'accueil, adoption, assistantes maternelles, protection de l'enfance.",
+      "href": "/mes-services-au-quotidien/enfance-et-famille"
+    },
+    {
+      "icon": "accessibility",
+      "title": "Personnes âgées",
+      "description": "Maintien à domicile, établissements, APA, adaptation du logement.",
+      "href": "/mes-services-au-quotidien/personnes-agees"
+    },
+    {
+      "icon": "heart-handshake",
+      "title": "Handicap",
+      "description": "Accompagnement, prestations, accès aux droits, soutien aux aidants.",
+      "href": "/mes-services-au-quotidien/handicap"
+    },
+    {
+      "icon": "graduation-cap",
+      "title": "Collèges et Éducation",
+      "description": "Collèges, demi-pension, sectorisation, actions éducatives.",
+      "href": "/mes-services-au-quotidien/colleges-et-education"
+    },
+    {
+      "icon": "theater",
+      "title": "Culture",
+      "description": "Bibliothèques, archives, patrimoine, soutien à la création.",
+      "href": "/mes-services-au-quotidien/culture"
+    }
+  ]
+}

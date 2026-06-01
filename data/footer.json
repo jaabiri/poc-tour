@@ -1,0 +1,54 @@
+{
+  "contact": {
+    "address": "Hôtel du Département, 37000 Tours",
+    "phone": "02 47 00 00 00",
+    "email": "contact@touraine.fr"
+  },
+  "socials": [
+    { "icon": "facebook", "label": "Facebook", "href": "https://www.facebook.com/departementtouraine" },
+    { "icon": "instagram", "label": "Instagram", "href": "https://www.instagram.com/departementtouraine" },
+    { "icon": "linkedin", "label": "LinkedIn", "href": "https://www.linkedin.com/company/departement-touraine" },
+    { "icon": "youtube", "label": "YouTube", "href": "https://www.youtube.com/@departementtouraine" }
+  ],
+  "columns": [
+    {
+      "heading": "Mes services au quotidien",
+      "links": [
+        { "label": "Accompagnement social", "href": "/mes-services-au-quotidien/l-accompagnement-social" },
+        { "label": "Enfance et famille", "href": "/mes-services-au-quotidien/enfance-et-famille" },
+        { "label": "Personnes âgées", "href": "/mes-services-au-quotidien/personnes-agees" },
+        { "label": "Handicap", "href": "/mes-services-au-quotidien/handicap" },
+        { "label": "Collèges", "href": "/mes-services-au-quotidien/colleges-et-education" },
+        { "label": "Culture & Sport", "href": "/mes-services-au-quotidien/culture" }
+      ]
+    },
+    {
+      "heading": "Le Département",
+      "links": [
+        { "label": "Les missions", "href": "/le-departement/les-missions-du-departement" },
+        { "label": "Les 19 cantons", "href": "/le-departement/les-19-cantons" },
+        { "label": "Les élus", "href": "/le-departement/les-elus-du-departement" },
+        { "label": "Actes administratifs", "href": "/le-departement/les-actes-administratifs" },
+        { "label": "L'Administration", "href": "/le-departement/l-administration" }
+      ]
+    },
+    {
+      "heading": "Accès directs",
+      "links": [
+        { "label": "Le Département recrute", "href": "/acces-direct/le-departement-recrute" },
+        { "label": "Familles d'accueil", "href": "/acces-direct/devenir-famille-d-accueil-acces-direct" },
+        { "label": "Marchés publics", "href": "/acces-direct/marches-publics-et-appels-a-projets" },
+        { "label": "Enquêtes publiques", "href": "/acces-direct/enquetes-publiques" },
+        { "label": "OpenData", "href": "/acces-direct/plateforme-opendata" }
+      ]
+    }
+  ],
+  "legalLinks": [
+    { "label": "Mentions légales", "href": "/nous-contacter/accessibilite-et-mentions-legales" },
+    { "label": "Données personnelles", "href": "/nous-contacter/accessibilite-et-mentions-legales" },
+    { "label": "Accessibilité", "href": "/nous-contacter/accessibilite-et-mentions-legales" },
+    { "label": "Plan du site", "href": "/plan-du-site" },
+    { "label": "Contact", "href": "/nous-contacter" }
+  ],
+  "copyright": "Département de Touraine"
+}

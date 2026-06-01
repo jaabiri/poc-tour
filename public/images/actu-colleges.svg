@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Collèges de Touraine">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0aa6b8"/>
+      <stop offset="1" stop-color="#005380"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g1)"/>
+  <g fill="#fbf1e2" opacity="0.92">
+    <rect x="250" y="240" width="300" height="220"/>
+    <path d="M230 240 L400 140 L570 240 Z"/>
+    <rect x="380" y="340" width="40" height="120" fill="#003d5c"/>
+  </g>
+  <g fill="#003d5c" opacity="0.6">
+    <rect x="290" y="290" width="40" height="40"/>
+    <rect x="470" y="290" width="40" height="40"/>
+  </g>
+  <rect x="0" y="492" width="800" height="8" fill="#8fb02e"/>
+</svg>

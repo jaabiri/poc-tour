@@ -1,0 +1,155 @@
+{
+  "intro": "Les conseillers départementaux sont élus pour six ans au scrutin binominal paritaire : dans chacun des 19 cantons d'Indre-et-Loire, un binôme femme–homme représente les habitants au sein de l'Assemblée départementale. Retrouvez ci-dessous l'ensemble des élus, leur canton et leur groupe politique.",
+  "members": [
+    {
+      "name": "Christine Lemoine",
+      "canton": "Tours-1",
+      "group": "Majorité départementale",
+      "role": "Présidente du Conseil départemental",
+      "delegation": "Préside l'Assemblée et l'exécutif départemental",
+      "email": "presidence@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "name": "Henri Vasseur",
+      "canton": "Loches",
+      "group": "Majorité départementale",
+      "role": "1er Vice-président",
+      "delegation": "Finances et administration générale",
+      "email": "h.vasseur@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "name": "Sophie Berthier",
+      "canton": "Amboise",
+      "group": "Majorité départementale",
+      "role": "Vice-présidente",
+      "delegation": "Solidarités et action sociale",
+      "email": "s.berthier@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "name": "Marc Delaunay",
+      "canton": "Chinon",
+      "group": "Majorité départementale",
+      "role": "Vice-président",
+      "delegation": "Routes, mobilités et infrastructures",
+      "email": "m.delaunay@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "name": "Nadia Brun",
+      "canton": "Saint-Cyr-sur-Loire",
+      "group": "Majorité départementale",
+      "role": "Vice-présidente",
+      "delegation": "Collèges, éducation et jeunesse",
+      "email": "n.brun@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "name": "Pascal Texier",
+      "canton": "Tours-1",
+      "group": "Majorité départementale",
+      "email": "p.texier@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "name": "Aurélie Caron",
+      "canton": "Loches",
+      "group": "Majorité départementale",
+      "email": "a.caron@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "name": "Julien Maréchal",
+      "canton": "Amboise",
+      "group": "Majorité départementale",
+      "email": "j.marechal@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "name": "Hélène Fontaine",
+      "canton": "Langeais",
+      "group": "Majorité départementale",
+      "email": "h.fontaine@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "name": "Olivier Renard",
+      "canton": "Langeais",
+      "group": "Majorité départementale",
+      "email": "o.renard@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "name": "Camille Dubois",
+      "canton": "Tours-2",
+      "group": "Groupe Touraine Solidaire",
+      "email": "c.dubois@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "name": "Frédéric Noël",
+      "canton": "Tours-2",
+      "group": "Groupe Touraine Solidaire",
+      "email": "f.noel@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "name": "Sarah Benali",
+      "canton": "Saint-Pierre-des-Corps",
+      "group": "Groupe Touraine Solidaire",
+      "email": "s.benali@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "name": "David Moreau",
+      "canton": "Saint-Pierre-des-Corps",
+      "group": "Groupe Touraine Solidaire",
+      "email": "d.moreau@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "name": "Lucie Garnier",
+      "canton": "Joué-lès-Tours",
+      "group": "Groupe Touraine Solidaire",
+      "email": "l.garnier@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "name": "Thomas Lefebvre",
+      "canton": "Joué-lès-Tours",
+      "group": "Groupe Touraine Solidaire",
+      "email": "t.lefebvre@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "name": "Valérie Perrin",
+      "canton": "Château-Renault",
+      "group": "Majorité départementale",
+      "email": "v.perrin@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "name": "Bruno Gaillard",
+      "canton": "Château-Renault",
+      "group": "Majorité départementale",
+      "email": "b.gaillard@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "name": "Émilie Roux",
+      "canton": "Sainte-Maure-de-Touraine",
+      "group": "Majorité départementale",
+      "email": "e.roux@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+      "name": "Antoine Girard",
+      "canton": "Sainte-Maure-de-Touraine",
+      "group": "Majorité départementale",
+      "email": "a.girard@departement-touraine.fr",
+      "photo": "https://randomuser.me/api/portraits/men/10.jpg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+
+> poc@0.1.0 dev C:\Users\SalimJAABIRI\Documents\work\poc
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3210
+- Network:       http://172.21.80.1:3210
+- Environments: .env
+✓ Ready in 509ms
+- Experiments (use with caution):
+  ⨯ turbopackServerFastRefresh
+
+[⣷] Pulling schema from database...
+[2K[1G[✓] Pulling schema from database...
+[15:05:57] [33mWARN[39m: [36mNo email adapter provided. Email will be written to console. More info at https://payloadcms.com/docs/email/overview.[39m
+ GET /actualites/agenda-a-la-une 200 in 7.7s (next.js: 3.3s, application-code: 4.4s)
+ GET /actualites/agenda-a-la-une 200 in 1387ms (next.js: 31ms, application-code: 1356ms)
+ GET /actualites/agenda-a-la-une 200 in 1280ms (next.js: 23ms, application-code: 1257ms)
+ GET /actualites/agenda-a-la-une 200 in 1134ms (next.js: 23ms, application-code: 1111ms)
+ GET /actualites/agenda-a-la-une?view=calendrier 200 in 371ms (next.js: 3ms, application-code: 368ms)
+ GET /actualites/agenda-a-la-une?when=passes 200 in 739ms (next.js: 3ms, application-code: 736ms)
+ GET /actualites/agenda-a-la-une?cat=culture 200 in 441ms (next.js: 17ms, application-code: 424ms)
+ GET /actualites/agenda-a-la-une?q=zzz 200 in 211ms (next.js: 3ms, application-code: 208ms)
+ GET /actualites/agenda-a-la-une/fete-du-velo-en-touraine 200 in 704ms (next.js: 3ms, application-code: 701ms)
+ GET /actualites/agenda-a-la-une 200 in 1138ms (next.js: 26ms, application-code: 1112ms)
+ GET /actualites/agenda-a-la-une/fete-du-velo-en-touraine 200 in 308ms (next.js: 19ms, application-code: 289ms)
+[?25h
+ ELIFECYCLE  Command failed with exit code 1.

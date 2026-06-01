@@ -1,0 +1,1 @@
+export { RubriqueHero } from "./RubriqueHero";

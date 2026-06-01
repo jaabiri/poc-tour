@@ -1,0 +1,37 @@
+{
+  "label": "Actualités",
+  "title": "L'actu du Département",
+  "cta": { "label": "Toutes les actualités", "href": "/actualites/toutes-les-actus" },
+  "items": [
+    {
+      "tag": "Collèges",
+      "title": "Les collèges de Touraine face au défi des fortes chaleurs",
+      "image": "/images/actu-colleges.svg",
+      "imageAlt": "Illustration d'un collège de Touraine",
+      "date": "2026-05-28",
+      "dateLabel": "28 mai 2026",
+      "excerpt": "Ombrières, végétalisation des cours et rénovation thermique : le plan d'adaptation des bâtiments scolaires.",
+      "href": "/actualites/toutes-les-actus/colleges-touraine-fortes-chaleurs"
+    },
+    {
+      "tag": "Culture",
+      "title": "Une fresque participative illumine la Maison du Département",
+      "image": "/images/actu-culture.svg",
+      "imageAlt": "Fresque colorée participative",
+      "date": "2026-05-22",
+      "dateLabel": "22 mai 2026",
+      "excerpt": "200 habitants ont imaginé ensemble une œuvre monumentale célébrant les paysages de Loire.",
+      "href": "/actualites/toutes-les-actus/fresque-participative-maison-departement"
+    },
+    {
+      "tag": "Portrait",
+      "title": "Rencontre avec les artisans du patrimoine tourangeau",
+      "image": "/images/actu-portrait.svg",
+      "imageAlt": "Portrait d'un artisan du patrimoine",
+      "date": "2026-05-15",
+      "dateLabel": "15 mai 2026",
+      "excerpt": "Tailleurs de pierre, vitraillistes, jardiniers : ceux qui font vivre les monuments départementaux.",
+      "href": "/actualites/toutes-les-actus/artisans-patrimoine-tourangeau"
+    }
+  ]
+}

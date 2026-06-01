@@ -1,0 +1,928 @@
+{
+  "mes-services-au-quotidien/sport": {
+    "seo": {
+      "title": "Sport en Touraine — Le Département soutient vos pratiques",
+      "description": "Le Département d'Indre-et-Loire accompagne les clubs sportifs, développe les équipements et valorise le sport nature : randonnée, vélo, loisirs pour tous."
+    },
+    "heroSubtitle": "Du sport de compétition à la randonnée en bord de Loire, le Département de Touraine soutient la pratique sportive sous toutes ses formes, pour tous les âges et tous les niveaux.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire place le sport au cœur de ses politiques publiques. À travers ses aides aux clubs, comités sportifs et équipements, il favorise l'accès à la pratique pour l'ensemble des habitants du territoire.",
+      "Du réseau de randonnée pédestre (PDIPR) aux subventions accordées aux associations sportives, le Département agit concrètement pour que chaque Tourangeau puisse pratiquer une activité physique dans les meilleures conditions."
+    ],
+    "sections": [
+      {
+        "heading": "Soutenir les clubs et comités sportifs",
+        "paragraphs": [
+          "Chaque année, le Département attribue des subventions à des centaines de clubs et comités départementaux. Ces aides financières permettent de développer l'encadrement, d'acquérir du matériel, d'organiser des compétitions et de rénover des équipements.",
+          "Les comités départementaux des fédérations sportives bénéficient d'un soutien structurel renforcé, notamment pour leurs actions en faveur de la formation des bénévoles et du sport féminin."
+        ],
+        "bullets": [
+          "Subventions aux clubs sportifs amateurs",
+          "Soutien aux comités départementaux agréés",
+          "Aide à l'organisation de manifestations sportives d'envergure",
+          "Accompagnement des associations sport-santé"
+        ]
+      },
+      {
+        "heading": "Les équipements sportifs de proximité",
+        "paragraphs": [
+          "Le Département participe au financement de la construction, de la rénovation et de la mise aux normes des équipements sportifs sur l'ensemble du territoire, en partenariat avec les communes et intercommunalités.",
+          "Les critères d'accessibilité, de mutualisation et de performance environnementale sont pris en compte dans l'instruction des dossiers d'investissement."
+        ],
+        "bullets": [
+          "Salles omnisports et gymnases",
+          "Piscines et bassins couverts",
+          "Terrains de plein air et stades",
+          "Équipements accessibles aux personnes en situation de handicap"
+        ]
+      },
+      {
+        "heading": "Le sport nature : randonnée, vélo et plein air",
+        "paragraphs": [
+          "L'Indre-et-Loire dispose d'un patrimoine naturel exceptionnel propice à la pratique sportive en plein air. Le Département entretient plus de 3 000 km de sentiers inscrits au Plan Départemental des Itinéraires de Promenade et de Randonnée (PDIPR).",
+          "La Loire à Vélo, itinéraire cyclable de référence, traverse le département et offre une pratique accessible à tous, des familles aux cyclotouristes confirmés. Le Département contribue à son entretien et à sa promotion."
+        ],
+        "bullets": [
+          "3 000+ km de sentiers PDIPR balisés et entretenus",
+          "La Loire à Vélo : itinéraire régional de référence",
+          "Accueil et hébergement dédiés aux randonneurs",
+          "Cartographie et topo-guides disponibles en ligne"
+        ]
+      },
+      {
+        "heading": "Sport pour tous et inclusion",
+        "paragraphs": [
+          "Le Département mène des actions spécifiques en faveur du sport adapté, du handisport et du sport en milieu scolaire. Il soutient également les projets favorisant la pratique sportive des publics éloignés des clubs traditionnels.",
+          "En partenariat avec les Maisons Départementales de la Solidarité (MDS), des programmes sport-santé sont proposés aux bénéficiaires du RSA et aux personnes âgées."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mon club peut-il demander une subvention au Département ?",
+        "a": "Oui, les clubs sportifs affiliés à une fédération agréée et dont le siège social est en Indre-et-Loire peuvent déposer une demande de subvention. Consultez la page dédiée pour connaître les conditions d'éligibilité et les modalités de dépôt."
+      },
+      {
+        "q": "Où trouver les cartes des sentiers de randonnée ?",
+        "a": "Les itinéraires du PDIPR sont disponibles en ligne sur le site touraine.fr et en téléchargement libre. Des topo-guides papier sont également disponibles auprès du Service des Sports."
+      },
+      {
+        "q": "Le Département aide-t-il à la construction d'une salle de sport dans ma commune ?",
+        "a": "Le Département peut cofinancer les équipements sportifs portés par les communes et intercommunalités, sous réserve d'éligibilité. Contactez le Service des Sports pour étudier votre projet."
+      }
+    ],
+    "related": [
+      {
+        "label": "Missions et dispositifs sport",
+        "path": "mes-services-au-quotidien/sport/missions-et-demarches"
+      },
+      {
+        "label": "Je souhaite randonner",
+        "path": "mes-services-au-quotidien/sport/je-souhaite-randonner"
+      },
+      {
+        "label": "Déposer une demande de subvention",
+        "path": "mes-services-au-quotidien/sport/deposer-une-demande-de-subvention"
+      },
+      {
+        "label": "Environnement et nature",
+        "path": "mes-services-au-quotidien/environnement"
+      },
+      {
+        "label": "Tourisme et patrimoine",
+        "path": "mes-services-au-quotidien/tourisme-et-patrimoine"
+      }
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/sport/missions-et-demarches": {
+    "seo": {
+      "title": "Missions sport du Département — Dispositifs et aides",
+      "description": "Découvrez les missions du Département en matière de sport : soutien aux clubs, comités, aides aux équipements, sport nature et inclusion en Indre-et-Loire."
+    },
+    "heroSubtitle": "Le Département de Touraine déploie une politique sportive volontariste : subventions aux associations, développement des équipements, soutien au sport nature et à l'inclusion.",
+    "intro": [
+      "La politique sportive du Conseil Départemental s'articule autour de quatre axes prioritaires : le soutien aux associations et comités sportifs, le développement des équipements, la valorisation du sport nature et l'accessibilité de la pratique au plus grand nombre.",
+      "Ces missions sont portées par le Service Départemental des Sports, en lien étroit avec le mouvement sportif local, les communes et les partenaires institutionnels."
+    ],
+    "sections": [
+      {
+        "heading": "Le soutien au mouvement sportif associatif",
+        "paragraphs": [
+          "Le Département subventionne chaque année les clubs sportifs amateurs et les comités départementaux des fédérations agréées par le ministère chargé des Sports. Ces aides visent à pérenniser l'offre sportive locale, à soutenir la formation des encadrants et à favoriser le développement de la pratique.",
+          "Les critères d'attribution tiennent compte du projet sportif de la structure, de son ancrage territorial, du nombre de licenciés et de ses actions en faveur du sport féminin, du handicap et de la jeunesse."
+        ],
+        "bullets": [
+          "Subventions de fonctionnement aux clubs affiliés",
+          "Soutien structurel aux comités départementaux",
+          "Aide aux projets de formation des bénévoles et encadrants",
+          "Valorisation des actions sport-santé et sport adapté",
+          "Soutien à l'organisation de compétitions et événements sportifs"
+        ]
+      },
+      {
+        "heading": "Les dispositifs d'aide aux équipements sportifs",
+        "paragraphs": [
+          "Le Département participe au financement des équipements sportifs portés par les maîtres d'ouvrage publics (communes, intercommunalités) et dans certains cas par des associations. Les projets éligibles concernent la construction, la rénovation et la mise en accessibilité des infrastructures.",
+          "Un accompagnement technique est proposé dès la phase de programmation afin d'optimiser la conception des équipements et leur dimensionnement au regard des pratiques locales."
+        ],
+        "bullets": [
+          "Cofinancement des équipements structurants",
+          "Mise en accessibilité des sites sportifs",
+          "Conseil technique en amont des projets",
+          "Prise en compte des critères environnementaux (HQE, énergie)"
+        ]
+      },
+      {
+        "heading": "Sport nature : le PDIPR et les itinéraires de plein air",
+        "paragraphs": [
+          "Le Plan Départemental des Itinéraires de Promenade et de Randonnée (PDIPR) constitue le cadre de référence pour la gestion et le développement du réseau de sentiers en Indre-et-Loire. Le Département en assure la cohérence, le balisage, l'entretien et la promotion.",
+          "Au-delà de la randonnée pédestre, le Département soutient les pratiques cyclistes (Loire à Vélo, véloroutes), équestres et de pleine nature, en veillant à la compatibilité des usages et à la préservation des milieux naturels."
+        ]
+      },
+      {
+        "heading": "Sport, santé et inclusion sociale",
+        "paragraphs": [
+          "Le Département soutient les initiatives favorisant l'accès au sport des publics les plus éloignés de la pratique : personnes en situation de handicap, bénéficiaires de minima sociaux, seniors et habitants des zones rurales isolées.",
+          "Des conventions sont conclues avec des associations spécialisées (handisport, sport adapté, sport en milieu carcéral) pour développer des offres adaptées et accessibles sur l'ensemble du territoire."
+        ]
+      },
+      {
+        "heading": "Les partenariats institutionnels",
+        "paragraphs": [
+          "Le Service des Sports travaille en partenariat avec le Comité Régional Olympique et Sportif (CROS Centre-Val de Loire), l'État (Direction Régionale Académique de la Jeunesse, de l'Engagement et des Sports — DRAJES), ainsi que les structures intercommunales.",
+          "Ces partenariats permettent de coordonner les politiques sportives à différentes échelles et d'optimiser les financements croisés."
+        ]
+      }
+    ],
+    "downloads": [
+      "Règlement d'attribution des subventions sportives (PDF)",
+      "Plaquette des dispositifs sport du Département (PDF)",
+      "Annuaire des comités départementaux sportifs (PDF)"
+    ],
+    "related": [
+      {
+        "label": "Sport — Accueil de la rubrique",
+        "path": "mes-services-au-quotidien/sport"
+      },
+      {
+        "label": "Déposer une demande de subvention",
+        "path": "mes-services-au-quotidien/sport/deposer-une-demande-de-subvention"
+      },
+      {
+        "label": "Je souhaite randonner",
+        "path": "mes-services-au-quotidien/sport/je-souhaite-randonner"
+      }
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/sport/je-souhaite-randonner": {
+    "seo": {
+      "title": "Randonner en Touraine — Itinéraires PDIPR et conseils",
+      "description": "Préparez votre randonnée en Indre-et-Loire : 3 000 km de sentiers balisés PDIPR, cartes téléchargeables, conseils sécurité et signalement de problèmes de balisage."
+    },
+    "heroSubtitle": "Avec plus de 3 000 km de sentiers balisés, l'Indre-et-Loire offre des itinéraires de randonnée pour tous les niveaux : vignes, bords de Loire, forêts et bocage tourangeau.",
+    "intro": [
+      "Le Département de Touraine gère et entretient un réseau exceptionnel de sentiers de randonnée pédestre, inscrit au Plan Départemental des Itinéraires de Promenade et de Randonnée (PDIPR). Ces itinéraires balisés traversent les plus beaux paysages d'Indre-et-Loire.",
+      "Que vous soyez randonneur débutant ou marcheur expérimenté, cette page vous guide dans la préparation de votre sortie : choix de l'itinéraire, équipement, sécurité et contacts utiles."
+    ],
+    "sections": [
+      {
+        "heading": "Le réseau PDIPR en Indre-et-Loire",
+        "paragraphs": [
+          "Le Plan Départemental des Itinéraires de Promenade et de Randonnée (PDIPR) répertorie et protège les chemins ruraux et forestiers ouverts à la randonnée non motorisée. En Indre-et-Loire, ce réseau couvre plus de 3 000 km de sentiers balisés.",
+          "Les itinéraires sont classés par niveau de difficulté (facile, intermédiaire, difficile) et par thématique (vignoble, Loire, forêt de Chinon, bocage…). Ils sont accessibles librement et gratuitement toute l'année."
+        ],
+        "bullets": [
+          "Plus de 3 000 km de sentiers balisés et entretenus",
+          "Itinéraires classés par difficulté et par thématique",
+          "Cartes et topo-guides téléchargeables en ligne",
+          "Accès libre et gratuit toute l'année"
+        ]
+      },
+      {
+        "heading": "Choisir son itinéraire",
+        "paragraphs": [
+          "Avant de partir, évaluez votre niveau physique et celui de vos accompagnants. Consultez la carte interactive disponible sur ce site pour filtrer les itinéraires par distance, dénivelé, thématique et point de départ.",
+          "Les grandes randonnées (GR®) traversent également le département, notamment le GR3 qui longe la Loire. Renseignez-vous auprès du Comité Départemental de Randonnée Pédestre (CDRP 37) pour obtenir les topo-guides officiels."
+        ]
+      },
+      {
+        "heading": "Préparer sa sortie en sécurité",
+        "paragraphs": [
+          "Une bonne préparation est essentielle pour profiter de votre randonnée en toute sécurité. Consultez la météo avant de partir et adaptez votre équipement à la saison et au terrain.",
+          "Emportez toujours de l'eau en quantité suffisante, une carte ou un GPS, un téléphone chargé et les numéros de secours. Informez un proche de votre itinéraire prévu et de l'heure estimée de retour."
+        ],
+        "bullets": [
+          "Chaussures de marche adaptées au terrain",
+          "Eau et alimentation en quantité suffisante",
+          "Carte IGN ou application GPS téléchargée hors ligne",
+          "Vêtements adaptés à la météo et à la saison",
+          "Trousse de premiers secours",
+          "Numéro d'urgence : 15 (SAMU), 17 (Police), 18 (Pompiers), 112 (European Emergency)"
+        ]
+      },
+      {
+        "heading": "Signaler un problème de balisage",
+        "paragraphs": [
+          "Si vous constatez un problème sur un itinéraire — balise manquante, sentier obstrué, chemin dégradé — vous pouvez le signaler au Département. Votre signalement contribue à améliorer la qualité du réseau pour tous les randonneurs.",
+          "Utilisez le formulaire de contact en précisant le nom ou la référence de l'itinéraire, la commune concernée et une description précise du problème. Une photo est la bienvenue pour faciliter l'intervention des équipes terrain."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Les sentiers PDIPR sont-ils accessibles aux personnes à mobilité réduite ?",
+        "a": "Certains itinéraires sont accessibles aux personnes à mobilité réduite ou aux familles avec poussette. Filtrez les itinéraires par critère d'accessibilité sur la carte interactive ou contactez le Service des Sports pour obtenir des recommandations adaptées."
+      },
+      {
+        "q": "Peut-on randonner avec son chien sur les sentiers PDIPR ?",
+        "a": "Les chiens sont généralement admis sur les sentiers du PDIPR, tenus en laisse. Cependant, certains tronçons traversent des zones protégées ou des propriétés privées où des restrictions peuvent s'appliquer. Vérifiez les conditions propres à chaque itinéraire."
+      },
+      {
+        "q": "Comment obtenir les topo-guides des sentiers ?",
+        "a": "Les fiches itinéraires sont téléchargeables gratuitement sur touraine.fr. Des topo-guides papier sont également disponibles en librairie ou auprès du Comité Départemental de Randonnée Pédestre 37."
+      },
+      {
+        "q": "Que faire en cas d'accident sur un sentier ?",
+        "a": "Appelez le 15 (SAMU) ou le 112 en cas d'urgence médicale. Localisez-vous précisément (commune, lieu-dit, coordonnées GPS) pour faciliter l'intervention des secours. Restez sur place avec la personne blessée dans la mesure du possible."
+      }
+    ],
+    "downloads": [
+      "Carte du réseau PDIPR Indre-et-Loire (PDF)",
+      "Formulaire de signalement de problème de balisage (PDF)",
+      "Guide du randonneur responsable en Touraine (PDF)"
+    ],
+    "related": [
+      {
+        "label": "Sport — Accueil de la rubrique",
+        "path": "mes-services-au-quotidien/sport"
+      },
+      {
+        "label": "Missions sport du Département",
+        "path": "mes-services-au-quotidien/sport/missions-et-demarches"
+      },
+      {
+        "label": "Environnement et nature",
+        "path": "mes-services-au-quotidien/environnement"
+      },
+      {
+        "label": "Tourisme et patrimoine",
+        "path": "mes-services-au-quotidien/tourisme-et-patrimoine"
+      },
+      {
+        "label": "Loire à Vélo — Site officiel",
+        "url": "https://www.loireavelo.fr"
+      }
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Choisir son itinéraire",
+          "text": "Consultez la carte interactive des sentiers PDIPR sur touraine.fr. Filtrez par commune de départ, distance, dénivelé et niveau de difficulté. Téléchargez la fiche itinéraire correspondante au format PDF ou GPX."
+        },
+        {
+          "title": "Préparer sa sortie",
+          "text": "Vérifiez la météo du jour et des jours suivants. Rassemblez votre équipement (chaussures de marche, eau, alimentation, carte, vêtements de pluie). Informez un proche de votre itinéraire et de votre heure de retour prévue."
+        },
+        {
+          "title": "Sur le terrain : suivre le balisage",
+          "text": "Les sentiers PDIPR sont balisés avec des marques de couleur normalisées (jaune pour les promenades locales, rouge et blanc pour les GR®). Suivez les panneaux directionnels et repères régulièrement pour ne pas vous perdre."
+        },
+        {
+          "title": "En cas de problème sur le sentier",
+          "text": "Si vous constatez un problème de balisage (balise manquante, chemin obstrué, panneau dégradé), notez la localisation précise (commune, lieu-dit, coordonnées GPS si possible) et prenez une photo. Signalez le problème dès votre retour via le formulaire en ligne ou par courriel au Service des Sports."
+        },
+        {
+          "title": "Signaler et contribuer à l'entretien du réseau",
+          "text": "Transmettez votre signalement par formulaire en ligne (disponible sur cette page) ou par courriel à sport@touraine.fr en indiquant le nom de l'itinéraire, la commune et une description du problème constaté. Le Service des Sports transmettra aux équipes compétentes pour intervention."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service des Sports",
+          "role": "Direction de la Jeunesse et des Sports",
+          "email": "sport@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/sport/deposer-une-demande-de-subvention": {
+    "seo": {
+      "title": "Subvention sport — Déposer un dossier au Département",
+      "description": "Club ou comité sportif en Indre-et-Loire ? Découvrez comment déposer une demande de subvention auprès du Département : éligibilité, pièces requises et délais d'instruction."
+    },
+    "heroSubtitle": "Les clubs sportifs, comités départementaux et organisateurs de manifestations peuvent solliciter une aide financière du Département. Découvrez les conditions et les étapes pour constituer votre dossier.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire soutient financièrement les structures sportives locales à travers un dispositif de subventions annuelles. Ces aides contribuent au développement de la pratique sportive, à la formation des encadrants et à l'organisation d'événements.",
+      "La demande de subvention s'effectue en ligne, via la plateforme de téléprocédure du Département, dans le respect d'un calendrier annuel défini par le Service des Sports."
+    ],
+    "sections": [
+      {
+        "heading": "Qui peut bénéficier d'une subvention sport ?",
+        "paragraphs": [
+          "Les subventions sport du Département sont ouvertes aux structures éligibles dont le siège social est domicilié en Indre-et-Loire et qui exercent une activité sportive principale. Les demandes émanant de structures dont le siège est hors département ne sont pas recevables.",
+          "Sont éligibles : les clubs sportifs affiliés à une fédération agréée par le ministère chargé des Sports ; les comités départementaux des fédérations sportives nationales ; les associations organisant des manifestations sportives d'intérêt départemental."
+        ],
+        "bullets": [
+          "Clubs sportifs affiliés à une fédération agréée",
+          "Comités départementaux des fédérations nationales",
+          "Associations organisant des manifestations sportives d'envergure",
+          "Structures sport adapté et handisport",
+          "Siège social obligatoirement en Indre-et-Loire"
+        ]
+      },
+      {
+        "heading": "Les pièces constitutives du dossier",
+        "paragraphs": [
+          "Pour être recevable, le dossier de demande de subvention doit être complet lors du dépôt. Tout dossier incomplet fera l'objet d'une demande de pièces complémentaires, ce qui peut allonger les délais d'instruction.",
+          "Les pièces obligatoires sont identiques pour tous les types de demande ; des pièces spécifiques peuvent être demandées selon la nature du projet (investissement, événement, fonctionnement)."
+        ],
+        "bullets": [
+          "Formulaire de demande de subvention complété et signé",
+          "Statuts de l'association à jour et récépissé de déclaration en préfecture",
+          "Relevé d'Identité Bancaire (RIB) au nom de l'association",
+          "Bilan et compte de résultat du dernier exercice clos",
+          "Budget prévisionnel de l'action ou de l'exercice en cours",
+          "Rapport d'activité de l'année précédente",
+          "Liste des membres du bureau et du conseil d'administration",
+          "Attestation de régularité fiscale et sociale (si subvention > 23 000 €)"
+        ]
+      },
+      {
+        "heading": "Le calendrier de dépôt",
+        "paragraphs": [
+          "Les demandes de subvention de fonctionnement doivent être déposées avant le 31 janvier de chaque année pour être examinées lors des sessions budgétaires du printemps.",
+          "Les demandes liées à l'organisation de manifestations sportives doivent être déposées au minimum trois mois avant la date de l'événement. Les demandes d'aide à l'investissement suivent un calendrier spécifique, consultable auprès du Service des Sports."
+        ]
+      },
+      {
+        "heading": "L'instruction et la décision",
+        "paragraphs": [
+          "Après vérification de la recevabilité du dossier, le Service des Sports procède à l'instruction. Cette phase peut inclure des échanges avec la structure demandeuse pour préciser certains éléments du projet.",
+          "La décision d'attribution est prise par la Commission Permanente du Conseil Départemental. La structure est informée par courrier officiel. En cas d'attribution, une convention peut être signée pour les subventions d'un montant significatif."
+        ]
+      },
+      {
+        "heading": "Le versement et le compte rendu",
+        "paragraphs": [
+          "La subvention est versée selon les modalités précisées dans la décision d'attribution (versement unique ou en plusieurs tranches). Un compte rendu financier et d'activité doit être transmis au Département à l'issue de l'action subventionnée.",
+          "Le non-respect de cette obligation de compte rendu peut entraîner un remboursement de la subvention et l'inéligibilité aux aides futures."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Peut-on déposer une demande de subvention pour plusieurs projets la même année ?",
+        "a": "Oui, une association peut déposer plusieurs demandes pour des projets distincts (fonctionnement, manifestation, investissement). Chaque demande fait l'objet d'un examen séparé."
+      },
+      {
+        "q": "Quel est le montant maximum d'une subvention sport ?",
+        "a": "Il n'existe pas de plafond réglementaire fixe. Les montants sont déterminés en fonction du budget de l'association, de la nature du projet et des critères d'attribution définis dans le règlement. Contactez le Service des Sports pour une estimation indicative."
+      },
+      {
+        "q": "La subvention est-elle automatiquement renouvelée chaque année ?",
+        "a": "Non. Chaque subvention fait l'objet d'une nouvelle demande annuelle. L'attribution d'une subvention une année ne vaut pas engagement pour les années suivantes."
+      }
+    ],
+    "downloads": [
+      "Formulaire de demande de subvention sport (PDF)",
+      "Règlement d'attribution des subventions sportives (PDF)",
+      "Modèle de compte rendu d'utilisation de subvention (PDF)"
+    ],
+    "related": [
+      {
+        "label": "Sport — Accueil de la rubrique",
+        "path": "mes-services-au-quotidien/sport"
+      },
+      {
+        "label": "Missions et dispositifs sport",
+        "path": "mes-services-au-quotidien/sport/missions-et-demarches"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      }
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Vérifier l'éligibilité de votre structure",
+          "text": "Avant toute démarche, assurez-vous que votre association remplit les conditions d'éligibilité : siège social en Indre-et-Loire, affiliation à une fédération agréée, situation régulière vis-à-vis des obligations fiscales et sociales, et dépôt d'un compte rendu pour toute subvention antérieure."
+        },
+        {
+          "title": "Rassembler les pièces du dossier",
+          "text": "Réunissez l'ensemble des pièces obligatoires : formulaire de demande, statuts, RIB, bilans financiers, budget prévisionnel, rapport d'activité et liste des dirigeants. Veillez à ce que tous les documents soient à jour et signés."
+        },
+        {
+          "title": "Déposer le dossier en ligne",
+          "text": "Connectez-vous à la plateforme de téléprocédure du Département (accessible depuis cette page) et suivez les instructions pour renseigner le formulaire et téléverser les pièces justificatives. Un accusé de réception électronique vous sera adressé dès validation de votre dépôt."
+        },
+        {
+          "title": "Suivre l'instruction du dossier",
+          "text": "Le Service des Sports vérifie la complétude du dossier et instruit la demande. Si des pièces manquent, vous recevrez un courriel de relance. N'hésitez pas à contacter le service pour suivre l'avancement de votre dossier."
+        },
+        {
+          "title": "Recevoir la décision et transmettre le compte rendu",
+          "text": "Vous serez informé de la décision de la Commission Permanente par courrier officiel. En cas d'attribution, le versement interviendra selon les modalités précisées. À l'issue de l'action, transmettez impérativement le compte rendu financier et d'activité dans les délais impartis."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service des Sports",
+          "role": "Direction de la Jeunesse et des Sports",
+          "email": "sport@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "acces-direct": {
+    "seo": {
+      "title": "Accès direct — Services et démarches en ligne",
+      "description": "Accédez directement aux services clés du Département : recrutement, familles d'accueil, marchés publics, enquêtes publiques et open data du Conseil Départemental."
+    },
+    "heroSubtitle": "Retrouvez ici les liens directs vers les démarches et services les plus demandés du Conseil Départemental d'Indre-et-Loire, sans passer par les rubriques thématiques.",
+    "intro": [
+      "La section Accès direct regroupe les services et démarches administratives les plus consultés du site touraine.fr. Elle vous permet d'accéder rapidement aux informations essentielles sans naviguer dans l'ensemble du portail.",
+      "Recrutement, familles d'accueil, marchés publics, enquêtes publiques, données ouvertes : ces raccourcis sont mis à jour régulièrement pour faciliter votre relation avec le Département."
+    ],
+    "sections": [
+      {
+        "heading": "Les accès rapides disponibles",
+        "bullets": [
+          "Le Département recrute — offres d'emploi, concours et candidatures spontanées",
+          "Devenir famille d'accueil — assistant familial au service des enfants confiés à l'Aide Sociale à l'Enfance",
+          "Marchés publics et appels à projets — profil acheteur et opportunités de partenariat",
+          "Enquêtes publiques — participation citoyenne aux projets soumis à enquête",
+          "Plateforme open data — jeux de données ouverts du Département"
+        ]
+      }
+    ],
+    "related": [
+      {
+        "label": "Le Département recrute",
+        "path": "acces-direct/le-departement-recrute"
+      },
+      {
+        "label": "Devenir famille d'accueil",
+        "path": "acces-direct/devenir-famille-d-accueil-acces-direct"
+      },
+      {
+        "label": "Marchés publics et appels à projets",
+        "path": "acces-direct/marches-publics-et-appels-a-projets"
+      },
+      {
+        "label": "Enquêtes publiques",
+        "path": "acces-direct/enquetes-publiques"
+      },
+      {
+        "label": "Plateforme open data",
+        "path": "acces-direct/plateforme-opendata"
+      }
+    ],
+    "contactCta": false
+  },
+  "acces-direct/le-departement-recrute": {
+    "seo": {
+      "title": "Le Département recrute — Emplois et concours en Touraine",
+      "description": "Découvrez les offres d'emploi, concours de la fonction publique territoriale et candidatures spontanées au Conseil Départemental d'Indre-et-Loire."
+    },
+    "heroSubtitle": "Le Conseil Départemental d'Indre-et-Loire est un employeur public de premier plan. Rejoignez nos équipes et contribuez au service des habitants de Touraine.",
+    "intro": [
+      "Avec plus de 3 000 agents permanents, le Département d'Indre-et-Loire est l'un des principaux employeurs publics du territoire. Il recrute régulièrement des agents titulaires par voie de concours et des contractuels pour des besoins ponctuels ou des emplois de catégorie A.",
+      "Toutes les offres d'emploi, avis de concours et informations sur les métiers départementaux sont accessibles sur le portail emploi du Département. Vous pouvez également déposer une candidature spontanée pour exprimer votre intérêt pour un domaine d'activité."
+    ],
+    "sections": [
+      {
+        "heading": "Les métiers du Département",
+        "paragraphs": [
+          "Les agents du Conseil Départemental exercent des missions très variées au service des Tourangeaux : accompagnement social, entretien des routes et bâtiments, enseignement dans les collèges, culture, sport, environnement, informatique, ressources humaines, finances...",
+          "Les filières représentées couvrent l'ensemble des cadres d'emplois de la fonction publique territoriale : filière sociale, technique, administrative, médico-sociale, sportive, culturelle et animation."
+        ],
+        "bullets": [
+          "Filière sociale : travailleurs sociaux, puéricultrices, psychologues",
+          "Filière technique : techniciens, ingénieurs, agents de voirie et bâtiment",
+          "Filière administrative : rédacteurs, attachés, secrétaires",
+          "Filière médico-sociale : infirmiers, médecins, auxiliaires de puériculture",
+          "Filière sportive et animation : éducateurs sportifs, animateurs",
+          "Filière culturelle : bibliothécaires, professeurs d'enseignement artistique"
+        ]
+      },
+      {
+        "heading": "Accéder aux offres d'emploi",
+        "paragraphs": [
+          "Les offres d'emploi en cours sont publiées sur le portail emploi du Département, accessible via le lien ci-dessous. Vous pouvez filtrer les offres par filière, niveau de diplôme, localisation et type de contrat (titulaire, contractuel, apprentissage).",
+          "Chaque offre précise le profil recherché, les missions, les conditions de recrutement et les modalités de candidature. Les candidatures se font exclusivement en ligne via le portail dédié."
+        ]
+      },
+      {
+        "heading": "Les concours de la fonction publique territoriale",
+        "paragraphs": [
+          "Le recrutement des fonctionnaires territoriaux s'effectue par voie de concours organisés par le Centre de Gestion de la Fonction Publique Territoriale d'Indre-et-Loire (CDG 37) ou par le Centre National de la Fonction Publique Territoriale (CNFPT).",
+          "Les avis de concours ouverts aux agents du Département ou aux candidats extérieurs sont publiés sur le portail emploi et sur les sites du CDG 37 et du CNFPT. La réussite à un concours confère une inscription sur liste d'aptitude permettant d'accéder à un emploi titulaire."
+        ]
+      },
+      {
+        "heading": "Candidature spontanée",
+        "paragraphs": [
+          "Si aucune offre ne correspond à votre profil au moment de votre recherche, vous pouvez déposer une candidature spontanée en indiquant le domaine d'activité qui vous intéresse et votre niveau de qualification.",
+          "Les candidatures spontanées sont conservées pendant six mois et consultées par la Direction des Ressources Humaines lors de nouveaux besoins de recrutement."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Faut-il être fonctionnaire pour travailler au Département ?",
+        "a": "Non. Le Département recrute à la fois des fonctionnaires titulaires (par concours) et des agents contractuels de droit public, notamment pour des emplois de catégorie A ou des besoins ponctuels. Des contrats d'apprentissage et de professionnalisation sont également proposés."
+      },
+      {
+        "q": "Comment postuler à une offre d'emploi du Département ?",
+        "a": "Toutes les candidatures se font en ligne via le portail emploi accessible depuis cette page. Il n'est pas possible de déposer un dossier papier au guichet."
+      },
+      {
+        "q": "Le Département propose-t-il des stages et de l'alternance ?",
+        "a": "Oui, le Département accueille des stagiaires de l'enseignement supérieur et des alternants en contrat d'apprentissage ou de professionnalisation. Les offres de stages et d'alternance sont publiées sur le portail emploi."
+      }
+    ],
+    "related": [
+      {
+        "label": "Accès direct — Accueil",
+        "path": "acces-direct"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      },
+      {
+        "label": "Centre de Gestion FPT 37 — Concours",
+        "url": "https://www.cdg37.fr"
+      },
+      {
+        "label": "CNFPT — Concours nationaux",
+        "url": "https://www.cnfpt.fr"
+      }
+    ],
+    "contactCta": true
+  },
+  "acces-direct/devenir-famille-d-accueil-acces-direct": {
+    "seo": {
+      "title": "Devenir famille d'accueil — Assistant familial en Touraine",
+      "description": "Devenez assistant familial en Indre-et-Loire : accueillez des enfants confiés à l'ASE, découvrez les conditions d'agrément et les étapes de la candidature au Département."
+    },
+    "heroSubtitle": "Accueillir un enfant confié par l'Aide Sociale à l'Enfance est un acte fort de solidarité. Le Département accompagne et forme les assistants familiaux tout au long de leur parcours.",
+    "intro": [
+      "Le Conseil Départemental d'Indre-et-Loire recrute des assistants familiaux agréés pour accueillir à leur domicile des enfants et adolescents confiés à l'Aide Sociale à l'Enfance (ASE). Cet accueil familial constitue une alternative à l'hébergement en établissement, privilégiée chaque fois que l'intérêt de l'enfant le permet.",
+      "Devenir assistant familial implique d'obtenir un agrément délivré par le Département, puis de suivre une formation obligatoire. Le Département est l'employeur des assistants familiaux qu'il recrute."
+    ],
+    "sections": [
+      {
+        "heading": "Le rôle de l'assistant familial",
+        "paragraphs": [
+          "L'assistant familial accueille un ou plusieurs enfants à son domicile, dans le cadre d'une mesure de protection de l'enfance. Il assure la prise en charge au quotidien (repas, hébergement, scolarité, soins) en coordination avec les travailleurs sociaux référents du Département.",
+          "L'accueil peut être de courte durée (accueil de crise ou séquentiel) ou de longue durée. Il s'adresse à des enfants de tout âge, de la petite enfance à la majorité, avec des profils et des besoins très divers."
+        ]
+      },
+      {
+        "heading": "Les conditions pour devenir assistant familial",
+        "paragraphs": [
+          "Pour être agréé, le candidat doit répondre à plusieurs conditions cumulatives : disposer d'un logement adapté à l'accueil d'un enfant, présenter des garanties de moralité (extrait de casier judiciaire), justifier de conditions de vie stables, et s'engager à suivre la formation obligatoire.",
+          "L'agrément est accordé pour un nombre d'enfants déterminé (généralement un à trois) et pour une durée de cinq ans renouvelable. Il est délivré après une évaluation conduite par l'équipe de la Protection Maternelle et Infantile (PMI) du Département."
+        ],
+        "bullets": [
+          "Être majeur et résider en Indre-et-Loire",
+          "Disposer d'un logement adapté (chambre individuelle pour chaque enfant accueilli)",
+          "Présenter un casier judiciaire vierge (bulletin n°3)",
+          "Justifier de conditions de vie stables et d'un environnement familial favorable",
+          "S'engager dans la formation obligatoire de 240 heures"
+        ]
+      },
+      {
+        "heading": "Statut et rémunération",
+        "paragraphs": [
+          "L'assistant familial recruté par le Département bénéficie du statut de salarié de droit public. Sa rémunération comprend un salaire de base calculé en fonction du nombre d'enfants accueillis et une indemnité d'entretien destinée à couvrir les dépenses liées à l'accueil.",
+          "Il bénéficie également d'un accompagnement professionnel régulier, de formations continues et d'un suivi par un travailleur social référent au sein du service Enfance-Famille."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Peut-on exercer une autre activité professionnelle en parallèle ?",
+        "a": "L'exercice d'une autre activité salariée est possible sous conditions, à condition que cela ne compromette pas la disponibilité nécessaire à l'accueil des enfants. La Direction Enfance-Famille doit en être informée."
+      },
+      {
+        "q": "Combien de temps dure la procédure d'agrément ?",
+        "a": "La procédure d'instruction d'une demande d'agrément dure au maximum quatre mois à compter de la réception du dossier complet. Le Département dispose d'un délai légal de quatre mois pour notifier sa décision."
+      },
+      {
+        "q": "Que se passe-t-il si aucun enfant n'est confié après l'agrément ?",
+        "a": "L'agrément ne garantit pas un recrutement immédiat. En cas de recrutement par le Département, un contrat de travail est établi à l'accueil du premier enfant. En l'absence de placement, aucune rémunération n'est versée."
+      }
+    ],
+    "related": [
+      {
+        "label": "Devenir famille d'accueil — Page Enfance",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-famille-d-accueil"
+      },
+      {
+        "label": "Accès direct — Accueil",
+        "path": "acces-direct"
+      },
+      {
+        "label": "Maisons Départementales de la Solidarité",
+        "path": "acces-direct/maisons-departementales-de-la-solidarite"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      }
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Retirer et déposer le dossier de demande d'agrément",
+          "text": "Contactez le Service Agrément Assistants Familiaux du Département par courriel ou par téléphone pour obtenir le dossier de demande d'agrément. Complétez-le soigneusement et joignez l'ensemble des pièces justificatives demandées (pièce d'identité, justificatif de domicile, casier judiciaire, certificat médical...). Déposez le dossier complet par voie postale ou en main propre à l'Hôtel du Département."
+        },
+        {
+          "title": "Évaluation à domicile par la PMI",
+          "text": "Une professionnelle de la Protection Maternelle et Infantile (PMI) du Département prend contact avec vous pour organiser une ou plusieurs visites à votre domicile. Cette évaluation porte sur les conditions de logement, l'environnement familial, les motivations et les compétences éducatives du candidat et de sa famille."
+        },
+        {
+          "title": "Décision d'agrément",
+          "text": "Au terme de l'instruction (au plus tard quatre mois après réception du dossier complet), le Président du Conseil Départemental notifie sa décision d'agrément ou de refus par courrier motivé. En cas d'agrément, celui-ci précise le nombre d'enfants pouvant être accueillis simultanément."
+        },
+        {
+          "title": "Recrutement et signature du contrat de travail",
+          "text": "Une fois agréé, votre candidature est transmise au service de placement familial. Lors d'un premier accueil, un contrat de travail est établi entre vous et le Département. Vous êtes accompagné par un travailleur social référent qui assure le suivi de l'enfant et votre soutien professionnel."
+        },
+        {
+          "title": "Formation obligatoire",
+          "text": "Dans les trois ans suivant votre premier accueil, vous devez suivre une formation obligatoire de 240 heures (diplôme d'État d'assistant familial ou dispense sous conditions). Le Département prend en charge les frais de formation et organise les sessions en partenariat avec des organismes agréés."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service Agrément Assistants Familiaux",
+          "role": "Direction Enfance-Famille — PMI",
+          "email": "contact@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "acces-direct/marches-publics-et-appels-a-projets": {
+    "seo": {
+      "title": "Marchés publics et appels à projets — Touraine CD37",
+      "description": "Accédez au profil acheteur du Département d'Indre-et-Loire : marchés publics en cours, dépôt d'offres dématérialisé, appels à projets et partenariats avec le CD37."
+    },
+    "heroSubtitle": "Le Conseil Départemental d'Indre-et-Loire publie ses marchés publics et appels à projets sur sa plateforme de dématérialisation. Consultez les avis d'appel à concurrence et déposez vos offres en ligne.",
+    "intro": [
+      "En tant qu'acheteur public, le Conseil Départemental d'Indre-et-Loire est soumis aux règles de la commande publique. Tous les marchés dont la valeur dépasse les seuils réglementaires font l'objet d'une mise en concurrence et d'une publication obligatoire.",
+      "La dématérialisation des procédures est intégrale : les avis de marché, les dossiers de consultation, le dépôt des offres et les notifications se font exclusivement sur la plateforme de profil acheteur du Département."
+    ],
+    "sections": [
+      {
+        "heading": "Consulter les marchés publics en cours",
+        "paragraphs": [
+          "L'ensemble des avis d'appel public à la concurrence (AAPC) publiés par le Département sont accessibles sur la plateforme de dématérialisation. Vous pouvez y consulter les dossiers de consultation des entreprises (DCE) et déposer vos offres en ligne.",
+          "La plateforme permet de rechercher les marchés par catégorie (travaux, fournitures, services), par date de publication ou par date limite de remise des offres. Un outil d'alerte par courriel vous permet d'être notifié automatiquement lors de la publication de nouveaux marchés correspondant à votre activité."
+        ],
+        "bullets": [
+          "Marchés de travaux : construction, rénovation, entretien de voiries et bâtiments",
+          "Marchés de fournitures : équipements informatiques, mobilier, véhicules",
+          "Marchés de services : prestations intellectuelles, nettoyage, gardiennage, traiteur",
+          "Accords-cadres et marchés à bons de commande"
+        ]
+      },
+      {
+        "heading": "Déposer une offre en ligne",
+        "paragraphs": [
+          "Depuis le 1er janvier 2020, le dépôt des offres par voie électronique est obligatoire pour tous les marchés supérieurs aux seuils européens. Le Département a généralisé la dématérialisation à l'ensemble de ses procédures, y compris pour les marchés de faible montant.",
+          "Pour déposer une offre, vous devez créer un compte sur la plateforme de profil acheteur, télécharger le DCE, compléter votre offre et la déposer avant la date et l'heure limite indiquées dans l'avis. Un accusé de dépôt électronique vous est adressé automatiquement."
+        ]
+      },
+      {
+        "heading": "Les appels à projets",
+        "paragraphs": [
+          "Au-delà des marchés publics classiques, le Département lance régulièrement des appels à projets pour identifier des partenaires associatifs ou privés souhaitant co-construire des actions dans des domaines prioritaires (sport, culture, social, environnement, numérique).",
+          "Les appels à projets sont publiés sur ce site et sur la plateforme de dématérialisation. Les candidats sélectionnés concluent une convention avec le Département définissant les engagements réciproques."
+        ]
+      },
+      {
+        "heading": "Accès au profil acheteur",
+        "paragraphs": [
+          "Le Département utilise une plateforme de profil acheteur conforme aux exigences réglementaires. L'accès est libre et gratuit pour la consultation des avis et le téléchargement des DCE. La création d'un compte est requise pour déposer une offre ou une candidature."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment être alerté des nouveaux marchés publiés par le Département ?",
+        "a": "Créez un compte sur la plateforme de profil acheteur et configurez des alertes thématiques par code CPV (Classification des Produits par Activités). Vous recevrez un courriel automatique dès la publication d'un avis correspondant à votre activité."
+      },
+      {
+        "q": "Le Département publie-t-il ses marchés sur d'autres supports ?",
+        "a": "Les marchés supérieurs aux seuils européens font également l'objet d'une publication au Journal Officiel de l'Union Européenne (JOUE) et au Bulletin Officiel des Annonces des Marchés Publics (BOAMP). Pour les marchés de faible montant, la publication sur le profil acheteur est suffisante."
+      },
+      {
+        "q": "Comment contacter le service de la commande publique ?",
+        "a": "Pour toute question relative à un marché en cours, utilisez uniquement la messagerie sécurisée de la plateforme de profil acheteur afin de garantir la traçabilité des échanges. Les questions posées et les réponses apportées sont visibles par l'ensemble des candidats."
+      }
+    ],
+    "related": [
+      {
+        "label": "Accès direct — Accueil",
+        "path": "acces-direct"
+      },
+      {
+        "label": "Appels à projets sport",
+        "path": "mes-services-au-quotidien/sport/deposer-une-demande-de-subvention"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      },
+      {
+        "label": "BOAMP — Marchés publics officiels",
+        "url": "https://www.boamp.fr"
+      }
+    ],
+    "contactCta": true
+  },
+  "acces-direct/enquetes-publiques": {
+    "seo": {
+      "title": "Enquêtes publiques en Touraine — Participez aux projets",
+      "description": "Consultez les enquêtes publiques en cours en Indre-et-Loire, donnez votre avis sur les projets soumis à concertation et exercez votre droit à la participation citoyenne."
+    },
+    "heroSubtitle": "Les enquêtes publiques permettent aux citoyens de s'informer et de donner leur avis sur les grands projets d'aménagement, de planification ou de réglementation qui concernent leur territoire.",
+    "intro": [
+      "En vertu du code de l'environnement et du code de l'expropriation, certaines décisions administratives doivent être précédées d'une enquête publique permettant à toute personne intéressée de formuler des observations. Le Département d'Indre-et-Loire organise ou publie ces enquêtes dès lors qu'il est concerné.",
+      "Cette page recense les enquêtes publiques actuellement ouvertes ou prochainement organisées sur le territoire de l'Indre-et-Loire, qu'elles soient conduites par le Département, l'État ou d'autres maîtres d'ouvrage publics."
+    ],
+    "sections": [
+      {
+        "heading": "Qu'est-ce qu'une enquête publique ?",
+        "paragraphs": [
+          "L'enquête publique est une procédure de démocratie participative obligatoire pour certaines décisions ayant un impact potentiel sur l'environnement, l'aménagement du territoire ou les droits des personnes. Elle est conduite par un commissaire enquêteur indépendant, désigné par le tribunal administratif.",
+          "Pendant la durée de l'enquête, le dossier complet est consultable par tous. Chacun peut formuler des observations écrites (registre papier ou dématérialisé), oralement lors de permanences, ou par courriel selon les modalités propres à chaque enquête."
+        ]
+      },
+      {
+        "heading": "Types d'enquêtes concernant le Département",
+        "paragraphs": [
+          "Le Département d'Indre-et-Loire peut être concerné par différentes catégories d'enquêtes publiques, en tant que maître d'ouvrage (pour ses propres projets) ou à titre informatif (pour des projets d'autres maîtres d'ouvrage impactant son territoire)."
+        ],
+        "bullets": [
+          "Déclarations d'utilité publique (DUP) pour des projets de voiries ou d'équipements publics",
+          "Enquêtes de commodo et incommodo pour des installations classées",
+          "Plans locaux d'urbanisme intercommunaux (PLUi) et documents de planification",
+          "Projets de création ou de modification de zones de protection du patrimoine",
+          "Enquêtes relatives aux plans de prévention des risques naturels et technologiques"
+        ]
+      },
+      {
+        "heading": "Comment participer à une enquête publique ?",
+        "paragraphs": [
+          "Pour chaque enquête ouverte, la fiche de présentation disponible sur cette page indique la période d'enquête, les lieux de consultation du dossier, les permanences du commissaire enquêteur et les modalités de dépôt des observations.",
+          "La participation est libre et ouverte à toute personne, quelle que soit sa qualité (riverain, association, entreprise, particulier). Les observations formulées sont examinées par le commissaire enquêteur, qui les synthétise dans son rapport et formule un avis motivé."
+        ]
+      },
+      {
+        "heading": "Enquêtes actuellement ouvertes",
+        "paragraphs": [
+          "La liste des enquêtes publiques en cours est mise à jour régulièrement. Consultez cette page et les registres disponibles dans les mairies et locaux du Département concernés. En l'absence d'enquête en cours à la date de votre visite, revenez ultérieurement ou abonnez-vous aux actualités du Département."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Mes observations seront-elles prises en compte ?",
+        "a": "Toutes les observations reçues sont consignées et analysées par le commissaire enquêteur, qui en fait la synthèse dans son rapport. Le rapport et l'avis du commissaire enquêteur sont transmis au maître d'ouvrage, qui doit en tenir compte dans sa décision finale. Cependant, l'avis du commissaire n'est pas contraignant, sauf pour les enquêtes préalables aux DUP."
+      },
+      {
+        "q": "Puis-je consulter le dossier d'une enquête passée ?",
+        "a": "Les rapports des commissaires enquêteurs et les décisions prises à l'issue des enquêtes sont consultables en préfecture et, souvent, sur le site de la préfecture d'Indre-et-Loire. Contactez le Département ou la préfecture pour connaître les modalités de consultation des archives."
+      },
+      {
+        "q": "Qui organise l'enquête publique : le Département ou l'État ?",
+        "a": "Le maître d'ouvrage du projet (commune, Département, État, opérateur privé) est responsable de l'organisation de l'enquête. Le commissaire enquêteur, désigné par le tribunal administratif, conduit l'enquête en toute indépendance. Le Département est responsable des enquêtes portant sur ses propres projets."
+      }
+    ],
+    "related": [
+      {
+        "label": "Accès direct — Accueil",
+        "path": "acces-direct"
+      },
+      {
+        "label": "Environnement et nature",
+        "path": "mes-services-au-quotidien/environnement"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      },
+      {
+        "label": "Préfecture d'Indre-et-Loire",
+        "url": "https://www.indre-et-loire.gouv.fr"
+      }
+    ],
+    "contactCta": true
+  },
+  "acces-direct/plateforme-opendata": {
+    "seo": {
+      "title": "Open data — Données ouvertes du Département de Touraine",
+      "description": "Accédez aux jeux de données ouverts publiés par le Conseil Départemental d'Indre-et-Loire : statistiques, cartographies, équipements, budget et réutilisation libre."
+    },
+    "heroSubtitle": "Le Département de Touraine publie en open data ses données publiques : équipements, budget, routes, patrimoine naturel. Des données librement téléchargeables et réutilisables par tous.",
+    "intro": [
+      "Dans le cadre de sa politique de transparence et d'ouverture des données publiques, le Conseil Départemental d'Indre-et-Loire met à disposition de tous les citoyens, entreprises, chercheurs et développeurs un catalogue de jeux de données librement accessibles.",
+      "Ces données, produites dans le cadre des missions du Département, sont publiées sous licence ouverte et peuvent être librement téléchargées, analysées et réutilisées, y compris à des fins commerciales, sous réserve de mentionner la source."
+    ],
+    "sections": [
+      {
+        "heading": "Les jeux de données disponibles",
+        "paragraphs": [
+          "La plateforme open data du Département met à disposition des jeux de données dans des formats standards et interopérables (CSV, JSON, GeoJSON, Shapefile, PDF). Les données sont actualisées régulièrement selon des fréquences propres à chaque jeu de données."
+        ],
+        "bullets": [
+          "Réseau routier départemental : tracés, équipements, état des chaussées",
+          "Sentiers de randonnée PDIPR : tracés GPS, points d'intérêt, balisage",
+          "Équipements sportifs et culturels : localisation, caractéristiques, accessibilité",
+          "Budget départemental : recettes, dépenses, investissements par politique",
+          "Statistiques sociales : bénéficiaires RSA, allocataires APA, enfants confiés à l'ASE",
+          "Patrimoine naturel et environnemental : zones naturelles, cours d'eau, espaces protégés",
+          "Collèges publics : localisation, effectifs, équipements"
+        ]
+      },
+      {
+        "heading": "Conditions de réutilisation",
+        "paragraphs": [
+          "Les jeux de données publiés par le Département sont mis à disposition sous Licence Ouverte v2.0 (Etalab), sauf mention contraire sur la fiche descriptive de chaque jeu de données.",
+          "La réutilisation est libre, y compris à des fins commerciales, sous réserve de mentionner la source (« Source : Conseil Départemental d'Indre-et-Loire ») et la date de récupération des données. Certains jeux de données contenant des données à caractère personnel font l'objet de restrictions spécifiques indiquées dans leurs métadonnées."
+        ]
+      },
+      {
+        "heading": "Contribuer à l'amélioration des données",
+        "paragraphs": [
+          "La qualité des données ouvertes est une priorité. Si vous constatez une erreur, une incohérence ou une donnée manquante dans un jeu de données publié, vous pouvez le signaler au Département via le formulaire de contact de la plateforme ou par courriel.",
+          "Le Département encourage également les producteurs de données locaux (communes, associations, entreprises) à s'inscrire dans une démarche d'ouverture des données, dans le respect du cadre réglementaire applicable."
+        ]
+      },
+      {
+        "heading": "Open data et obligations légales",
+        "paragraphs": [
+          "Depuis la loi pour une République Numérique du 7 octobre 2016, les administrations de plus de 50 agents ont l'obligation de publier en ligne les documents administratifs qu'elles produisent et dont la communication est de droit. Le Département s'inscrit dans cette démarche de transparence.",
+          "La plateforme open data départementale est également référencée sur le portail national data.gouv.fr, permettant une visibilité accrue auprès des communautés de réutilisateurs."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Les données sont-elles gratuites ?",
+        "a": "Oui, l'ensemble des jeux de données publiés sur la plateforme open data du Département sont mis à disposition gratuitement, sans inscription obligatoire pour le téléchargement."
+      },
+      {
+        "q": "Puis-je utiliser les données dans une application commerciale ?",
+        "a": "Oui. La Licence Ouverte v2.0 (Etalab) autorise la réutilisation à des fins commerciales, sous réserve de mentionner la source. Consultez la fiche de chaque jeu de données pour vérifier la licence applicable."
+      },
+      {
+        "q": "À quelle fréquence les données sont-elles mises à jour ?",
+        "a": "La fréquence de mise à jour varie selon les jeux de données (temps réel, quotidienne, mensuelle, annuelle). Cette information est précisée dans les métadonnées de chaque jeu de données sur la plateforme."
+      },
+      {
+        "q": "Comment demander la publication d'un nouveau jeu de données ?",
+        "a": "Vous pouvez soumettre une demande de publication via le formulaire de contact de la plateforme ou en écrivant à contact@touraine.fr en précisant le type de données souhaité. Toutes les demandes sont examinées par le service en charge de l'open data."
+      }
+    ],
+    "related": [
+      {
+        "label": "Accès direct — Accueil",
+        "path": "acces-direct"
+      },
+      {
+        "label": "Enquêtes publiques",
+        "path": "acces-direct/enquetes-publiques"
+      },
+      {
+        "label": "Nous contacter",
+        "path": "nous-contacter"
+      },
+      {
+        "label": "data.gouv.fr — Portail national open data",
+        "url": "https://www.data.gouv.fr"
+      },
+      {
+        "label": "Licence Ouverte Etalab v2.0",
+        "url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence"
+      }
+    ],
+    "contactCta": true
+  }
+}

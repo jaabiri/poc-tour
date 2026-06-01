@@ -1,0 +1,30 @@
+{
+  "label": "Espaces dédiés",
+  "title": "Vous représentez une structure ?",
+  "items": [
+    {
+      "icon": "building-2",
+      "title": "Communes & collectivités",
+      "description": "Demande de subventions, facturation électronique, ingénierie, portail SIG, ZPENS.",
+      "href": "/communes-et-collectivites",
+      "links": [
+        "Demande de subventions",
+        "Facturation électronique",
+        "Plateforme Ingénierie",
+        "Portail SIG"
+      ]
+    },
+    {
+      "icon": "building",
+      "title": "Entreprises & associations",
+      "description": "Subventions, facturation électronique, fonds européens, mécénat.",
+      "href": "/entreprises-et-associations",
+      "links": [
+        "Demande de subventions",
+        "Facturation électronique",
+        "Subventions européennes",
+        "Mécénat"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "intro": {
+    "label": "Maquettes interactives",
+    "title": "Les gabarits du portail Touraine",
+    "lead": "Chaque modèle de page du futur touraine.fr, présenté avec les sections exigées au cahier des charges. Activez les annotations pour visualiser la couverture des exigences CCTP.",
+    "cctpCovered": [
+      "Menu dynamique & méga-menus",
+      "Recherche sur chaque page",
+      "Fil d'Ariane",
+      "Agenda programmable",
+      "Inscription Newsletter",
+      "Pied de page dynamique",
+      "Accès espace privé",
+      "Plan du site",
+      "Réglage taille du texte A=/A+/A−",
+      "Accessibilité RGAA / WCAG AA"
+    ]
+  },
+  "gabarits": [
+    {
+      "id": "accueil",
+      "number": 1,
+      "name": "Page d'accueil",
+      "tagline": "La vitrine : séduction + accès en 2 clics",
+      "description": "Hero avec recherche, accès rapides par profil « Je suis… », mise en avant éditoriale, actualités, agenda, espaces dédiés et services. Réordonnée selon le CCTP.",
+      "href": "/",
+      "image": "/images/featured.svg",
+      "sections": [
+        "Hero (visuel fort + recherche + CornerSeal)",
+        "Accès rapides par profil « Je suis… »",
+        "Mise en avant (à la une)",
+        "Actualités (grille + dates)",
+        "Agenda (événements datés)",
+        "Espaces dédiés (communes / entreprises)",
+        "Services en ligne",
+        "Newsletter"
+      ],
+      "annotations": [
+        "Menu dynamique",
+        "Recherche",
+        "Agenda",
+        "Newsletter",
+        "Footer dynamique",
+        "Espace privé"
+      ]
+    },
+    {
+      "id": "rubrique",
+      "number": 2,
+      "name": "Landing de rubrique",
+      "tagline": "Le hub thématique d'une politique départementale",
+      "description": "Hero de rubrique, intro éditoriale, sous-navigation, liens clés, actualités liées et bloc contact / aide. Sections conditionnelles, data-driven.",
+      "href": "/mes-services-au-quotidien",
+      "image": "/images/actu-colleges.svg",
+      "sections": [
+        "Fil d'Ariane + hero rubrique",
+        "Intro éditoriale (2 colonnes)",
+        "Sous-navigation des sous-sections",
+        "Liens clés / accès rapides",
+        "Actualités liées (3 cartes)",
+        "Bloc contact / aide"
+      ],
+      "annotations": ["Fil d'Ariane", "Recherche", "Sous-rubriques", "Contact"]
+    },
+    {
+      "id": "actualites",
+      "number": 3,
+      "name": "Page actualités",
+      "tagline": "Le kiosque : à la une + grille filtrable",
+      "description": "Article à la une, filtres thématiques et recherche plein-texte (sans JS, URL-driven), grille paginée avec compteur, et CTA Newsletter.",
+      "href": "/actualites/toutes-les-actus",
+      "image": "/images/actu-culture.svg",
+      "sections": [
+        "Fil d'Ariane + titre + intro",
+        "Filtres (catégorie, date) + recherche",
+        "Article à la une (grande carte)",
+        "Grille paginée + compteur « X à Y sur Z »",
+        "CTA Newsletter"
+      ],
+      "annotations": ["Recherche", "Filtres", "Pagination", "Newsletter"]
+    },
+    {
+      "id": "article",
+      "number": 4,
+      "name": "Page article",
+      "tagline": "Lecture éditoriale type magazine",
+      "description": "En-tête riche (date, catégorie, partage, temps de lecture), image de couverture légendée, corps rich-text, articles liés et retour à la rubrique.",
+      "href": "/actualites/toutes-les-actus",
+      "image": "/images/actu-portrait.svg",
+      "sections": [
+        "Fil d'Ariane",
+        "En-tête (titre, date, tag, partage, temps de lecture)",
+        "Image de couverture + légende",
+        "Corps (rich text, citations, sous-titres)",
+        "Articles liés (3 cartes)",
+        "Lien retour actualités"
+      ],
+      "annotations": ["Fil d'Ariane", "Partage réseaux", "Impression PDF"]
+    },
+    {
+      "id": "demarche",
+      "number": 5,
+      "name": "Fiche démarche (N3)",
+      "tagline": "L'action : faire sa demande en ligne",
+      "description": "Encadré « En bref » (qui / quoi / délai), étapes numérotées, pièces à fournir, CTA d'action proéminent, contacts & lieux, FAQ et formulaires PDF.",
+      "href": "/mes-services-au-quotidien/enfance-et-famille",
+      "image": "/images/placeholder.svg",
+      "sections": [
+        "Fil d'Ariane",
+        "Titre + « En bref » (qui / quoi / délai)",
+        "Étapes de la démarche (process numéroté)",
+        "Documents requis (checklist)",
+        "Faire ma demande en ligne (CTA)",
+        "Contact / aide + démarches liées",
+        "Formulaires téléchargeables (PDF)"
+      ],
+      "annotations": ["Fil d'Ariane", "Formulaire en ligne", "Cartes ArcGIS", "Impression PDF"]
+    },
+    {
+      "id": "contact",
+      "number": 6,
+      "name": "Page contact",
+      "tagline": "Joindre le Département, simplement",
+      "description": "Coordonnées et horaires, carte de situation, formulaire accessible, annuaire des services clés et FAQ / liens rapides.",
+      "href": "/nous-contacter",
+      "image": "/images/placeholder.svg",
+      "sections": [
+        "Fil d'Ariane + titre",
+        "Formulaire (nom, e-mail, sujet, message)",
+        "Coordonnées (adresse, téléphone, horaires)",
+        "Carte de situation",
+        "Annuaire (services clés + téléphones)",
+        "FAQ / liens rapides"
+      ],
+      "annotations": ["Formulaire", "Carte de situation", "Coordonnées dynamiques"]
+    }
+  ]
+}

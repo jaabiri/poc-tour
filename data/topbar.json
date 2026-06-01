@@ -1,0 +1,9 @@
+{
+  "intro": "Nos sites et services",
+  "links": [
+    { "label": "Showcase gabarits", "href": "/showcase" },
+    { "label": "Accessibilité", "href": "/nous-contacter/accessibilite-et-mentions-legales" },
+    { "label": "Contact", "href": "/nous-contacter" }
+  ],
+  "privateSpace": { "label": "Espace privé", "href": "/admin" }
+}

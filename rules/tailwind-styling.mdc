@@ -1,0 +1,257 @@
+# Tailwind Styling Rules - ATM Design System
+
+## Core Principle: Use Tailwind v4 Theme Variable Namespaces
+
+Tailwind v4 **automatically generates utility classes** from theme variables defined in specific namespaces. Use these auto-generated utilities instead of arbitrary value syntax.
+
+Reference: [Tailwind v4 Theme Variable Namespaces](https://tailwindcss.com/docs/theme#theme-variable-namespaces)
+
+---
+
+## Key Namespaces That Auto-Generate Utilities
+
+| Namespace | Auto-generates | Example Token → Utility |
+|-----------|----------------|------------------------|
+| `--spacing-*` | Spacing & sizing | `--spacing-button-gap` → `gap-button-gap` |
+| `--radius-*` | Border radius | `--radius-button` → `rounded-button` |
+| `--color-*` | Colors | `--color-brand-accent` → `bg-brand-accent` |
+| `--text-*` | Font sizes | `--text-button-lg` → `text-button-lg` |
+| `--shadow-*` | Box shadows | `--shadow-card` → `shadow-card` |
+| `--font-*` | Font families | `--font-ubuntu` → `font-ubuntu` |
+
+---
+
+## The Rules
+
+### 0. No Magic Values in Components
+
+- **Never** use arbitrary values like `w-[48px]`, `rounded-[12px]`, `shadow-[...]` in `*.tsx`
+- **Never** use raw palette primitives like `text-blue-500`, `bg-slate-50`, `border-gray-200`
+- **Always** use semantic/component tokens (Tier 2 / Tier 3) via:
+  - Auto-generated utilities (preferred): `w-news-card-image-width`, `rounded-news-card`, `shadow-news-card`
+  - Variable syntax only when the token **cannot** generate utilities (see “When CSS Variable Syntax IS Needed”)
+
+### 1. Define Tokens in Correct Namespaces
+
+```css
+@theme {
+  /* ✅ CORRECT - Uses --spacing-* namespace */
+  --spacing-button-height-lg: 44px;    /* → h-button-height-lg */
+  --spacing-button-height-sm: 36px;    /* → h-button-height-sm */
+  --spacing-button-padding-x-lg: 24px; /* → px-button-padding-x-lg */
+  --spacing-button-gap: 8px;           /* → gap-button-gap */
+  --spacing-button-icon-lg: 24px;      /* → size-button-icon-lg */
+  
+  /* ✅ CORRECT - Uses --radius-* namespace */
+  --radius-button: 4px;                /* → rounded-button */
+  
+  /* ❌ WRONG - --size-* is NOT a valid namespace */
+  --size-button-height-lg: 44px;       /* Won't generate utilities! */
+}
+```
+
+### 2. Use Auto-Generated Utility Classes
+
+```jsx
+// ✅ CORRECT - Use auto-generated utilities
+<button className="h-button-height-lg px-button-padding-x-lg rounded-button gap-button-gap">
+  Click me
+</button>
+
+// ✅ CORRECT - Component tokens (News Card example)
+<article className="rounded-news-card shadow-news-card min-h-news-card-min-height-default">
+  ...
+</article>
+
+// ❌ WRONG - Don't use CSS variable syntax when namespace utilities exist
+<button className="h-(--spacing-button-height-lg) px-(--spacing-button-padding-x-lg)">
+  Click me
+</button>
+
+// ❌ WRONG - Never use var() arbitrary syntax
+<button className="h-[var(--spacing-button-height-lg)]">
+  Click me
+</button>
+```
+
+### 3. Use Semantic Classes for Colors
+
+```jsx
+// ✅ CORRECT - Semantic color classes from tailwind.config.js
+<button className="bg-brand-accent text-content-inverse hover:bg-accent-surface">
+  Click me
+</button>
+
+// ❌ WRONG - CSS variable syntax for colors
+<button className="bg-[var(--color-brand-accent)]">
+  Click me
+</button>
+```
+
+---
+
+## Button Component Reference
+
+### Token Definitions (in `index.css`)
+
+```css
+@theme {
+  /* Button Spacing & Sizing - using --spacing-* namespace */
+  --spacing-button-padding-x-lg: 24px;  /* → px-button-padding-x-lg */
+  --spacing-button-padding-y-lg: 8px;   /* → py-button-padding-y-lg */
+  --spacing-button-padding-x-sm: 16px;  /* → px-button-padding-x-sm */
+  --spacing-button-padding-y-sm: 8px;   /* → py-button-padding-y-sm */
+  --spacing-button-gap: 8px;            /* → gap-button-gap */
+  --spacing-button-height-lg: 44px;     /* → h-button-height-lg */
+  --spacing-button-height-sm: 36px;     /* → h-button-height-sm */
+  --spacing-button-icon-lg: 24px;       /* → size-button-icon-lg */
+  --spacing-button-icon-sm: 20px;       /* → size-button-icon-sm */
+  
+  /* Button Radius - using --radius-* namespace */
+  --radius-button: 4px;                 /* → rounded-button */
+}
+```
+
+### Component Usage
+
+```jsx
+// Base styles
+'gap-button-gap',  // Auto-generated from --spacing-button-gap
+
+const sizes = {
+  sm: [
+    'h-button-height-sm min-h-button-height-sm',
+    'px-button-padding-x-sm py-button-padding-y-sm',
+    'text-sm',           // Standard Tailwind (14px)
+    'rounded-button',
+    '[&_svg]:size-button-icon-sm',
+  ],
+  lg: [
+    'h-button-height-lg min-h-button-height-lg',
+    'px-button-padding-x-lg py-button-padding-y-lg',
+    'text-base',         // Standard Tailwind (16px)
+    'rounded-button',
+    '[&_svg]:size-button-icon-lg',
+  ],
+  icon: [
+    'size-button-height-lg min-h-button-height-lg min-w-button-height-lg',
+    'p-0',
+    'rounded-button',
+    '[&_svg]:size-button-icon-lg',
+  ],
+};
+```
+
+### Color Variants
+
+```jsx
+// Primary Button
+const primary = [
+  'bg-brand-accent text-content-inverse',
+  'border border-brand-accent',
+  'hover:bg-accent-surface hover:text-brand-accent hover:border-brand-accent',
+  'active:bg-brand-accent active:text-content-inverse',
+  'disabled:bg-surface-disabled disabled:text-content-disabled',
+  'focus-visible:ring-brand-accent',
+];
+
+// Secondary Button
+const secondary = [
+  'bg-surface-main text-accent-strong',
+  'border border-accent-strong',
+  'hover:bg-accent-surface hover:text-accent-strong',
+  'active:bg-accent-strong active:text-content-inverse',
+  'disabled:bg-surface-main disabled:text-content-disabled disabled:border-border-disabled',
+];
+
+// Tertiary Button
+const tertiary = [
+  'bg-transparent text-brand-accent',
+  'underline decoration-current',
+  'hover:text-accent-focus',
+  'disabled:text-content-disabled',
+];
+```
+
+---
+
+## Decision Table
+
+| Token Type | Namespace | How to Use |
+|------------|-----------|------------|
+| **Button height** | `--spacing-button-height-*` | `h-button-height-lg` |
+| **Button padding** | `--spacing-button-padding-*` | `px-button-padding-x-lg` |
+| **Button gap** | `--spacing-button-gap` | `gap-button-gap` |
+| **Button radius** | `--radius-button` | `rounded-button` |
+| **Button icon size** | `--spacing-button-icon-*` | `size-button-icon-lg` |
+| **Colors** | `--color-*` (via config) | `bg-brand-accent` |
+| **Typography** | Prefer `--text-*` if available | `text-*` (auto-generated) |
+
+---
+
+## When CSS Variable Syntax IS Needed
+
+Only use `property-(--variable-name)` when:
+
+### 1. Token is NOT in a valid namespace (and can't be renamed)
+
+```jsx
+'text-(length:--font-size-custom)'  // e.g. --font-size-* (not a theme namespace)
+```
+
+### 2. CSS calc() operations
+
+```jsx
+'rounded-[calc(var(--radius-xl)-1px)]'
+'w-[calc(100%-var(--spacing-sidebar))]'
+```
+
+### 3. Complex CSS properties not covered by namespaces
+
+```jsx
+'animate-[fade-in_0.3s_ease-out]'
+```
+
+---
+
+## Complete Namespace Reference
+
+From [Tailwind v4 docs](https://tailwindcss.com/docs/theme#theme-variable-namespaces):
+
+| Namespace | Generates These Utilities |
+|-----------|--------------------------|
+| `--color-*` | `bg-*`, `text-*`, `border-*`, `fill-*`, `stroke-*`, `ring-*`, etc. |
+| `--spacing-*` | `p-*`, `m-*`, `gap-*`, `w-*`, `h-*`, `size-*`, `min-w-*`, `max-h-*`, etc. |
+| `--radius-*` | `rounded-*` |
+| `--shadow-*` | `shadow-*` |
+| `--inset-shadow-*` | `inset-shadow-*` |
+| `--drop-shadow-*` | `drop-shadow-*` |
+| `--text-*` | `text-*` (font-size) |
+| `--font-*` | `font-*` (font-family) |
+| `--font-weight-*` | `font-*` (font-weight) |
+| `--tracking-*` | `tracking-*` |
+| `--leading-*` | `leading-*` |
+| `--blur-*` | `blur-*` |
+| `--ease-*` | `ease-*` |
+| `--animate-*` | `animate-*` |
+| `--breakpoint-*` | `sm:`, `md:`, `lg:` variants |
+
+---
+
+## Verification Checklist
+
+Before submitting component code, verify:
+
+1. **Component tokens use correct namespace** (`--spacing-*`, `--radius-*`, etc.)
+2. **Using auto-generated utilities** (`h-button-height-lg`, not `h-(--spacing-button-height-lg)`)
+3. **Colors use semantic classes** (`bg-brand-accent`, not `bg-[var(--color-*)]`)
+4. **No `var()` syntax** unless calc() or non-namespace tokens
+
+---
+
+## Reference Files
+
+- **CSS Theme Tokens**: `src/index.css` - See `@theme` block
+- **Tailwind Config**: `tailwind.config.js` - Color mappings
+- **Documentation**: `docs/TAILWIND_GUIDE.md`
+- **Reference Component**: `src/components/ui/button.tsx`

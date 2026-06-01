@@ -1,0 +1,75 @@
+{
+  "intro": "Les Maisons départementales de la solidarité (MDS) accueillent, écoutent et accompagnent gratuitement tous les Tourangeaux : action sociale, enfance et famille, insertion, autonomie. Trouvez la MDS de votre territoire.",
+  "locations": [
+    {
+      "name": "MDS de Tours-Centre",
+      "territory": "Tours agglomération",
+      "address": "25 rue du Commerce, 37000 Tours",
+      "phone": "02 47 00 11 11",
+      "email": "mds-tours-centre@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h30 / 13h30 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.3941&mlon=0.6848#map=16/47.3941/0.6848"
+    },
+    {
+      "name": "MDS de Tours-Nord",
+      "territory": "Tours agglomération",
+      "address": "120 avenue de l'Europe, 37100 Tours",
+      "phone": "02 47 00 22 22",
+      "email": "mds-tours-nord@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h30 / 13h30 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.4150&mlon=0.6900#map=16/47.4150/0.6900"
+    },
+    {
+      "name": "MDS de Joué-lès-Tours",
+      "territory": "Tours agglomération",
+      "address": "10 boulevard Jean Jaurès, 37300 Joué-lès-Tours",
+      "phone": "02 47 00 33 33",
+      "email": "mds-joue@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h30 / 13h30 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.3530&mlon=0.6650#map=16/47.3530/0.6650"
+    },
+    {
+      "name": "MDS de Saint-Pierre-des-Corps",
+      "territory": "Tours agglomération",
+      "address": "5 place de la République, 37700 Saint-Pierre-des-Corps",
+      "phone": "02 47 00 44 44",
+      "hours": "Lundi – Vendredi : 9h00 – 12h30 / 13h30 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.3870&mlon=0.7150#map=16/47.3870/0.7150"
+    },
+    {
+      "name": "MDS d'Amboise",
+      "territory": "Amboise – Val d'Amboise",
+      "address": "8 rue Nationale, 37400 Amboise",
+      "phone": "02 47 00 55 55",
+      "email": "mds-amboise@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h00 / 14h00 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.4130&mlon=0.9820#map=16/47.4130/0.9820"
+    },
+    {
+      "name": "MDS de Chinon",
+      "territory": "Chinonais",
+      "address": "32 quai Jeanne d'Arc, 37500 Chinon",
+      "phone": "02 47 00 66 66",
+      "email": "mds-chinon@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h00 / 14h00 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.1670&mlon=0.2410#map=16/47.1670/0.2410"
+    },
+    {
+      "name": "MDS de Loches",
+      "territory": "Loches Sud Touraine",
+      "address": "12 avenue des Bas Clos, 37600 Loches",
+      "phone": "02 47 00 77 77",
+      "email": "mds-loches@departement-touraine.fr",
+      "hours": "Lundi – Vendredi : 9h00 – 12h00 / 14h00 – 17h00",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.1280&mlon=1.0040#map=16/47.1280/1.0040"
+    },
+    {
+      "name": "MDS de Château-Renault",
+      "territory": "Nord-Ouest Touraine",
+      "address": "3 place Jean Jaurès, 37110 Château-Renault",
+      "phone": "02 47 00 88 88",
+      "hours": "Lundi – Vendredi : 9h00 – 12h00 / 14h00 – 16h30",
+      "mapUrl": "https://www.openstreetmap.org/?mlat=47.5920&mlon=0.9110#map=16/47.5920/0.9110"
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "mes-services-au-quotidien/enfance-et-famille": {
+    "seo": {
+      "title": "Enfance et famille – Département de Touraine",
+      "description": "Le Département d'Indre-et-Loire accompagne les familles : PMI, aide sociale à l'enfance, modes de garde, adoption, parentalité. Découvrez nos services."
+    },
+    "heroSubtitle": "Le Département de Touraine est à vos côtés à chaque étape de la vie familiale : grossesse, petite enfance, modes de garde, protection de l'enfance et soutien à la parentalité.",
+    "intro": [
+      "De la grossesse aux premières années de l'enfant, le Département d'Indre-et-Loire propose un ensemble de services gratuits et de proximité pour accompagner les familles tourangelles.",
+      "Protection Maternelle et Infantile, Aide Sociale à l'Enfance, agrément des assistantes maternelles, soutien à l'adoption : retrouvez toutes les démarches et ressources utiles."
+    ],
+    "sections": [
+      {
+        "heading": "La Protection Maternelle et Infantile (PMI)",
+        "paragraphs": [
+          "Les services de PMI du Département assurent le suivi médical des femmes enceintes, des nourrissons et des enfants de moins de 6 ans. Consultations, bilans de santé, visites à domicile : nos équipes pluridisciplinaires interviennent dans l'ensemble du territoire."
+        ],
+        "bullets": [
+          "Suivi de grossesse et entretien prénatal précoce",
+          "Consultations nourrissons et bilan de santé à 4 ans",
+          "Vaccinations et actions de prévention",
+          "Visites à domicile par les infirmières et sages-femmes PMI"
+        ]
+      },
+      {
+        "heading": "L'Aide Sociale à l'Enfance (ASE)",
+        "paragraphs": [
+          "L'ASE a pour mission de protéger les enfants en danger ou en risque de l'être. Le Département organise le placement familial, l'accueil en établissement et le soutien aux familles en difficulté."
+        ],
+        "bullets": [
+          "Mesures de prévention et d'accompagnement éducatif",
+          "Accueil d'urgence et placement familial",
+          "Accompagnement des jeunes majeurs",
+          "Aide financière aux familles"
+        ]
+      },
+      {
+        "heading": "Modes de garde et parentalité",
+        "paragraphs": [
+          "Trouver un mode de garde adapté à votre situation est une démarche essentielle. Le Département agrée et contrôle les assistantes maternelles et accompagne les Relais Petite Enfance (RPE) sur tout le territoire."
+        ],
+        "bullets": [
+          "Agrément et suivi des assistantes maternelles",
+          "Référencement sur monenfant.fr",
+          "Soutien aux Relais Petite Enfance",
+          "Information sur les aides à la garde (CAF, Pajemploi)"
+        ]
+      }
+    ],
+    "related": [
+      {
+        "label": "Présentation et démarches Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "J'attends un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/j-attends-un-enfant"
+      },
+      {
+        "label": "Je veux adopter un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-adopter-un-enfant"
+      },
+      {
+        "label": "Je veux faire garder mon enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-faire-garder-mon-enfant"
+      },
+      {
+        "label": "Devenir assistante maternelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-assistant-e-maternel-le"
+      },
+      {
+        "label": "Devenir famille d'accueil",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-famille-d-accueil"
+      },
+      {
+        "label": "Colonies de vacances du Département",
+        "path": "mes-services-au-quotidien/enfance-et-famille/colonies-de-vacances-du-departement"
+      },
+      {
+        "label": "Vie affective et santé sexuelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/vie-affective-et-sante-sexuelle"
+      }
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches": {
+    "seo": {
+      "title": "Présentation et démarches Enfance & Famille – Touraine",
+      "description": "Vue d'ensemble des services Enfance et Famille du Département de Touraine : PMI, ASE, garde d'enfants, adoption, famille d'accueil. Toutes les démarches."
+    },
+    "heroSubtitle": "Découvrez l'ensemble des services et démarches du Département en matière d'enfance, de famille et de parentalité en Indre-et-Loire.",
+    "intro": [
+      "Le Département de Touraine pilote et finance une large palette de services dédiés à la famille, de la grossesse jusqu'à l'adolescence. Cette page présente l'architecture de ces services et oriente vers chaque démarche.",
+      "Que vous soyez enceinte, parent en recherche d'un mode de garde, candidat à l'adoption ou souhaitant vous engager comme famille d'accueil, les équipes du Département vous accompagnent."
+    ],
+    "sections": [
+      {
+        "heading": "Les grands domaines d'intervention du Département",
+        "paragraphs": [
+          "L'action du Département en faveur de l'enfance et de la famille s'articule autour de quatre grands domaines : la prévention et le suivi médico-social (PMI), la protection de l'enfance (ASE), le soutien aux modes d'accueil du jeune enfant, et l'accompagnement à la parentalité."
+        ],
+        "bullets": [
+          "PMI : 22 centres répartis sur l'ensemble du département",
+          "ASE : accompagnement de plusieurs centaines d'enfants confiés chaque année",
+          "Plus de 4 500 assistantes maternelles agréées en Indre-et-Loire",
+          "Soutien financier aux structures d'accueil collectif (crèches, micro-crèches)"
+        ]
+      },
+      {
+        "heading": "Le parcours type d'une famille en Touraine",
+        "paragraphs": [
+          "Dès l'annonce d'une grossesse, les futurs parents peuvent prendre contact avec une sage-femme ou une infirmière de la PMI pour un entretien prénatal précoce. Ce premier contact est gratuit, confidentiel et ouvert à toutes les familles, quel que soit leur lieu de résidence.",
+          "Après la naissance, les consultations de nourrissons en PMI permettent de suivre la croissance de l'enfant, de réaliser les vaccinations réglementaires et d'orienter les familles vers les services adaptés à leurs besoins."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Protection de l'enfance : missions de l'ASE",
+        "paragraphs": [
+          "L'Aide Sociale à l'Enfance intervient lorsqu'un enfant est en situation de danger ou de risque. Elle peut proposer des mesures d'accompagnement à domicile (AED, AEMO) ou, si nécessaire, prendre en charge l'enfant dans une famille d'accueil ou un établissement spécialisé.",
+          "Le Département recrute et forme des assistants familiaux pour accueillir ces enfants dans un cadre familial chaleureux et sécurisant."
+        ],
+        "bullets": [
+          "Aide éducative à domicile (AED)",
+          "Accueil chez un assistant familial agréé par le Département",
+          "Accompagnement des jeunes majeurs jusqu'à 21 ans",
+          "Adoption nationale et internationale via l'OAA du Département"
+        ]
+      },
+      {
+        "heading": "Vie affective, sexuelle et santé des jeunes",
+        "paragraphs": [
+          "Les Centres de Planification et d'Éducation Familiale (CPEF) du Département offrent des consultations gratuites et confidentielles aux jeunes et aux adultes : contraception, suivi gynécologique, dépistage des IST, écoute et orientation."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Séjours et loisirs pour les enfants",
+        "paragraphs": [
+          "Le Département organise chaque année des colonies de vacances et des séjours de loisirs à tarifs modulés selon les revenus des familles. Ces séjours permettent aux enfants de 6 à 17 ans de découvrir de nouvelles activités dans un cadre éducatif de qualité."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment contacter la PMI la plus proche de chez moi ?",
+        "a": "Vous pouvez appeler le 02 47 31 47 31 ou écrire à pmi@touraine.fr pour connaître les coordonnées du centre PMI de votre secteur et prendre rendez-vous."
+      },
+      {
+        "q": "Qui peut bénéficier des services du Département ?",
+        "a": "L'ensemble des familles résidant en Indre-et-Loire peut accéder aux services de PMI et d'accompagnement à la parentalité, sans condition de ressources. Certains dispositifs sont soumis à des critères spécifiques (adoption, famille d'accueil)."
+      },
+      {
+        "q": "Où trouver la liste des assistantes maternelles agréées ?",
+        "a": "Le site monenfant.fr recense toutes les assistantes maternelles agréées par le Département. Vous pouvez filtrer par commune, disponibilité et horaires."
+      }
+    ],
+    "related": [
+      {
+        "label": "J'attends un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/j-attends-un-enfant"
+      },
+      {
+        "label": "Je veux adopter un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-adopter-un-enfant"
+      },
+      {
+        "label": "Je veux faire garder mon enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-faire-garder-mon-enfant"
+      },
+      {
+        "label": "Vie affective et santé sexuelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/vie-affective-et-sante-sexuelle"
+      },
+      {
+        "label": "Devenir assistante maternelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-assistant-e-maternel-le"
+      },
+      {
+        "label": "Devenir famille d'accueil",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-famille-d-accueil"
+      },
+      {
+        "label": "Colonies de vacances du Département",
+        "path": "mes-services-au-quotidien/enfance-et-famille/colonies-de-vacances-du-departement"
+      }
+    ],
+    "downloads": [
+      "Guide des services Enfance et Famille du Département (PDF)",
+      "Carnet d'adresses des centres PMI d'Indre-et-Loire (PDF)"
+    ],
+    "contactCta": true
+  },
+  "mes-services-au-quotidien/enfance-et-famille/j-attends-un-enfant": {
+    "seo": {
+      "title": "J'attends un enfant – PMI Touraine",
+      "description": "Grossesse en Indre-et-Loire : suivi PMI gratuit, entretien prénatal précoce, préparation à la naissance. Le Département accompagne les futurs parents."
+    },
+    "heroSubtitle": "Vous êtes enceinte ? Le Département de Touraine vous propose un suivi gratuit et confidentiel tout au long de votre grossesse grâce aux équipes de la PMI.",
+    "intro": [
+      "Dès le début de votre grossesse, les professionnels de la Protection Maternelle et Infantile (PMI) du Département sont là pour vous accompagner : sages-femmes, infirmières, médecins et travailleurs sociaux œuvrent ensemble pour votre santé et celle de votre bébé.",
+      "Les services PMI sont gratuits, accessibles sans rendez-vous pour certaines consultations, et ouverts à toutes les futures mamans résidant en Indre-et-Loire."
+    ],
+    "sections": [
+      {
+        "heading": "L'entretien prénatal précoce (EPP)",
+        "paragraphs": [
+          "L'entretien prénatal précoce est un moment d'échange privilégié proposé à toutes les femmes enceintes, idéalement avant la fin du 4e mois de grossesse. Il permet d'identifier vos besoins, de vous informer sur le suivi de grossesse et de vous orienter vers les bons professionnels.",
+          "Cet entretien est réalisé par une sage-femme ou un médecin PMI, gratuitement et en toute confidentialité."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Le suivi de grossesse en PMI",
+        "paragraphs": [
+          "Les centres PMI assurent des consultations de suivi prénatal pour les futures mamans qui le souhaitent. Ces consultations complètent le suivi médical habituel et sont particulièrement adaptées aux situations de vulnérabilité (isolement, précarité, première grossesse)."
+        ],
+        "bullets": [
+          "Surveillance médicale de la mère et du fœtus",
+          "Bilans nutritionnels et conseils hygiène de vie",
+          "Orientation vers les aides sociales si nécessaire",
+          "Préparation à l'allaitement maternel"
+        ]
+      },
+      {
+        "heading": "La préparation à la naissance",
+        "paragraphs": [
+          "Des séances de préparation à l'accouchement sont proposées en centre PMI. Animées par des sages-femmes, elles abordent le déroulement de l'accouchement, les soins du nouveau-né, le retour à domicile et la période post-natale."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Après la naissance : le suivi post-natal",
+        "paragraphs": [
+          "Dans les jours suivant votre retour à domicile, une sage-femme ou une infirmière PMI peut vous rendre visite pour s'assurer du bon rétablissement de la maman et du bon démarrage de bébé. Ces visites sont gratuites et sur rendez-vous."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Dois-je déclarer ma grossesse à la PMI ?",
+        "a": "Il n'y a pas d'obligation, mais il est fortement conseillé de contacter la PMI de votre secteur dès le début de la grossesse pour bénéficier de l'entretien prénatal précoce et des consultations de suivi."
+      },
+      {
+        "q": "Les consultations PMI sont-elles remboursées ?",
+        "a": "Oui, les consultations PMI sont gratuites pour les bénéficiaires. Elles sont financées par le Département d'Indre-et-Loire et ne nécessitent aucune avance de frais."
+      },
+      {
+        "q": "Puis-je aller à la PMI si j'ai déjà une sage-femme libérale ?",
+        "a": "Oui, les services PMI sont complémentaires et non exclusifs. Vous pouvez tout à fait combiner le suivi avec votre sage-femme libérale et les consultations PMI."
+      }
+    ],
+    "related": [
+      {
+        "label": "Je veux faire garder mon enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-faire-garder-mon-enfant"
+      },
+      {
+        "label": "Vie affective et santé sexuelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/vie-affective-et-sante-sexuelle"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "CAF Indre-et-Loire",
+        "url": "https://www.caf.fr"
+      }
+    ],
+    "downloads": [
+      "Guide de la future maman en Touraine (PDF)",
+      "Carnet d'adresses des centres PMI (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Déclarez votre grossesse",
+          "text": "Effectuez la déclaration de grossesse auprès de votre médecin ou sage-femme avant la fin du 3e mois. Envoyez le volet destiné à la CAF pour déclencher vos droits aux allocations."
+        },
+        {
+          "title": "Étape 2 : Contactez la PMI de votre secteur",
+          "text": "Appelez le 02 47 31 47 31 ou écrivez à pmi@touraine.fr pour prendre rendez-vous avec une sage-femme PMI et organiser votre entretien prénatal précoce."
+        },
+        {
+          "title": "Étape 3 : Participez à l'entretien prénatal précoce",
+          "text": "Lors de cette rencontre gratuite et confidentielle, la sage-femme évalue vos besoins, vous informe sur le suivi de grossesse et vous oriente si nécessaire vers des services complémentaires."
+        },
+        {
+          "title": "Étape 4 : Suivez votre grossesse en PMI",
+          "text": "Assistez aux consultations prénatales et aux séances de préparation à la naissance proposées par la PMI, en complément de votre suivi médical habituel."
+        },
+        {
+          "title": "Étape 5 : Bénéficiez du suivi post-natal à domicile",
+          "text": "Après la naissance, signalez-vous à la PMI pour bénéficier d'une visite à domicile d'une sage-femme ou infirmière afin de vous accompagner durant les premières semaines."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service PMI du Département",
+          "role": "Direction Enfance & Famille",
+          "email": "pmi@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/je-veux-adopter-un-enfant": {
+    "seo": {
+      "title": "Je veux adopter un enfant – Département de Touraine",
+      "description": "Adoption en Indre-et-Loire : obtenez votre agrément, participez aux réunions d'information, découvrez les étapes du projet adoptif avec le Département."
+    },
+    "heroSubtitle": "Vous souhaitez adopter un enfant ? Le Département d'Indre-et-Loire vous accompagne dans les différentes étapes de votre projet adoptif, de l'agrément jusqu'à l'accueil de l'enfant.",
+    "intro": [
+      "L'adoption est un acte fondateur qui engage profondément les candidats et l'enfant. Le Département d'Indre-et-Loire, via ses services d'Aide Sociale à l'Enfance, est votre interlocuteur principal pour l'obtention de l'agrément en vue d'adoption.",
+      "Que vous envisagiez une adoption nationale ou internationale, nos équipes pluridisciplinaires vous guident tout au long du processus, dans le respect du projet de vie de l'enfant."
+    ],
+    "sections": [
+      {
+        "heading": "Qu'est-ce que l'agrément en vue d'adoption ?",
+        "paragraphs": [
+          "L'agrément est une autorisation administrative délivrée par le Président du Conseil Départemental, attestant que votre famille présente les garanties nécessaires sur les plans éducatif, psychologique et familial pour accueillir un enfant adopté.",
+          "L'agrément est valable 5 ans et peut être renouvelé. Il est obligatoire pour toute adoption, qu'elle soit nationale (pupille de l'État) ou internationale."
+        ],
+        "bullets": [
+          "Délai légal d'instruction : 9 mois maximum",
+          "Validité de l'agrément : 5 ans, renouvelable",
+          "Applicable pour l'adoption nationale et internationale",
+          "Enquête sociale et évaluation psychologique incluses"
+        ]
+      },
+      {
+        "heading": "Adoption nationale et internationale",
+        "paragraphs": [
+          "En France, l'adoption nationale concerne principalement les pupilles de l'État. Le nombre d'enfants adoptables est limité, et les délais d'attente peuvent être longs.",
+          "Pour l'adoption internationale, le Département travaille en lien avec l'Autorité Centrale pour l'Adoption Internationale (ACAI) et les organismes autorisés pour l'adoption (OAA). Le site adoption.gouv.fr vous informera sur les pays ouverts à l'adoption et les procédures spécifiques."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Accompagnement post-adoption",
+        "paragraphs": [
+          "Après l'arrivée de l'enfant, les services ASE du Département peuvent proposer un accompagnement aux familles adoptantes. Cet accompagnement est destiné à soutenir l'enfant et ses parents dans la construction des liens d'attachement et l'intégration familiale."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Qui peut déposer une demande d'agrément en vue d'adoption ?",
+        "a": "Toute personne majeure, célibataire ou en couple (marié ou pacsé depuis au moins 2 ans), résidant en Indre-et-Loire peut déposer une demande d'agrément. Des conditions d'âge et de stabilité familiale sont examinées lors de l'évaluation."
+      },
+      {
+        "q": "L'agrément garantit-il l'adoption d'un enfant ?",
+        "a": "Non, l'agrément est une condition nécessaire mais ne garantit pas l'adoption. Il vous autorise à poursuivre votre démarche, mais l'apparentement (mise en relation avec un enfant) dépend de nombreux facteurs."
+      },
+      {
+        "q": "Puis-je adopter à l'étranger avec un agrément français ?",
+        "a": "Oui, un agrément délivré par le Département est reconnu pour l'adoption internationale. Vous devrez ensuite vous rapprocher d'un OAA ou de l'ACAI pour la procédure dans le pays concerné."
+      }
+    ],
+    "related": [
+      {
+        "label": "Devenir famille d'accueil",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-famille-d-accueil"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "adoption.gouv.fr – Autorité centrale adoption internationale",
+        "url": "https://www.adoption.gouv.fr"
+      },
+      {
+        "label": "Service-public.fr – Adoption",
+        "url": "https://www.service-public.fr"
+      }
+    ],
+    "downloads": [
+      "Dossier de demande d'agrément en vue d'adoption (PDF)",
+      "Guide du candidat à l'adoption en Indre-et-Loire (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Participez à une réunion d'information",
+          "text": "Avant tout dépôt de dossier, assistez à une réunion d'information collective organisée par l'ASE du Département. Cette session présente les enjeux de l'adoption et les étapes de la procédure d'agrément."
+        },
+        {
+          "title": "Étape 2 : Déposez votre demande d'agrément",
+          "text": "Retirez le dossier de demande auprès de l'ASE ou téléchargez-le, puis renvoyez-le complet (pièces justificatives incluses) à la Direction Enfance & Famille du Département."
+        },
+        {
+          "title": "Étape 3 : Participez à l'évaluation",
+          "text": "Un travailleur social et un psychologue de l'ASE réalisent des entretiens à votre domicile et au bureau afin d'évaluer votre projet adoptif, vos motivations et votre environnement familial."
+        },
+        {
+          "title": "Étape 4 : Recevez la décision d'agrément",
+          "text": "À l'issue de l'instruction (9 mois maximum), vous recevez la décision du Président du Conseil Départemental. En cas de refus, vous pouvez formuler des observations dans les 15 jours."
+        },
+        {
+          "title": "Étape 5 : Engagez votre démarche d'adoption",
+          "text": "Titulaire de l'agrément, vous pouvez vous inscrire auprès du Conseil National pour l'Accès aux Origines Personnelles (CNAOP), d'un OAA ou de l'ACAI selon votre projet (national ou international)."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service Adoption – ASE du Département",
+          "role": "Direction Enfance & Famille",
+          "email": "ase@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/je-veux-faire-garder-mon-enfant": {
+    "seo": {
+      "title": "Je veux faire garder mon enfant – Touraine",
+      "description": "Trouver un mode de garde en Indre-et-Loire : assistantes maternelles agréées, crèches, Relais Petite Enfance. Le Département vous aide dans vos démarches."
+    },
+    "heroSubtitle": "Assistante maternelle, crèche, micro-crèche ou garde à domicile : le Département de Touraine vous guide pour trouver le mode de garde le mieux adapté à votre famille.",
+    "intro": [
+      "Trouver un mode de garde fiable et adapté est une préoccupation centrale pour les parents qui travaillent. En Indre-et-Loire, le Département agrée et contrôle les assistantes maternelles, et soutient les structures d'accueil collectif sur l'ensemble du territoire.",
+      "Grâce au portail monenfant.fr et au réseau des Relais Petite Enfance (RPE), vous pouvez identifier les disponibilités à proximité de votre domicile et être accompagné dans vos démarches."
+    ],
+    "sections": [
+      {
+        "heading": "Les assistantes maternelles agréées",
+        "paragraphs": [
+          "L'assistante maternelle est une professionnelle agréée par le Département qui accueille des enfants à son propre domicile. Elle offre un cadre individuel et chaleureux, souvent apprécié pour les jeunes enfants.",
+          "En Indre-et-Loire, plus de 4 500 assistantes maternelles sont agréées par le Département. Leurs coordonnées et disponibilités sont accessibles sur monenfant.fr."
+        ],
+        "bullets": [
+          "Agrément délivré et contrôlé par le Département",
+          "Accueil de 1 à 4 enfants simultanément",
+          "Contrat de travail avec les parents (droit du travail)",
+          "Aide au financement via le complément de libre choix du mode de garde (CMG) de la CAF"
+        ]
+      },
+      {
+        "heading": "Les structures d'accueil collectif",
+        "paragraphs": [
+          "Les crèches collectives, multi-accueil et micro-crèches accueillent des enfants de moins de 4 ans dans un environnement collectif stimulant. Les places sont attribuées par les gestionnaires (communes, associations, entreprises) selon des critères définis.",
+          "Le Département soutient financièrement les structures d'accueil collectif pour maintenir un réseau de qualité et accessible sur l'ensemble du territoire d'Indre-et-Loire."
+        ],
+        "bullets": [
+          "Crèches collectives (20 à 60 places)",
+          "Micro-crèches (jusqu'à 12 places)",
+          "Multi-accueil : accueil régulier et occasionnel",
+          "Haltes-garderies pour accueil ponctuel"
+        ]
+      },
+      {
+        "heading": "Les Relais Petite Enfance (RPE)",
+        "paragraphs": [
+          "Les RPE sont des lieux de conseil, d'information et de rencontre pour les parents et les assistantes maternelles. Animés par des professionnels de la petite enfance, ils vous aident à comprendre vos droits et obligations, à trouver un mode de garde et à tisser des liens avec d'autres familles."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Les aides financières disponibles",
+        "paragraphs": [
+          "Plusieurs dispositifs permettent de réduire le coût de la garde : le complément de libre choix du mode de garde (CMG) de la CAF, le crédit d'impôt pour frais de garde, et les aides proposées par certains employeurs via les chèques emploi service universel (CESU)."
+        ],
+        "bullets": [
+          "CMG de la CAF selon revenus et âge de l'enfant",
+          "Crédit d'impôt de 50 % des dépenses de garde",
+          "CESU préfinancé par certains employeurs",
+          "Aide des communes et intercommunalités"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Comment trouver une assistante maternelle disponible près de chez moi ?",
+        "a": "Rendez-vous sur monenfant.fr et saisissez votre commune. Vous accéderez à la liste des assistantes maternelles agréées par le Département, avec leurs disponibilités et coordonnées."
+      },
+      {
+        "q": "Comment m'inscrire en crèche ?",
+        "a": "Les inscriptions en crèche se font directement auprès de la structure ou via la mairie de votre commune. Renseignez-vous auprès de votre mairie ou du gestionnaire de la crèche pour connaître les modalités."
+      },
+      {
+        "q": "Que faire si je ne trouve pas de place ?",
+        "a": "Contactez le RPE de votre secteur. Les conseillers RPE peuvent vous aider à élargir votre recherche, vous informer sur les listes d'attente et vous orienter vers des solutions alternatives (garde partagée, accueil d'urgence)."
+      }
+    ],
+    "related": [
+      {
+        "label": "Devenir assistante maternelle",
+        "path": "mes-services-au-quotidien/enfance-et-famille/devenir-assistant-e-maternel-le"
+      },
+      {
+        "label": "J'attends un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/j-attends-un-enfant"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "Trouver un mode de garde – monenfant.fr",
+        "url": "https://www.monenfant.fr"
+      },
+      {
+        "label": "CAF – Complément de libre choix du mode de garde",
+        "url": "https://www.caf.fr"
+      }
+    ],
+    "downloads": [
+      "Guide des modes de garde en Indre-et-Loire (PDF)",
+      "Liste des Relais Petite Enfance du département (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Évaluez vos besoins",
+          "text": "Définissez vos critères : horaires, localisation, âge de l'enfant, type d'accueil souhaité. Cette étape vous permettra de cibler le mode de garde le plus adapté à votre situation professionnelle et familiale."
+        },
+        {
+          "title": "Étape 2 : Recherchez une place disponible",
+          "text": "Consultez monenfant.fr pour repérer les assistantes maternelles agréées disponibles et les structures d'accueil collectif de votre secteur. Contactez également le RPE de votre commune."
+        },
+        {
+          "title": "Étape 3 : Rencontrez les professionnels",
+          "text": "Organisez des visites et des entretiens avec les assistantes maternelles ou les responsables de crèche. Vérifiez que les valeurs éducatives et les conditions pratiques correspondent à vos attentes."
+        },
+        {
+          "title": "Étape 4 : Formalisez l'accord",
+          "text": "Signez un contrat de travail avec l'assistante maternelle (PAJEMPLOI) ou un contrat d'accueil avec la crèche. Conservez tous les documents pour vos déclarations CAF et fiscales."
+        },
+        {
+          "title": "Étape 5 : Demandez les aides financières",
+          "text": "Déposez votre demande de CMG auprès de la CAF dès le début de la garde. Renseignez-vous également sur le crédit d'impôt et les aides CESU de votre employeur."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service PMI – Agrément assistantes maternelles",
+          "role": "Direction Enfance & Famille",
+          "email": "pmi@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/vie-affective-et-sante-sexuelle": {
+    "seo": {
+      "title": "Vie affective et santé sexuelle – Touraine",
+      "description": "Contraception, IST, planification familiale : les centres CPEF du Département d'Indre-et-Loire offrent écoute, conseils et soins gratuits et confidentiels."
+    },
+    "heroSubtitle": "Le Département de Touraine propose des consultations gratuites et confidentielles sur la contraception, la santé sexuelle et la vie affective dans ses Centres de Planification et d'Éducation Familiale.",
+    "intro": [
+      "La santé sexuelle et affective concerne tout le monde, à tout âge. Les Centres de Planification et d'Éducation Familiale (CPEF) du Département d'Indre-et-Loire offrent un espace d'écoute, de conseil et de soins, sans jugement et sans avance de frais.",
+      "Contraception, dépistage des infections sexuellement transmissibles (IST), suivi gynécologique, accompagnement psychologique : nos équipes sont à votre disposition en toute confidentialité."
+    ],
+    "sections": [
+      {
+        "heading": "Les Centres de Planification et d'Éducation Familiale (CPEF)",
+        "paragraphs": [
+          "Les CPEF sont des structures départementales qui assurent des missions de prévention, d'éducation à la santé sexuelle et de soins. Ils accueillent les jeunes et les adultes, avec ou sans rendez-vous pour certaines permanences.",
+          "Les consultations sont gratuites et anonymes pour les mineurs. Pour les adultes, les actes sont pris en charge à 100 % par l'Assurance Maladie sans avance de frais."
+        ],
+        "bullets": [
+          "Prescription et délivrance de contraceptifs (y compris contraception d'urgence)",
+          "Dépistage et traitement des IST et du VIH",
+          "Consultations gynécologiques et suivi du frottis cervical",
+          "Accompagnement psychologique et soutien à la vie affective",
+          "Information sur l'IVG et orientation vers les structures compétentes"
+        ]
+      },
+      {
+        "heading": "Gratuité et confidentialité : principes fondamentaux",
+        "paragraphs": [
+          "Les CPEF du Département garantissent la gratuité des consultations et des contraceptifs pour les mineurs, sans qu'aucune information ne soit communiquée aux parents ou tuteurs légaux sauf demande expresse de l'intéressé.",
+          "Pour les majeurs, les soins sont remboursés à 100 % sans avance de frais sur présentation de la carte Vitale. Les personnes sans couverture sociale bénéficient d'une prise en charge spécifique."
+        ],
+        "bullets": []
+      },
+      {
+        "heading": "Éducation à la vie affective et sexuelle",
+        "paragraphs": [
+          "Les CPEF interviennent également dans les collèges, lycées et structures de jeunesse pour des séances d'éducation à la vie affective et sexuelle. Ces interventions visent à informer les jeunes sur le consentement, les relations saines, la contraception et la prévention des IST."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Puis-je aller au CPEF sans rendez-vous ?",
+        "a": "Certaines permanences CPEF sont accessibles sans rendez-vous, notamment pour la contraception d'urgence. Contactez le centre PMI de votre secteur au 02 47 31 47 31 pour connaître les horaires de permanences sans rendez-vous."
+      },
+      {
+        "q": "Mes parents seront-ils informés si je vais au CPEF en tant que mineur ?",
+        "a": "Non. Les consultations CPEF sont strictement confidentielles pour les mineurs. Aucune information ne sera communiquée à vos parents ou représentants légaux sans votre accord."
+      },
+      {
+        "q": "Le CPEF peut-il m'orienter vers une IVG ?",
+        "a": "Oui. Les professionnels du CPEF peuvent vous informer sur vos droits et vous orienter vers les structures hospitalières pratiquant l'IVG dans le département. Un accompagnement psychologique peut également vous être proposé."
+      }
+    ],
+    "related": [
+      {
+        "label": "J'attends un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/j-attends-un-enfant"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "Service-public.fr – Contraception et planification familiale",
+        "url": "https://www.service-public.fr"
+      }
+    ],
+    "downloads": [
+      "Liste des centres CPEF d'Indre-et-Loire et horaires (PDF)",
+      "Guide contraception et IST – Département de Touraine (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Identifiez le CPEF le plus proche",
+          "text": "Consultez la liste des centres CPEF du Département ou appelez le 02 47 31 47 31 pour connaître le centre le plus proche de votre domicile et ses horaires d'ouverture."
+        },
+        {
+          "title": "Étape 2 : Prenez rendez-vous ou venez en permanence",
+          "text": "Appelez le centre choisi pour prendre rendez-vous, ou présentez-vous directement lors des permanences sans rendez-vous (notamment pour la contraception d'urgence)."
+        },
+        {
+          "title": "Étape 3 : Consultez un professionnel de santé",
+          "text": "Lors de votre consultation, un médecin, une sage-femme ou une infirmière vous accueille pour répondre à vos questions, réaliser un bilan de santé sexuelle et vous prescrire une contraception si nécessaire."
+        },
+        {
+          "title": "Étape 4 : Bénéficiez d'un accompagnement si nécessaire",
+          "text": "Si vous rencontrez des difficultés affectives ou psychologiques, une orientation vers un psychologue ou un travailleur social du CPEF peut être proposée dans le cadre du même rendez-vous."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Centres de Planification (CPEF) – PMI du Département",
+          "role": "Direction Enfance & Famille",
+          "email": "pmi@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/devenir-assistant-e-maternel-le": {
+    "seo": {
+      "title": "Devenir assistante maternelle – Département Touraine",
+      "description": "Vous souhaitez devenir assistante maternelle en Indre-et-Loire ? Découvrez les conditions d'agrément, la formation obligatoire et l'accompagnement du Département."
+    },
+    "heroSubtitle": "Exercer le métier d'assistant(e) maternel(le) en Indre-et-Loire : conditions d'agrément, formation obligatoire, rôle de la PMI et accompagnement tout au long de votre activité.",
+    "intro": [
+      "L'assistante maternelle est un professionnel de la petite enfance agréé par le Département, qui accueille des enfants au sein de son propre domicile. Ce métier passionnant requiert bienveillance, dynamisme et sens des responsabilités.",
+      "En Indre-et-Loire, c'est le service PMI du Département qui instruit les demandes d'agrément, évalue les conditions d'accueil et accompagne les assistantes maternelles tout au long de leur exercice professionnel."
+    ],
+    "sections": [
+      {
+        "heading": "Les conditions pour exercer",
+        "paragraphs": [
+          "Pour obtenir l'agrément, vous devez répondre à plusieurs critères : présenter les garanties nécessaires pour accueillir des enfants en bas âge, disposer d'un logement adapté et sécurisé, et justifier d'une bonne santé physique et mentale.",
+          "L'agrément est délivré après une évaluation par les professionnels de la PMI à votre domicile. Il précise le nombre maximum d'enfants que vous êtes autorisé(e) à accueillir simultanément (en général 1 à 4 enfants)."
+        ],
+        "bullets": [
+          "Être majeur(e) et résider en Indre-et-Loire",
+          "Logement conforme aux normes de sécurité et d'hygiène",
+          "Casier judiciaire vierge (bulletin n°3)",
+          "Certificat médical d'aptitude professionnelle",
+          "Engagement à suivre la formation initiale obligatoire"
+        ]
+      },
+      {
+        "heading": "La formation obligatoire",
+        "paragraphs": [
+          "Avant l'accueil du premier enfant, vous devez suivre une formation initiale de 80 heures, dont un module de premiers secours. La formation complète (240 heures) est à réaliser dans les 5 ans suivant l'obtention de l'agrément.",
+          "Ces formations sont organisées par des organismes agréés par le Département et peuvent en partie être financées par votre Opérateur de Compétences (OPCO)."
+        ],
+        "bullets": [
+          "80 heures de formation avant le premier accueil",
+          "Module premiers secours (PSC1) obligatoire",
+          "240 heures de formation complète dans les 5 ans",
+          "Formation continue possible tout au long de la carrière"
+        ]
+      },
+      {
+        "heading": "L'exercice du métier au quotidien",
+        "paragraphs": [
+          "En tant qu'assistant(e) maternel(le) agréé(e), vous êtes salarié(e) des parents qui vous confient leur enfant. Vous établissez un contrat de travail individuel avec chaque famille, géré via le dispositif PAJEMPLOI.",
+          "Le Relais Petite Enfance (RPE) de votre secteur est un lieu de ressources, d'échanges et de professionnalisation pour les assistantes maternelles. Des temps d'activité en RPE peuvent être organisés pour les enfants accueillis."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Combien de temps dure la procédure d'agrément ?",
+        "a": "Le Département dispose d'un délai légal de 3 mois pour instruire votre demande à compter de la réception d'un dossier complet. Un accusé de réception vous sera adressé dès la réception de votre dossier."
+      },
+      {
+        "q": "Puis-je exercer à mon domicile et chez les parents ?",
+        "a": "L'agrément d'assistante maternelle vous autorise uniquement à accueillir des enfants à votre propre domicile. Si vous souhaitez garder des enfants au domicile des parents, il s'agit d'un statut différent (garde à domicile), qui n'est pas soumis à l'agrément PMI."
+      },
+      {
+        "q": "Mon agrément est-il automatiquement renouvelé ?",
+        "a": "Non, l'agrément doit être renouvelé à l'échéance (en général tous les 5 ans). Un contrôle de vos conditions d'accueil par la PMI est effectué avant tout renouvellement."
+      }
+    ],
+    "related": [
+      {
+        "label": "Je veux faire garder mon enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-faire-garder-mon-enfant"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "monenfant.fr – Devenir assistant maternel",
+        "url": "https://www.monenfant.fr"
+      }
+    ],
+    "downloads": [
+      "Dossier de demande d'agrément assistante maternelle (PDF)",
+      "Guide du métier d'assistante maternelle en Touraine (PDF)",
+      "Règlement départemental d'agrément (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Renseignez-vous sur le métier",
+          "text": "Avant de déposer votre demande, participez à une réunion d'information organisée par la PMI ou contactez le RPE de votre secteur pour obtenir une présentation complète du métier et de ses exigences."
+        },
+        {
+          "title": "Étape 2 : Constituez votre dossier de demande d'agrément",
+          "text": "Téléchargez ou retirez le dossier auprès du service PMI. Rassemblez les pièces requises : certificat médical, extrait de casier judiciaire, justificatif de domicile, photos du logement et de l'espace d'accueil."
+        },
+        {
+          "title": "Étape 3 : Recevez la visite d'évaluation à domicile",
+          "text": "Un professionnel PMI (puéricultrice ou infirmière) effectue une visite à votre domicile pour évaluer les conditions d'accueil, de sécurité et votre motivation. Un entretien individuel complétera cette visite."
+        },
+        {
+          "title": "Étape 4 : Obtenez votre agrément",
+          "text": "À l'issue de l'instruction, vous recevez la décision du Président du Conseil Départemental. L'agrément précise le nombre d'enfants autorisés. Vous pouvez alors suivre la formation initiale et accueillir vos premiers enfants."
+        },
+        {
+          "title": "Étape 5 : Suivez la formation obligatoire et inscrivez-vous sur monenfant.fr",
+          "text": "Inscrivez-vous à la formation initiale de 80 heures avant le premier accueil, puis référencez-vous sur monenfant.fr pour être visible des familles qui recherchent un mode de garde."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service PMI – Agrément assistantes maternelles",
+          "role": "Direction Enfance & Famille",
+          "email": "pmi@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/devenir-famille-d-accueil": {
+    "seo": {
+      "title": "Devenir famille d'accueil – Département de Touraine",
+      "description": "Devenez assistant familial en Indre-et-Loire : agrément, formation, conditions d'accueil et accompagnement par l'ASE pour accueillir des enfants confiés."
+    },
+    "heroSubtitle": "Accueillir un enfant confié par l'Aide Sociale à l'Enfance dans votre famille est un engagement humain fort. Le Département de Touraine accompagne les assistants familiaux à chaque étape.",
+    "intro": [
+      "L'assistant familial est un professionnel salarié du Département qui accueille à son domicile, de manière permanente, des enfants confiés à l'Aide Sociale à l'Enfance (ASE). Ce n'est pas du bénévolat : il s'agit d'un véritable métier, reconnu et rémunéré.",
+      "Si vous souhaitez offrir un cadre de vie familial stable à des enfants en situation de vulnérabilité, le Département vous accompagne dans votre demande d'agrément, votre formation et votre exercice professionnel quotidien."
+    ],
+    "sections": [
+      {
+        "heading": "Le métier d'assistant familial",
+        "paragraphs": [
+          "L'assistant familial intègre un enfant confié par l'ASE au sein de sa propre famille. La prise en charge est permanente (jours, nuits, weekends) et vise à offrir à l'enfant un environnement stable, sécurisant et bienveillant, souvent sur plusieurs années.",
+          "L'assistant familial travaille en lien étroit avec les équipes éducatives de l'ASE, les travailleurs sociaux et les familles biologiques de l'enfant, dans le cadre d'un projet individualisé pour chaque enfant accueilli."
+        ],
+        "bullets": [
+          "Salarié du Département d'Indre-et-Loire",
+          "Accueil de 1 à 3 enfants simultanément selon l'agrément",
+          "Rémunération mensuelle et congés payés",
+          "Accompagnement par les équipes ASE tout au long de l'accueil"
+        ]
+      },
+      {
+        "heading": "Conditions et procédure d'agrément",
+        "paragraphs": [
+          "L'agrément d'assistant familial est délivré par le Président du Conseil Départemental après une évaluation des candidats par les professionnels ASE. Toute personne majeure, en bonne santé, disposant d'un logement adapté et motivée par l'accueil d'enfants en difficulté peut déposer une demande.",
+          "L'évaluation porte sur vos motivations, votre mode de vie familiale, votre capacité à travailler en équipe pluridisciplinaire et à gérer des situations complexes."
+        ],
+        "bullets": [
+          "Être majeur(e) et résider en Indre-et-Loire",
+          "Logement permettant d'héberger l'enfant dans de bonnes conditions",
+          "Absence de condamnation pénale incompatible avec l'accueil d'enfants",
+          "Aptitude médicale attestée par un médecin agréé"
+        ]
+      },
+      {
+        "heading": "La formation des assistants familiaux",
+        "paragraphs": [
+          "La formation initiale de 60 heures doit être suivie avant le premier accueil ou dans les 3 mois qui suivent. Une formation qualifiante de 240 heures (Diplôme d'État d'Assistant Familial – DEAF) est ensuite obligatoire dans les 3 ans.",
+          "Ces formations sont organisées par des établissements agréés et en partie prises en charge par le Département."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "Quelle est la différence entre assistant familial et assistante maternelle ?",
+        "a": "L'assistante maternelle accueille des enfants dont les parents sont présents (garde habituelle). L'assistant familial accueille des enfants confiés par l'ASE qui ne peuvent pas vivre dans leur famille d'origine : l'accueil est permanent et s'inscrit dans une mesure de protection de l'enfance."
+      },
+      {
+        "q": "Mon conjoint doit-il aussi être évalué ?",
+        "a": "Oui. L'évaluation porte sur l'ensemble du foyer familial. Votre conjoint ou partenaire sera rencontré par les équipes ASE dans le cadre de l'instruction de votre demande d'agrément."
+      },
+      {
+        "q": "Puis-je refuser un accueil proposé par l'ASE ?",
+        "a": "Oui, dans certaines limites. En concertation avec les équipes ASE, vous pouvez exprimer vos souhaits concernant l'âge et le profil de l'enfant. Toutefois, le refus systématique pourrait remettre en cause le maintien de votre agrément."
+      }
+    ],
+    "related": [
+      {
+        "label": "Je veux adopter un enfant",
+        "path": "mes-services-au-quotidien/enfance-et-famille/je-veux-adopter-un-enfant"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "Service-public.fr – Assistant familial",
+        "url": "https://www.service-public.fr"
+      }
+    ],
+    "downloads": [
+      "Dossier de demande d'agrément d'assistant familial (PDF)",
+      "Guide du métier d'assistant familial en Touraine (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Informez-vous sur le métier",
+          "text": "Contactez le service ASE du Département pour assister à une réunion d'information collective sur le métier d'assistant familial, ses réalités quotidiennes et les engagements qu'il implique pour toute la famille."
+        },
+        {
+          "title": "Étape 2 : Déposez votre demande d'agrément",
+          "text": "Retirez ou téléchargez le dossier de demande d'agrément, complétez-le et renvoyez-le au service ASE avec les pièces justificatives demandées. Le Département accusera réception de votre dossier complet."
+        },
+        {
+          "title": "Étape 3 : Participez à l'évaluation",
+          "text": "Des travailleurs sociaux et un psychologue de l'ASE rencontrent tous les membres du foyer, visitent votre domicile et évaluent votre projet sur les plans humain, familial et professionnel."
+        },
+        {
+          "title": "Étape 4 : Obtenez votre agrément et suivez la formation initiale",
+          "text": "Après notification de l'agrément, inscrivez-vous à la formation initiale de 60 heures obligatoire avant ou peu après le premier accueil, puis engagez-vous dans la formation qualifiante DEAF dans les 3 ans."
+        },
+        {
+          "title": "Étape 5 : Accueillez le premier enfant confié",
+          "text": "En lien avec votre référent ASE, vous êtes accompagné(e) lors de l'arrivée de l'enfant. Des temps de supervision et de soutien professionnel sont proposés tout au long de la prise en charge."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service Familles d'Accueil – ASE du Département",
+          "role": "Direction Enfance & Famille",
+          "email": "ase@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  },
+  "mes-services-au-quotidien/enfance-et-famille/colonies-de-vacances-du-departement": {
+    "seo": {
+      "title": "Colonies de vacances du Département – Touraine",
+      "description": "Le Département d'Indre-et-Loire organise des séjours de vacances pour les enfants de 6 à 17 ans. Tarifs modulés, inscriptions et conditions sur touraine.fr."
+    },
+    "heroSubtitle": "Chaque été, le Département de Touraine propose des séjours de vacances pour les enfants et adolescents de 6 à 17 ans, avec des tarifs adaptés aux revenus de chaque famille.",
+    "intro": [
+      "Les colonies de vacances du Département sont des séjours éducatifs et de loisirs organisés chaque année pour les enfants et les jeunes d'Indre-et-Loire. Activités de plein air, découverte culturelle, sport et vie collective : ces séjours sont conçus pour favoriser le développement et l'autonomie.",
+      "Les tarifs sont modulés en fonction des revenus familiaux et des quotients familiaux CAF, afin de rendre ces séjours accessibles au plus grand nombre."
+    ],
+    "sections": [
+      {
+        "heading": "Les séjours proposés",
+        "paragraphs": [
+          "Le Département organise différents types de séjours selon les tranches d'âge et les thématiques : séjours nature et randonnée, séjours sportifs, camps itinérants, séjours linguistiques et séjours culturels.",
+          "Les destinations varient chaque année : littoral, montagne, campagne ou milieu urbain. Tous les séjours sont encadrés par des animateurs diplômés (BAFA/BAFD) et se déroulent dans des centres agréés."
+        ],
+        "bullets": [
+          "Séjours été de 7 à 14 jours",
+          "Tranches d'âge : 6–10 ans, 11–13 ans, 14–17 ans",
+          "Activités nature, sport, culture, langues",
+          "Encadrement par animateurs titulaires du BAFA/BAFD",
+          "Centres agréés par le Ministère chargé de la Jeunesse"
+        ]
+      },
+      {
+        "heading": "Tarifs et aides financières",
+        "paragraphs": [
+          "Le coût des séjours est calculé en fonction du quotient familial CAF. Des aides complémentaires peuvent être sollicitées auprès de la CAF (bons vacances), de la Mutuelle Familiale ou de certains employeurs.",
+          "Des places sont réservées en priorité aux enfants bénéficiant de mesures de protection de l'enfance ou suivis par les services sociaux du Département."
+        ],
+        "bullets": [
+          "Tarification sur la base du quotient familial CAF",
+          "Réduction pour fratrie à partir du 2e enfant",
+          "Bons vacances CAF acceptés",
+          "Places spécifiques pour enfants suivis par les services sociaux"
+        ]
+      },
+      {
+        "heading": "Conditions de participation",
+        "paragraphs": [
+          "Pour s'inscrire, l'enfant doit être domicilié en Indre-et-Loire et être à jour de ses vaccinations obligatoires. Un certificat médical d'aptitude à la vie collective peut être demandé.",
+          "Des séjours adaptés sont organisés pour les enfants en situation de handicap, en lien avec les services Handisport et les structures spécialisées du Département."
+        ],
+        "bullets": []
+      }
+    ],
+    "faq": [
+      {
+        "q": "À quelle période ouvrent les inscriptions ?",
+        "a": "Les inscriptions pour les séjours d'été ouvrent généralement en mars. Nous vous invitons à consulter régulièrement touraine.fr et à vous connecter sur votre espace famille pour être informé en priorité de l'ouverture des inscriptions."
+      },
+      {
+        "q": "Mon enfant peut-il partir s'il a des besoins alimentaires spécifiques ?",
+        "a": "Oui. Des menus adaptés peuvent être proposés pour les régimes alimentaires médicalement prescrits (allergies, intolérances). Mentionnez impérativement ces informations au moment de l'inscription et joignez le cas échéant un PAI (Projet d'Accueil Individualisé)."
+      },
+      {
+        "q": "Comment se déroule le transport vers le lieu de séjour ?",
+        "a": "Des points de rassemblement sont organisés à Tours et dans les principales villes du département. Le transport est assuré par le Département et inclus dans le tarif du séjour."
+      }
+    ],
+    "related": [
+      {
+        "label": "Enfance et famille – Accueil",
+        "path": "mes-services-au-quotidien/enfance-et-famille"
+      },
+      {
+        "label": "Présentation des services Enfance & Famille",
+        "path": "mes-services-au-quotidien/enfance-et-famille/presentation-et-demarches"
+      },
+      {
+        "label": "Handicap – Services du Département",
+        "path": "mes-services-au-quotidien/handicap"
+      },
+      {
+        "label": "CAF – Bons vacances VACAF",
+        "url": "https://www.caf.fr"
+      }
+    ],
+    "downloads": [
+      "Programme des séjours de vacances 2026 (PDF)",
+      "Dossier d'inscription séjours été 2026 (PDF)",
+      "Fiche sanitaire de liaison (PDF)"
+    ],
+    "contactCta": true,
+    "demarche": {
+      "steps": [
+        {
+          "title": "Étape 1 : Consultez le programme des séjours",
+          "text": "Dès l'ouverture du catalogue (mars), consultez le programme des séjours sur touraine.fr pour identifier le séjour correspondant à l'âge et aux centres d'intérêt de votre enfant."
+        },
+        {
+          "title": "Étape 2 : Vérifiez votre éligibilité et calculez votre tarif",
+          "text": "Munissez-vous de votre numéro d'allocataire CAF et de votre avis d'imposition pour calculer votre quotient familial. Le tarif applicable vous sera indiqué directement lors de l'inscription en ligne."
+        },
+        {
+          "title": "Étape 3 : Déposez votre dossier d'inscription",
+          "text": "Complétez le dossier d'inscription en ligne ou papier, joignez les pièces justificatives (justificatif de domicile, attestation CAF, carnet de vaccination, fiche sanitaire) et transmettez-le au service concerné avant la date limite."
+        },
+        {
+          "title": "Étape 4 : Recevez la confirmation et procédez au règlement",
+          "text": "Après validation de votre dossier, vous recevrez une confirmation d'inscription. Vous pourrez alors régler le solde du séjour selon les modalités indiquées, en utilisant si besoin vos bons vacances CAF."
+        },
+        {
+          "title": "Étape 5 : Préparez le départ de votre enfant",
+          "text": "Quelques jours avant le séjour, vous recevrez les informations pratiques (lieu de rassemblement, liste du trousseau, contacts de l'équipe d'encadrement). Un numéro d'urgence est disponible pendant toute la durée du séjour."
+        }
+      ],
+      "contacts": [
+        {
+          "name": "Service Séjours et Loisirs – Direction Enfance & Famille",
+          "role": "Département d'Indre-et-Loire",
+          "email": "contact@touraine.fr",
+          "phone": "02 47 31 47 31",
+          "address": "Hôtel du Département, place de la Préfecture, 37927 Tours Cedex 9"
+        }
+      ]
+    }
+  }
+}
