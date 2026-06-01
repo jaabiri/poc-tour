@@ -153,11 +153,20 @@ const run = async () => {
   console.log(`   Nettoyage : pnpm payload run ./scripts/add-demo-actus.ts --clean`)
 }
 
-// `payload run` awaits the module's top-level promise (see seed.ts) — a floating
-// `run().catch()` lets the runner exit before the writes land (exit 0, no rows).
-try {
-  await run()
-} catch (err) {
-  console.error('Demo data failed:', err)
-  process.exit(1)
+// This module exports `addDemoActus` for seed.ts AND doubles as a standalone CLI
+// (`payload run ./scripts/add-demo-actus.ts [--clean]`). Importing it must NOT
+// trigger the CLI: seed.ts imports `addDemoActus` and creates the admin user
+// itself, so a top-level `run()` would query for that admin BEFORE it exists and
+// abort the whole seed on a fresh database. Only auto-run when this file is the
+// script passed to `payload run` (its name appears in argv), not on import.
+const invokedAsScript = process.argv.some((a) => a.includes('add-demo-actus'))
+if (invokedAsScript) {
+  // `payload run` awaits the module's top-level promise (see seed.ts) — a floating
+  // `run().catch()` lets the runner exit before the writes land (exit 0, no rows).
+  try {
+    await run()
+  } catch (err) {
+    console.error('Demo data failed:', err)
+    process.exit(1)
+  }
 }
